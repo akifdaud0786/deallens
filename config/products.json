@@ -1,0 +1,46 @@
+{
+  "version": "products-2",
+  "products": [
+    {
+      "product_key": "asus-x1504vap-bq224ws",
+      "brand": "ASUS",
+      "model_key": "X1504VAP-BQ224WS",
+      "display_name": "ASUS Vivobook 15 X1504VAP-BQ224WS",
+      "aliases": [
+        "X1504VAP-BQ224WS"
+      ],
+      "status": "provisional"
+    },
+    {
+      "product_key": "asus-x1504ma-bq832ws",
+      "brand": "ASUS",
+      "model_key": "X1504MA-BQ832WS",
+      "display_name": "ASUS Vivobook 15 X1504MA-BQ832WS",
+      "aliases": [
+        "X1504MA-BQ832WS"
+      ],
+      "status": "provisional"
+    },
+    {
+      "product_key": "asus-x1504va-nj2324ws",
+      "brand": "ASUS",
+      "model_key": "X1504VA-NJ2324WS",
+      "display_name": "ASUS Vivobook 15 X1504VA-NJ2324WS",
+      "aliases": [
+        "X1504VA-NJ2324WS"
+      ],
+      "status": "provisional"
+    }
+  ],
+  "listing_pins": [],
+  "listing_pins_enabled": false,
+  "replaced": [
+    {
+      "product_key": "asus-x1504vap-bq541ws",
+      "model_key": "X1504VAP-BQ541WS",
+      "replaced_by": "asus-x1504ma-bq832ws",
+      "on": "2026-10-03",
+      "reason": "Absent from the 19:05 UTC repeat Shopping response; its only storefronts (asus.com, ASUS eshop IN) form one Related Storefront group. Replacement chosen from existing evidence: X1504MA-BQ832WS at Vijay Sales in both broad responses."
+    }
+  ]
+}

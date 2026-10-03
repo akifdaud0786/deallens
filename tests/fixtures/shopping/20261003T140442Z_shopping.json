@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "fetched_at": "2026-10-03T14:04:42.517480+00:00",
+    "kind": "shopping",
+    "params": {
+      "engine": "google_shopping",
+      "q": "ASUS Vivobook 15",
+      "gl": "in",
+      "hl": "en",
+      "google_domain": "google.co.in",
+      "location": "Mumbai,Maharashtra,India",
+      "no_cache": "true"
+    },
+    "search_id": "6ac10b76a26f566bae26b24b",
+    "status": "Success",
+    "usage_before": {
+      "this_month_usage": 0,
+      "plan_searches_left": 250,
+      "total_searches_left": 250
+    },
+    "usage_after": {
+      "this_month_usage": 1,
+      "plan_searches_left": 249,
+      "total_searches_left": 249
+    },
+    "credits_used": 1
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac10b76a26f566bae26b24b",
+      "status": "Success",
+      "created_at": "2026-10-03 14:04:38 UTC",
+      "processed_at": "2026-10-03 14:04:38 UTC"
+    },
+    "search_parameters": {
+      "engine": "google_shopping",
+      "q": "ASUS Vivobook 15",
+      "location_requested": "Mumbai,Maharashtra,India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "google_domain": "google.co.in",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "ASUS Vivobook 15",
+      "shopping_results_state": "Results for exact spelling"
+    },
+    "shopping_results": [
+      {
+        "position": 1,
+        "title": "NEW 2025 ASUS VivoBook Intel Core i5-1334U 24GB RAM 1000GB SSD 15.6\" Wind 11 PRO",
+        "product_id": "11828713306283704546",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:11828713306283704546,headlineOfferDocid:11828713306283704546,imageDocid:14014809832457299914,rds:PC_5874724162442542281|PROD_PC_5874724162442542281,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "K8e_z3icdZTJqvPYEccT8gL9CHedD8PRkWRJvnih4WiyJVnTkayN0GjJGq8t27Loh2luD9C9CiGQZ_kakufoZTvQ2SWLKgqqiiqqfvz__advPov6nwV_F5JRxUK2ysbJPpBHZRp49ufxMuS3bKrzfxAEC1mGIEmwhizJAIqm1j9nyZS0w6nOv_t7VSR5W_eFVZbFRRqy_9PyS90lp-KPPAUIigUcS0KKZiDHcQT1_SW_foUHMaZZhmIgRawhRUGagpAlvj04lhT_79yPH7fi8vwb7_ruF1zfh3QYmi8E_eNpfE367vvuP268T5_V6YfbrS2-_vXxReQ1WxO1oxfi6djJ4x4RVaLIz2NoDrmqV3vU3iKlrT5P7Wfdf1btZ9H_NCTjvcx-_fNv6J6J4iUTbX8cseQA15-Q15kPk6zGYzAOdieXpkLjxJ-WoD3BLJgO9lIBG1cfiSfsTGiWloTtvEfQ9vHO62gp97k6UFs3hT7AEDeRxy-Gmi8GkVEmxLInOWMC8dPuq8hQWrz3CT0JxkuAorvjmYYhYRioGNp4ABj7s0eMhtkQiXOuOjPkKQw0kJH6kLVH0j3nKFJYYAPZDmR2Lvp8zJYI5s3YRh21pA22cNd6Tj-aKa7kvS_Pex8tiT_uMdl2TjBbiapBDFvV600qkaqDp-qOH45O2o6yL-fA66Y-C5zhSGRL1j2gI_FkArjeDjHwXWLJZH1O8egfcXRzIC4xEdWmZ8rHJYrMsP2wROKYnwVk-U6UhsLzSI5UgvV77slnG-TnIrSpQsWjdxY8H0VGJDmU08qkGWaPTM7bom1cGWIhb_QqQ1Vgd8Z0JAXgY34J_BykAFFKrQuOaj6tIPKS4Arz1gduI0-F32p-j5H7uojdYjptcysFWPhhvl7Kr4CX6cm11k6VeV1c5hAQ-kccl1Eg0mBn-wq0NwTDEYB8oQ8ogvkpewFZF7_-5V-x4iCRP3iiym8Bx-8q0XmcVh0wq0jVRDJwmejMlftEbMbrSl0ZjaA4Fw_ttDizzMsNXEWU2OPQzAiDlusrtSnH1GWturcHTnLTrGYC4_3NtUR3-0L8_S2O3SK7XYqV6zmHLS-YFb-un90Y0I2DeHalLBav9hbiqh2n6hJsDv5gXGoYF6lu00ye3xHh7bTZl_h1da7CcIm13W3PTlmklOXZ5CT9RNuTtAziLd3hnnm-piPeEdXY5Q3kah7aiidbWyVIeH_jkbjlk4RD-niTm3U4MdLxw4ncLqTtxzTvj6EojrHLAuvYJzazvhwKfeGuXDKhcTm9vymWpexRzAu-i2IUIuPgaZa51aQtINKXxuQlTRJ5WXLFxjO2__0BDTfi9rLRDlu4BuRmDQhyk2QAbNZltkmJHGxShs43BQvhJoNcudq4Wy-T2EQ68EPg1Oz9rLN-Ul156v1NwtsHJSKnvgv7dZM8DhUK7x8U1pXVBzhVSBje38zXQuLHSyL4F0E2EqxZkVxVtuOdZUF3anIKEnh_x-Lj1jZggNQKLcapeDQXcNJ1cEr2cyq4J46Xd3SOWzcn3UBHuy7MmltoUKpTNL1wNtzL3rV7xnZL5CbqQJ7nevVsZ07rvRrc7_WQXplbUoTLWUr3lSKzBy3SHt5sj-fiHtx3J56L8118ne5pnng2HxWOkOanzKOL18sA7ndXMfS1ixMwUQEfCKqNFahR6V7abkdTy55aTs6DIej5QzskHc6cZXV8Xs0ixcWgPHMTB2u1f6gPaRUahlodxfpysw6YcuMDLURJVwEhA-Wu3vHo6diqe-HLg5Kx-nNHZxV1fz4CtmRiHh3A1EYLU_ZzrH9YHbfmE84AhCsL-u3pjowz8NMcLc9zdRx7-sbhTvK0lYQUyMhExrH8Cx3f36Pt-UuwoKvhaS_LaOOlsOZZIy0JEa_4YYjzLQ_m616-zpbHk6bXUMaSXc1Fo8wlg6bn06H7R40I5v2Zv6Y9vqbiA4b2dvs7JV5qDg",
+        "source": "ubuy.co.in",
+        "price": "₹1,16,076",
+        "extracted_price": 116076,
+        "rating": 5.0,
+        "reviews": 19
+      },
+      {
+        "position": 2,
+        "title": "Asus Vivobook 15 Intel Core I5 12th Gen 1235u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504za-nj521ws Thin And Light Laptop",
+        "product_id": "4744808846931545102",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:4744808846931545102,headlineOfferDocid:4744808846931545102,imageDocid:16700445708691764651,rds:PC_9184045311880784909|PROD_PC_9184045311880784909,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "RizmxHicbVTJzrPYEU0rL5BH-Nb5ZekyGfAnLxiumQwYLlyGjcVoMONngweUh2l9PUidVZREyrP8LXU_R5ZxR8muF1WbqlJVnXN0fv3Dnz6L-l-FcBOTUcVitsrGyTlQkTINAvfTeBnyOZvq_B80S9Mc4Dh6zVMEQzMEIH_Kkilph1Odf_v3qkjytu4LuyyLizxkvz_x17pLTsV_y_8k1iwANM2wgFvzBLum1wzx3SW_fiUP0pEnOBrQDEUQHAdYjuYB_5eDa8vH36_98DEXl-ffBOSjL7i-DekwNF8I5ofT-Nr07Xfdb2m8TZ_V6ft5bouvf75_kQTN0SQt8kI8Rd1u3EOiSpTdMwqtIVf1ag_bOVba6vPUftb9Z9V-Fv2PQzLeyuznb_4Nb5kkXTLJ8ccRyy5AlGj4lMgEfR45RBzkjUu7zZ2M_bwOFHdtktbFI3kqg0yEMSTcxaHNMJpcqmqcBYcFduegaTVvlydFh5mkYx4e1q8xYRlut4OIctskHE10rnyLPFEmoYv-IsLg3J5zYFJeQAxIcQjTc3UvdJ94lxM21l0UxCAFGuOBqU1UrAdN3GBy9MNFu0cgbjOvdVLKWVKyInCTG_G5TSIPi17rGnucKwnJyHawg9FZHFzsfpiLSSNinNzXhzHm6Kh1e6QAytyNVN5ZtImtG0LELe_zfexhgJd8DmQXW50_2bBSLWWqsT8GCaxmW3lEcW9pCbzes2YyinPcps2kY1CpyS6--Qp_NmXdTImMDiB_wIBBqOPtPJgsO9Aj7Lv3rLdcc4lnE2IzCAjg71omAwzlgx12KBPtSCzmjV5lsAqczpwiSgQ-FpbAz1-4QFqpddFVracdxL7Zxl6EMyro4FT0Y4S6fIqVGJt9-8JHe8WD-v5xvZRfgbBjJmTTJYPm5ukeJllbAzaXMOwfZazNd87ZECxPAGpNcoAmuB-zlyDr4uc__nJUXCgJB09ShS3gBaOS3Ptp1QGrilVNogLExme-3CdSM15X6spsRMW9eNDQjpltXWZwlWDijEPzgBi0fF-pTTmmiLPr3hl4GaVZzQbm-xuyJbR9Sfz97XhERTZfihXy3MNWEK1KWNfPbgyYxoUCt1IWW1B7G_KVwau6TDYHfzAvNXksUt1h2Dy_QcIztIcvC-vqXIXhctSMec9NWayU5dniZf3EOJO8DNKcGrhnn6_tUHAl9YgEEyLNg1vp5GirBIrvbwKUtkKS8FAf512zDidWjj7cGHUh49ynxz4KJWk8Ig7YUZ847PpyKPSFv_LJBMfl9P6m2Layh0dB9BE8whCaB0-zra0mbwGRsoDOy5cv5GXJFxvP3P6fA4bcSNvLRjtsyTWgNmtAUJskA2CzLrNNSuRgk7JMvik4ktxkJF-uNmjrZTKXyAdhCNyau511zk-qq0C_v8l4e6cl6NY3cb9ukvuhguHtg8a6svoApwqKw_ub9TpI-nhZhAAR6UDRfigyUnfO0bBtEk1NTpME3t-wdJ_bBgwkvYKLeSruzQWcdB2ckv0jFdGJF3YGk-MW5RQKdGh0YdbMoUmrbtH04tlElz1yetZBJUSJOlDnR716tg9e670a3G71kF7ZOSnC5Syn-0rZcQct1u7ewxnPxS24GSeBP-bG8Trd0jzxHCEuXDHNT5nHFC_KAO6NqxT62sUN2Lgg75BUGztQ4xJd2s5g6GVPLyf3zhLM40M7JB3O3GUVPa9WkeJiUJ65hYO12t_Vu7wKTVOtIqm-zPYB0-h4YMQ46SogZqA0akOAT9dR0UUoD0rG6U-DySr69rwHXMkeBXh42Ve8sGX_OOofdsevhYQ3AYF2oj4_0ci6gzA94uV5rqKxZ2Yed7KnrWSokOyOyHhOeEnH9_dwe_4SLPBqetorMsb0hMU6a5Qtw5dzCndTesx58Ljud9eH7QmU5TW0uWRXa9Foa8lIy_OZEP2vRwKP_Vm4pj2-ptKdDJ3t9j_r9Whd",
+        "source": "Shopsy By Flipkart",
+        "price": "₹75,990",
+        "extracted_price": 75990,
+        "delivery": "Free delivery",
+        "rating": 4.3,
+        "reviews": 71
+      },
+      {
+        "position": 3,
+        "title": "ASUS Vivobook 15 X1504VAP-BQ541WS",
+        "product_id": "3865525040352104262",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:3865525040352104262,headlineOfferDocid:3865525040352104262,imageDocid:12582700387511861038,rds:PC_6877112186869601676|PROD_PC_6877112186869601676,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "8Q4rP3icbVTJzrPIFY2SF8giD_Cv88tSgc3kT14wFJMZDMW8sYACgxltYxujfpjW14PUWUVJpDxLt5Q8S9xRsutFXZXuratzru459e_f_fGzqP9Z8A8hHdVAyFf5ODmHdaxMA8_-NF4HfM-nGv99zdIURVJgA9YUSYANSZM_5emUtsOpxt_-rSpS3NZ9YZdlcZWG_Lc7_lJ36an4b_kfBEmxJAPAmmUogmBp4n377opvP5MH8UizDEMQ5DvN0hwNCJqhvzm4tnT87doPl3txff2VRz76GtSPIRuG5itB_XAa30jfftf9GsbH9Fmdvr_f2-LnPz-_irzmaKIWe1EwxZ08GpCoUkV-xZE1YFWvDNjeE6WtPk_tZ91_Vu1n0f84pOOjzH_5_Z_g8JTE21N0_HEMJBcg3z2EkUtZ7egXXXIJoKxlYeVjud0XXtXlPieniywn_ozSs09lEF9wY3lYDR7vXrKAOIk9S7HgRMRha8Zd_gxCam36wQspFeFK1iWOqjJ4Y-StMDprXPkNoXqSMyW-uUEyvntdcMGB7juEs8lIuQ_AbKe-VSekTFl-Pgc-9uOlhR4hJDiqejfEhuu5VXwWupzkQKo2L9-XO7NJpOzsGqFCqIWPW0skprwL7ADe5kThVNOTx3SNCVN2VRRyadycXj6UH0FXXU2f6lLVrb0loRNCmI3IKvNGvrgheLkB-ysH2iW563smM150CYVUa7bs5EfOOo70IIej_-Z2SwAW8gCrSKGMGLR320-0pNFHS6kOloL3SdQ2hd8iBM2XB6jIVEc7CDhQ-KOZt-2ShomHiWQOA-2ZR8EYt3AK21HL_FmKe9cLugbJZCDgRq9yWIVOZ07xWgB-wC-hj0EG4EapdcFVrZcdJsiVBcoJB8o5BxenxwYmuRBBwrT8aU6BfHPXVv_9fLuWPwNepiZkMwUplzCpB4ZkEnMDF703KvfYe_n5tCUY7q12mmTfpgA_5m-x1sUvf_jXUXGhyB88UeV3gOP3leg-T6sOWFWiauI6RExy5kojFZvxtlJXZiMo7tWDe-2Y29b1Dm4iTJ1xaGYYgJbrK7Upxwyxdt07AyehLK-Z0Pz4gmwR7d7y__hyPKIiv1-LFfLcw44XrIqn61c3hlTjQp5dKYvNq70NuWrPqbpENgd_MK81eSwy3aEYjB-Q8Pba7Es8XZ2rKFqO2v5usFOeKGV5tjhJP1HOJC2DeM_2Qc-83uiQd0X1iHgTIs2DO_HkaKsUCh9feCju-DTloD7e5YaOJkaKL26CuohyntNsxJEojkfEAjvuU4ehr4dCX7gbl05wXE4fXxTbVgx45AUfwSOMoHnwNNvaadIOEBkDNrik1gQuS67Yeubu_zugyK24u261w46kwXr7_k_W2zQHYEuX-TYjMNhmDIW3BUuS27dLytUW7bxcYlPpwA-hW7OPs876aXXjNx9fpGD33IjQrR-CQTfp81DB6HHZBLqyuoBTBYXh44v1JiReclHkISIdKNizIiFVdo572ybR1OANSQTGIxCf97YBA7lZwcU8Fc_mCk66Dk6pMWcCOnG8vKdw0CK8RqEO912UN_fI3Khu0fTC2URXAzk946ASolQd1ue5Xr3amdN6rwaPRz1kN-aeFtFyljKjUmT2oCXa05ud8Vw8wsf-xHNHvD_epkeGU8_hk8IVMnzKPap4rwwE_f4mRr52dUMmKcgnJNXGDtWkRNe221ObxdgsJ_fJENR80Q5pF-TusopfN6vIgmJQXtgKQlrtn-pTWkWmqVaxWF_v9iHYoOOBEpK0q4CQg3Jf73n4ch0VXfnyoOSs_tpTebV5vJ4hWzJHHh7A1CYLU_bzUb_YHUfzKWcCAsmCfn-hkXEHfpqT5XWu4rGn7lzQSZ62kqBCMjKRcyz_lo7vG3B3_hou8GZ62vvklOnxi3XW1rb0trnHP01xvuNwvhnybbY9fm15zcZc8pu1aBtryUnL86kI_e-NCGbjzN-yPrhl4pOMnN3uPzCkc4o",
+        "source": "asus.com",
+        "price": "₹73,990",
+        "extracted_price": 73990,
+        "rating": 4.1,
+        "reviews": 52
+      },
+      {
+        "position": 4,
+        "title": "ASUS Vivobook 15 X1504VAP-BQ541WS",
+        "product_id": "3917371016418089564",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:3917371016418089564,headlineOfferDocid:3917371016418089564,imageDocid:12582700387511861038,rds:PC_6877112186869601676|PROD_PC_6877112186869601676,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "lQFfH3icbVTJrrPYEY6SF8iiH-Cu88sSYDDgKy8YDpMNmHPgMGwsRoMZr40NRnmY1u1B6qyipKV-lr-l5FnaiZJdL6pUquGrkr5P9e8__Pkzr37JhYcYDxoW01U6jM5xHapjL3A_Ddc-u6djlf1zzZPsmiUJckOTHMHxzIb-KY3HuOnPVfbtP8o8zpqqy-2iyK9yn_7-xN-qNj7n_y3_TFIMR7EEseZYhiS5DfmKvrtmt6_UUTptOJYlSeqV5jb85gXBbv56hLZ8-v3aDx_3_Pr8u4A89AVXjz7p-_oLyfxwHl6bvv2u_Y8bHuNnef7-fm_yr3-ZvkiC7uiSHroBHsNWGQ6ALGNVeYaB1WeaUR5Ac4_Upvw8N59V91k2n3n3Yx8PjyL99Y_fgH6SpdskOd4wYBkSrmqp3hqTNhi9uK1J6CmV05IKXnBsevMzDSwlDTAZdha0_SjKOss3ZUOOZVExlYyKwUxnTUNGahb6fnOMcTibncB4TQRdtSTdJSohMDzrcl5wPXQuNcuWYl1dxaISypoyRYS-5jCpCjUYZJbbDZPtj3fXtw6-Z9gWZRiwnbv0kl1D35CDFwryI9Vq-C7CEPktI2JvWmLZwibFW6asHFIK9n5jeS7gRafOHnAxaYxDJiQUYMqRkZKWlmAceXLDpN3rxnaO4zrrvcZ4elgpzbZ0IGVRuVxuPNKZk8aqXHXUbXV8pp6xRnVKY5Up8kbUkUpGHigL6A2XOBCV0BvW5qVeH1wxiAh6jQFjxTUkLVfBidyQGYUfvs8wmU_GpqZY2G0IRPEfAZk1WM5k0ysb1ELJ1QwvvJSVQ0LTJGAb40h1KRImrY4UCotZbZQpKH2nNcdwLRIeFhbfy4iEALRaGSLUrOeLL5RRZAzXw8UJmg_XM6RcMfZRDZ6xX1ohUTOJAsXv59u1-EoICjMim80ppQBR1bMUG5k0WIzuUMJT56aX85Zk-ZfaNxRH0BTxY_oSa5X_-qd_nVQIJOHoSpqwI3hhX0pwOq9awiojTZfWPmKjC18cYqkebittZdaiCq8u2Oun1Laud-ImgdgZ-noGmHjxWmp1MSSIs6vO6XkZJWnF-ub7G7IltHvJ__3tdEJ5er_mK-TC404QrVLYVM928JkaAoFbqYstaJ0N-HLPa4ZM1UevN68VdcoTw2HYLHsA0t3rsycLm_JSBsFy0vf3AzemkVoUF4uXjTPjjPLSS_dkjzv2-doOBChpJySYAOku2ElnR1_FQHx_E4C0E-KYB8ZwV-pNMLJy-AEj1AaMM43zIQwkaTghjrDDLnbYzfWYGwt_4-MRDMv5_U21bfUAToLoIXACATCPrm5bO13eEWTCEnRWMGsyKwo-37rm7v8cMNRW2l23-nFHbYj19vVP1ts4JYjtpki3CZkR24Rlsm3OUdQ2pfhitUU7N5W5WD4KvQ8r7nExOC8ubwL9_ibj3URLAFYP8bCp4-lYguDxQWNDXX0Q5xKI_fub9TpI-kglSQCIcoBoz6qMNMU57W2bQmOd0RSJDw8sTfemJnqKXoHFPOdTfSXOhkGc48OciOjMC8qeyXCDsjXyDbBvg7S-ByatwbzuxIuJrgfkdKyDCoBirV9f5mr1bGZe79yKeDyqPrmx9zgPloucHEpV4Y56pE_u7AyX_OE_9meBP2X70218JFnsOkKUQzHJzqnL5C_KCNztb1Lg6Vfos1FOTYDSatvXogJdm3bP0MuBXs5wYklm_tCPcYtTuKzC583KE5z36jOzsL_Rukmb5FVgmloZStX1bh8xjU5HRozitiTElCj21V4AT-ho6CoURzXljOeeSUv68Zx8rmBPAjgSYxMtbNHNJ-PDbvmNEPMmQSJFNO5PNLCwF8Y5Wp6XMhw65s7jVnb1lQxUilXIlOeEl3Q87wB2ly_-Am6mq78sZUxXWKyLvrZlQL7iyZTme-bPt4Nym21XWFtuTZtLerMWnbaWlLJcjwnQ_3okYj5chFvS4VsiTVTg7Ha_AZ7Ab-M",
+        "source": "ASUS eshop IN",
+        "price": "₹73,990",
+        "extracted_price": 73990,
+        "delivery": "Free delivery",
+        "rating": 4.1,
+        "reviews": 52
+      },
+      {
+        "position": 5,
+        "title": "ASUS ‎X1504VAP-BQ224WS Intel Core 5 120U 15.6 Inches Notebook...",
+        "product_id": "11178454701273335360",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:11178454701273335360,productid:4516433007114804088,headlineOfferDocid:8682891943419002241,imageDocid:14960043688596679555,rds:CID_11178454701273335360|PROD_CID_11178454701273335360,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "ad1v03icdZTLrrPIEcej5AWyyAOcdT5Zau7gIy-4NAbMxXRz31hcDQYDx8Y2RvMwozMXabKKMiPNs3wjJc8SJ0p2yaJaJVWpft36_7v-8bs_fpbNr6V4l9JRC6R8lY-Tu6fi7TSI_E_jZShu-dQUP9MMwdIUBQBHEDQPaMDzP-XplHbDsSl-IQiC42mG5gBBchRFMRQL_laXadE1felUVXlRhvw1hWd5khcIgaZoQgCAJGniL805PZb_Lv9C0AILAE2xPM8ILMsJDMN8dymuX1lZVw7_C_LNHjnK4f9Vf_i4lZfnX0Xs4y9Bcx-yYWi_EMwPx_FF-_a787-O8T591sfvb7eu_PrnxxdZ1F1d1mMvCqb4rI4mJOp0qz7jyB4KzahN2N2SbVd_HrvPpv-su8-y_3FIx3uV__b7P8HhocjXh-z64xgoCHhqUOPFiDKlowPVkEw_cRFJhHaLdulixKE2sgj4i-NJWhgWuxzACZ9jOqOSKQfdpewNM-6SW6qJhKUEqqUZTNbaH15UhDmYcQrqGRPJ018SI1c6PesTv-xVnHYigzBhZue6tVuGSdou8EmaefFhQU5u3qpO0Q5zQPlM0I4m8l9cz76mPvJR310QoB_WdphjL3AKRb0kfWL5Z1WyNDVOVchYXku8-muLHD_C8xj6ITojor4FhDqjMGEdRapSX5BjoE5uV7cJ1Zk4UPXi7JMJYKqyZU7hCc2lUqPcQ3czpBmvtY3StxfcIiZRjMryCyMNawuR9s3aMmPuj1Xi06SnHZmYVD8cf2KycKAzkvB9rSOKViDjPrC8bhzLSBp9fxpTSmpTz3DyMNgFJ3fOTshxAovG55ZAahEE_himVEc5Wrd76RVYAcQqGUhFa9Q5rEP3bE0xJQE_EJfQL0AGIL1tDAlp9tMJExQt6iNphderYjrxjQq1NBWT497XkmvgT7YdSej7-XqpvgJRZSbscCWpVjBpBo7kEouGi9GbNTr0Xn46rglOIADFkq_vRYIf85dZm_K3P_z9sEVQFveerIkbIIi7WkaP4-oM7DrRdJkKMZechMpM5Xa8rrSV1UpbdPHgTj_kjn25gasMU3cc2hkGoBP6WmurMcO80_TuICg4yxsutN7fsCPjzcv-72-HAy7z26VcYQ_tN6Jk1yLbPF8yMy2CIr_aLo6o9Q4U6p2gGQrZ7v3BujTkocwMl-GK4g4Jb6fPviKy9amOouWg724mP-XJtqpOtqAYR8adlGWQb9ku6Lnniw5FJGsHLFoQ6x7cyEdXX6VQen8TobwR01SAxnhTWzaaOCX-QAk-R4z7mGYzjmR5PGAeOHGfuhx72ZfGIlyFdILjcnx_2zrO1oQHUfIxPMAIWntPd-yNrmwAkXGALiqGIoqqEsq1Z23-qwFDruXNZa3vNyQLqDULCGqd5gCs2SpfZ0QB1hnHFOuSJ8l1TgrVao03Xq7wqbIXhxA1_P1k8H5aX0X6_U0JNg9ahqi5Sybbpo99DaP7Bx0Y29UHONZQGt7f7NeF5I9clkWISRdKzrxVsKa6h53jkHhqC5okAvMeyI9b14KBpFdwsY7lo72Ao2GAY2rOmYSPgqjumCLocEHh0IC7c5S3t8iiNVS2vXSy8MXEbs-5uII41QbqNDerZzcLeu814H5vhuzK3dIyWk5KZtZbld_rif7wZnc8lffwvjuKwqHYHa7TPStSzxWTEklZccw9pnxJBoJ-d5UjX7-gkEtK8gFJrXVCLanwpTvvGHox6eWIHhzBzB_6Pj0HOVpW8fNql1lQDttnYQchq_UP7aGsIsvS6lhuLjdnH9D4sGekJD3XQMpBtWt2InwiV8MXsdpvc9547pi8pu_PR8hX3EGEezB1ycJV_XwwPpyzwIqpYAECq5Jxe-KRQ4M4zcnyPNXx2DM3ITgrnr5S4JbkVCIXePFlHd834eb0JVzg1fL0V-SvzScu9kmnHAUSr_xhyfOtCOerqV5nxxMp22tpa8mv9qLT9pKTtuczEf5Pjwxm8yResz64ZvKDjNzN5p8OsnYg",
+        "source": "Amazon.in",
+        "price": "₹72,800",
+        "extracted_price": 72800,
+        "delivery": "Free delivery",
+        "rating": 5.0,
+        "reviews": 72
+      },
+      {
+        "position": 6,
+        "title": "Vivobook Go 15 Laptop, 15.6\" FHD NanoEdge Display, Latest AMD Ryzen 5 CPU(Beat i7-10710U), 8GB RAM, 256GB PCIe SSD, Privacy Shutter, AI Noise-Cancelin",
+        "product_id": "17875121259657341671",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:17875121259657341671,headlineOfferDocid:17875121259657341671,imageDocid:1779090965618136815,rds:PC_10980985650226148612|PROD_PC_10980985650226148612,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "vHPU6XicdZLZqvPIFYVD8gK56Ac41_kxlGbLB19oKE22JEulwdaN0TwPx5YsWeRhmtMDdK5C0tDP8jckz9JOSC6b2lUU7F21Fqzv33_482da_pJyDz4cFI-PN_EwWifiIo89t_1puPXJFI9l8jPGbBkKwzGcYmmKIUiMZrCf4nAMmz4vk2__UaRh0pRdamZZehP7-Hee_K1swzz9b_-fGMOw4LVoisa2GEFvMeq7W3L_Sp6EKwbY7asomgI4TmPklsbwv55sU7z-TvOHjym9Pf_OIRd98cpHH_V9_QWjfsiHl9S337X_OYbH-Fnk309Tk379y_xF4FRLFdSLc_bGSysNR4gVoSw9L2ejTxStOMJmCuSm-Mybz7L7LJrPtPuxD4dHFv_6x29gP4vCfRYsdxg80QYIDIVfNaPXSLhb2UfPxXrX854OZNV41QgHjLjr2ZekxijfsV0baGPUqbMhBZNbJZQnUzaqrecZ9z6scyB7rVZdfB1LPT60Xelm-UWvE3BBYJxiH_uwmsQKoATCenkmfqG6OCZHoKldZWgtwrs5Miu7lTboWEAYYsEbMCADV2pT0X44hNTooKYCH6yJS9W26M4IJLP7-icAKgjxhY4kjXakJgxgYISKZgdQXVwvx1yi8VPIPi2iXix8S-hyEiCRw01Hkux6WfUq0S4A-_Bw6WDVGm-3A-niVGifJdfvpNlX8uXlFXd8FXM6fb3UBvXSc2zFK1OpBxdcosISm1DT9Jc2kPTVEAzfI015kI1GooKOl15pkWnlKfrahIlMabpLgkvjjjqWj-HKu4k_hhEYzXitF4Sxpd_OC4IUbq_WMz7zdURIciDGSMI9Pqm1IoaFb7X6eCF44Hrc6rsJiAAk5fLlXzGeph-gqDV6A49JQx4wG8YgbofFc6019inD6bw6cgr---V-y74CTqJGZDIpLmUwKHsGZwKdhKvWHQv72jlxle8whsUAQeNbQOLgx_gFa5n--qd_XWUbCtzJERRuD1juUAj2nG9aYBSBogqEj5igYrNjKNTDfaNs9JqX7ZsDD-o1No3bBO4CDK2hrxfogYbtCqXOhghtzbKzelZEUVwyvv7-hkwB7V_4v79dryiNp1u6QY592nO8UXB0-WwH_wUF5LYbeTU5pTMhWxxYRRPx-uT2-q3Er2mkWRSTJA-IOYcXGSJHF1VxPq9X9TAdt2McyFlWGayo5ZQ1imsvTNHB65jnSx1ytqBcEadDpDpwL-SWugkh__7GQWHPhSELtWGSavo8MuLlww5Qe6aseVyOl7MgDFe0BealCy2Gvp1SbWXvbDjCYc3f32TTlI_wyvEugld4hvrJUU1jr4p7gEUMIJOMIrAky9h05-j7_2dA4Tthf9uppz1OA2JHA4zYhTEAOzqLdxGWgF3EUMku3eL4LsbZbLNDeycWt6F44nrfLrePStu6YXHnyPc30dvPpADt8sEf6TqcTwU8Pz5IT5M3HyAvIN-_vxkvQ8JHLAgcRLgFeXORRaRI1vVgmjga64TEMe_48IR5amrQ4-QGrnqezvUN5JoG8vC4RDzKWU46UInXoIRAvgYP7Tmup7NOKnZad3ylo9sRWR1joQyiUOmJaik3z2Zh1c4pweNR9tGdmcL0vFZidCxkaXtSA3V2Fmuo0of_OOQce00O1_v4iJLQsbggtfkoyWOHSl-RAa873IWzq95snwlSfIa4Upu-EmTo1rQHilyP5JrbM4NRy4d6ClsvttfN5Xk30shLe_mZGJ5PK92szOLmrOtKcRHK22SePBJdTxQfhG0B-Bhkh_LAwadtKejGZSc53mrPAxUX5OM5-9uMuXLwBMYmWJmsW67ah9myNBeyOsCQxGvTEw2M3XPjEqzPqrgMHTWxXis66kaEMs5IWMxuuRc6rnuE--qLv8K77qivHVO6w61GpRKmCLHXfdaFZUr85X6U7ovpcITh1KS-xndjVUljjXHDcakz-t-MAJZjxd2jzrtHwoyfrf3-N6mKcLw",
+        "source": "desertcart.com.sa",
+        "price": "₹72,051.94",
+        "extracted_price": 72051.94,
+        "alternative_price": {
+          "price": "SAR 2,800",
+          "extracted_price": 2800,
+          "currency": "SAR"
+        },
+        "delivery": "Free delivery",
+        "rating": 3.1,
+        "reviews": 1
+      },
+      {
+        "position": 7,
+        "title": "Asus Vivobook 15 X1504VA-NJ2324WS",
+        "product_id": "5432821007270738963",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:5432821007270738963,productid:16516639321499895759,headlineOfferDocid:14130856623982048097,imageDocid:9838610650915128206,rds:PC_5795730235817662319|PROD_PC_5795730235817662319,gpcid:5795730235817662319,mid:576462563321981126,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "TxPlgnicbVPJrqvYFY2SH8gn3HGeLB168JUHNIfONKbHTCzggOnh2tjGKF9zX1VJlVFUFSnf8kpKviV-UTKrwZaWtPdea7f__sOfP4v6nwV_F9JJDYV8k0-zcyCOyjzy7M_TZUS3fK7RPzCawmia4AgcIzmO5SiG4n7O0zntxnONfqVIAmdxDAAGZwBDsBxN_FIVKerqobDLsrhIY_6dhcQIwFI0jRMciwOSBRzzt7pPz8V__b9yLMHSGKApwGEU9mIE9NcLun7DD-KJYl6iBMAJisWY7wwY99eDa0un3_f9-HErLs-_817gfQnr-5iNY_sFo348T9-Ffifha1-jXyiGJmmcoolXnxyLYTj9dbrPn9X5h9utK7795fFF5DVHE7WjH4fzsZcnA2JVqsjPY2yNSNUrA3a3ROmqz3P3WQ-fVfdZDD-N6XQv89_-iMMPTRJvmugE0xRKLvCAObs95b4ynWxwnmYYYDHRaZaCzBSGRuTrdhYlRkC4TRih0iF0OoKWn-LJRwhmx4tdzYXLPuqq2l9NkMeTgGIhTVtOP64V7gYoyXt5b4VyFfWLHvXYlHXc0ZatLm1CMuy5ywsriLAOrmxdTEBNScevmXQm8th5pq2sRO1MWXJV5aurZnj3jBoey5WqQvhM-_js2RKigxbJUYgeqONnb3DrNHAlBLsggZjtdXKa1WBxiW5IMWHJ1gomwSz6nXV3utBOwGKFSjvn4YQFGNdnIKws_wiCyA1N_Ajs8IibnTU4_nHxpES01oS2-i5EMie7HVcHKlqsTq7M5kimvWyiKCTMqBJQO2s5dFtT4oEfV5EZTbiLnQEa9D5Rw0cqYlSgukaGJ16kyJIRH-cjPnVBK39Yof6wlOnuACz1Q3b1YTdHTRKmeHf1G6QXfZhaPqoDycGOcbX4a7sEEnJhhTonTsRjLGhhqzdGZD2QLDsm1qlI4QRbGGsncNe86fqgrYY8IEGGz1oWICdTuCbEO-hhcokGobJiN0WPH5brpfwGeJl6TZopcLmEST2-3iwxSbjqg1G5p8HPm_MWYzgMEDTOAhIHP-Wve6-L3_70r5PiQpE_-KLK7wDH7yvRfZw3PbCqRNVEIvKYpOFKIxXb6bpRN2YrKO7Fh3vtlNvW5QauIkydaWwXGIKOGyq1LafMY-16cEZO8rK8ZiLz_c2zRW_3eo73t9PJK_Lbpdh4vnvY8YJV8XT97KeIal3IsxtltXl1sCFX7TlVl_D2EIzmpcZPRaY7FIPQHWL-XnvNk6erporj9aTtbwY754lSlo3FSfqZcmZpHcVbtg8H5vlSh7wrqiePN6Gn-XAnnh1tk0Lh_Y2H4o5PUw7q001u6XhmpOOHm3h9TDmPeTGOsShOJ48F9nFIHYa-HAp95a5cOsNpPb-_KbatGPDEC4EHTzCG5sHXbGunSTuAZQwgUUkRGCpLrtj65u7_O6Dwrbi7bLXDDqcBsaUBRmzTHIAtXebbDENgmzEU2hYsjm9znCs3W2_n5xKbSgd-jNyavTc6G6TVlSff36Rw9yBF6NZ3waDb9HGoYHz_IENd2XyAcwWF8f3NehUkfuSiyEMPd6BgL4rkqbJz2ts27s0tInEsNO6h-Lh1LRhxcgNX81w82gs46zo4p8aSCd6Z4-U9hcLOQ4QX6XDfx3l7i01SdYt2EBrTuxieMzCOV0IvVUeiWerNs1s4bfBrcL_XY3ZlbmkRr42UGZUiswct0R7-4kxNcY_u-zPPndD-dJ3vGUp9h08KV8jQOfep4rUyEA77qxgH2sWNmKTAHxBXWztSk9K7dP2eIleDXM_ug8Go5UM7pH2Yu-vm-LxaRRYWo_JEVhjR6vBQH9ImNk21Oor15WYfQtI7HSghSfsKCDko9_Weh0_XUb0LXx6UnNWfeyqvyPvzEbElc-LhAcxdsjLlsJz0D7vnaD7lTIB5sqDfnt7EuCM_L8n6bKrjNFA3LuwlX9tIUMEZGcs5ln-dThAYcNd8iVZ4NX3tZTll-vxqNRphSxB74YcpLjcULVdDvi62zxOW35Lmml-tVSOtNcctP6Bi738xIliMhr9mQ3jNxAceO7vdfwA_KonJ",
+        "source": "Flipkart",
+        "price": "₹61,599",
+        "extracted_price": 61599,
+        "old_price": "11% off₹68,999",
+        "extracted_old_price": 11,
+        "delivery": "Free delivery",
+        "rating": 4.9,
+        "reviews": 60,
+        "multiple_sources": true
+      },
+      {
+        "position": 8,
+        "title": "ASUS Vivobook 15 X1504VAP-BQ1341WS, Intel Core 3 100U, Intel iGPU, 16GB RAM, 512GB SSD, FHD, 15.6\", Windows 11 Home, Cool Silver, 1.7 Kg-B09BB38CMH",
+        "product_id": "12115083753482818248",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:12115083753482818248,headlineOfferDocid:12115083753482818248,imageDocid:16023436340668504717,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "HbfN7nicdVPJqvNmEu3QL5BHuOv-MXyaLMkXLzR8GixLsvRpsjZG8zxcW7ZkPc3PzQDJKoRAniWB7mdpNyTLXlRRUHU4B86p__zj28-s-j3jHnw0Kh6fbJJxsk7EWZ4GjvlpvA7pPZmq9DcMxzAKMARNESSDMxiDk8xPSTRF7VBU6ddfyyxK26rPzDzPruKQ_B_Iz1UXFdlf-y3ACZLYEiTYbhkKkDRGf3dNb19_-Lhn1-cvHHLRF696DPEwNF8w6odifMG-ftf9r42P6bMsvr_f2-yPf81fBE61VEE9O4E3nTtpPEKsjGTpeQ6MIVUO5RG291Buy8-i_az6z7L9zPofh2h85Mmf39RwmAXhNvOWO46eaAPkHeS4bZasKQgf2n0M7MbFF0r3J5S4IwpBqus4VUX4SDhYayNlNF4s5hlgZgCmrS3xja0cHMMJe8vjhaPPQr-1SA-4s97ztoepRNyXpxT3xBhKS4oZV7fmV-QXwFCMPsJCx_JTwepdPAyMMQXM4skLf-45LKxL3XdVXO9KyQG31ZdtKULYjLrReGmyfHcGqLWp0GUWd5U6o2MPxio5Or48Xjy8jR0W1zfyEI5j5PGU30mygzAy9skpIlroSWng4ekHAhgJy7S1glA4B7zqNYf66BtzKkmWjrVKKrO8yQ-V5dprUrfdi4t_aV3dNWwMx7MTgOkpMEyPKH0DX8gQJKRrfb_crvkfgJOoCZk0e2xxm17vgiZo9Jh4M0_gQaq4tTXvMJrFALHFGUBi7I_JKwJV9uc__32RbShwJ0dQuD1gOa0U7LnYdMAoQ0UVCB_RYc3mx0hoxttG2egNL9tXB2rqJTGN6x3cBBhZ49As0AMt25dKk48xYsyqtwZWRHFS0b7-_oZMAe1foXp_u1xQltyv2QY59mnP8UbJbatnN_pUY0OO2cirySm9CdlSY5WDiDcnd9CvFX7J4oNF0Wn6gJijqYsrctuyLoNgvaja_chMSSjneW2w4qGgrElcB-Eea15PP1_skLMF5YI4HSLVgXuhsNRNBPn3Nw4Key6KWHgY71KzDSZaPH_YIeoCypqn5XgOBGG8IAaY5z6y6O31lB1W9sZGExzX4v1NNk35CC8c7yJ4gQHUT45qGntV3AMspgGZ5hSBpXnOZjtH3__tAYXvhP11p572-BYQuy3AiF2UALDb5skuxlKwi2kq3WUMju8SnM03O7R3EpGJxBM3-HbFPOoD40bljSPf30RvP5MCtKsHf9w20XwqYfD4IF8vt_kARQn54f3NeAkSPhJB4CDCLcibiywiRbIummniaGpSEse848MT5nvbgAEnN3DVi2xurqA4HEARHZeYRwXLSRqVei1KCeQfoNYFSXMPdFKxs6bnax1dj8jqaQvlEEXKQNRLtXm2C6v2TgUej2qIb_Q9yoK1FuNjKUvMSQ3V2Vmssc4e_kMrOPaSapfb9IjTyLG4MLP5OC0Sh8pelgGv125C4KpX26fDDJ8hrjSmr4Q5uradRpHrkVwLe6YxavlQT1HnJfa6OT9vRhZ72SA_U8Pzt0o_K7O4CXRdKc9Cdb2bJ49ElxPFh1FXAj4BuVZpHHzaloKuXH6SE-bw1KikJB_P2Wdy-sLBE5jacKXzfrkcPsyO3XIRqwMMSfzh_kQjbQ_ctITrsy7PY0_dWa8THXUjQhmnJSxhGe4VHdc9wn39xV_hTXfUVyWU7nCrUauEKULsNc-6sNxTf7kdpdtiOhxhOA2pr8nNWFXSWBPccFwqQH_dCGA51twt7r1bLMx4YO33_wWA-ysH",
+        "source": "Nuevo Gadgets",
+        "price": "₹69,990",
+        "extracted_price": 69990,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 9,
+        "title": "ASUS Vivobook Go 15 E1504FA-BQ2117WS",
+        "product_id": "6049137184429251600",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:6049137184429251600,headlineOfferDocid:6049137184429251600,imageDocid:15220260753360080884,rds:PC_10980985650226148612|PROD_PC_10980985650226148612,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "tyKTDnicdVTZrrPIEY6SF8hFHuBc55elZrPBR75gacxiwNDQYG4sVoNZjw3GRnmY0ZlFmlxFyUjzLP9IM88SEiV3idTVaun7qqtK9VX99rs_fmblzxn_EKJewUKySvrBPlKn_dDx7I_9rUvHZCjTf6wBzRHUhmBpmuRIhlgD8GMSDVHdXcr0m78XWZTWZZtZeZ7dpC753x5_LZvokv0b_olgSBKQa7BhKGqBWMCy9Le39P6VPopnAnDscpg1A0hyTdDsmiD_cnQs6fx_wO8_xuz2-huPPPQFl48u7rrqC8F8f-mXWN982_zr6h_DZ3H5bhzr7Oufpy8ir9qqqJ7cAA-nRu4PkCiivfw6BWaXKlpxgPUY7uvi81J_lu1nUX9m7Q9d1D_y5Jff_wl2kyTeJ9H2-h5LDkBXoTMlwQhIZrAUU0HeEDjQ7LF_n9M94fk49c0rlp2G0JFczW7dn-I5HG1CXjhYP5FpEzZyGEKaCF04J6QWBYTpx95EnSpvOGA8m0FfxnLYRjMkQ890_avTRliQswAvZnaurJWGlFA-1tYnT4Yx6EW_qpFJFnZUMXpEmJSNZSKYnRo1FQgIzjt5CWXuk8lvhn6pIbdgTxw8xo2C-mZQhWpSIRXOpyFsw0fcdpQla_uY1GyjkVUDdMDx6SfC6WxW2mxQ6YffhAunGFyvv_pBWDuUQfjw8krBRIeVdo2bVHWlwggbxghB_zq5eDLcC-MpxWj5NuVRvWsDmcGyrJuzXERuSGHoUcZVZUIyHS3ZYLDX035T33CNMa6X_5VkiODT8ZXwIyIJEc-Cc0BEmDWEaUKH9pXUjmruFftYigDex5TTh22CZBILaaUVCSx8uzGGEyUAD_Oz76UgBpDel5rgKObL8kPkEDj0XsTVoHry4GKUyJrsVdorqYrW94o5ap32u-f9ln8FvMwMyKJzBo3VyzkOkrqoPBUxbJ95qI4Ta2-JDUcAak2ygCbYH5JFrGX2yx9-Pe8dKPJHV1T4HeB4vRCd6bJqgFmEiipSPtqEVy4_RGLV31fKyqiEvXNzoa6eE8u8jeAuwsjuu-oJMai5tlCqvI8Ra5Wt3XESipNy4xvvb8gS0W6R__vb-YyyZLxlK-Q6xx0vmAW_Ll9N7zOVA3l2tZ8tXmktyBU6p2gSWR29zriV5DmLNZvZpOkDEq6uPj2JXxfXIgjms6qPB3ZIwn2eX01O0i6MPUhzJ46xjtvNa4kOeUdUzog3IFJduBMvtrqKoPD-xkNxx0cRB7V-lKt1MGyk04cToiZg7Gl4Hk6BKPZnxALr1Eb2Zn07ZtrM3blogP18eX_bW9b-AM-84CF4hgE0jq5qmTtV2gEi3gA6zRmKSPOcy7ausftvDxhyK-5uW_W4W7YRtV0DgtpGCQDbdZ5sYyIF23jDpNuMJcltQnL5aot2biKxkXTkO98p2cdVY72ouPP0-5uEdxMtQqd8CId1FU3HAgaPDxpr-9UHuBRQ6N7fzCUh8SMRRR4i0oaC9dxLSJHts25ZJBqqlCYJfHhgcRrrCnQkvYKzccmm6gYumgYu0eEZC-jC8bLOpLhGKYV8DepNkFRjYNCKk1WtcDXQ7YDsdmOjHKJI6ajrs1y96ientm4JHo-yi--bMcqC-SrFh2Ivs0c1VCf3affX7OE_9AvPnVP9fB8ecRq5Nh9mjhCnl8RlsqVlALf6XQw89eb4mzAjJ0gqlbVMYI5udaMz9Hyg54szbQjm-aEeowYnzrw6ve5mFuOs279SE_trpZ2USVoFhqEUJ7G8jdYR0-h8ZIQwagogJCDXS52HL8dW0I3Pj_uE1V46kxT04zX5bL458_AIhjqcN3n7PGsfVsOt-YgzAIFkQRtfqN84HT88w_l1LU59y4wcbiRXXUlwT25kIuFYfpGO5x3g7vrFn-HdcNXFEsZw-dm8qpQlQWJ5T4b4HFP_eT_I96fl8pTpVrQxJ3dzVmlz2dem6zEB-g9HBM_Dlb_HLb7H4kQG9m73T1wdchs",
+        "source": "ASUS eshop IN",
+        "price": "₹52,990",
+        "extracted_price": 52990,
+        "delivery": "Free delivery",
+        "rating": 3.8,
+        "reviews": 1
+      },
+      {
+        "position": 10,
+        "title": "ASUS Vivobook 15.6 Inch FHD Laptop Intel Core i5, 11th Gen Quad-Core CPU",
+        "product_id": "4293643745157918966",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:4293643745157918966,productid:12707511884774572189,headlineOfferDocid:8492570888667586235,imageDocid:12264161382259303839,gpcid:6929564180055097515,mid:576462912401189677,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "6KiYsXicNVTZquvYEU3ID-QTznMuhq2t2Qc_aNiarMHS1mS9GM2SJVuyLE_6mnBud0PnKXQC-ZZuSL4lTkgeCgpWDYuqVfWv3_3xq2z_UQp3MR21UMxX-Ti7O3KvzoPA_TxOQ3HL57b4OwFZwNIEwXEUy1I0CwmO_zlP57Qf6rb4GwV5kqHIN0LQLP_GGOaXpkyLvj2XTlWVkzzk7zCO4iHNAo7jGIalOQaS9F_aU1qX_4XfTSBDEQxBchDSPAlIjuS_T8X1zz9ebuX0-quAA_wtbO9DNgzdN4L-sR7_U5XhIU-_EzkAaBrwb5r091Nb_EKzDMVAnoAUIP5DiWW_j_f5q6l_uN368tc_Pb5Jgu7qkr7343Den5TRRESTqsprH9tDoRmNifpbovbNV91_teevpv8qzz8N6Xiv8t9-_x1NuSTdc9ENxjGUPYCPBrOP6MD07Vt6TOYcJnMY8dd9oMRFF14KUC9-lzSOnLzco9iWarLdL4XihMqcBbNoLb3pRjQddN418Y2j1_UgCoV5Hwx0dqJJO-7VGChn_2jfguAJrV6x9kBRzYCYsqMnmtGsZeH4dKJGDUIvsBQORshLrVMvF7IC_YAiM01MA8LGASxOBWHYjm9IGNavUE5CD7pzGPB3GyptfuoJjIrBAoQboKbNUN_ZmkUlqKMCDb1CVacD1dADYlzSLml9UmECwENvCedAC0EGRjlFxN6OZsKKiF15ql8YenFK5I_gPeVQEeaQNMycNIBP2IPlhzP29DgJFOielAdWEmn_Io655nmBbCce6d1dv071TkE5qdNJb0dmYFz2S-JmfuH6YWJkcWJ4akJmcgNy8BTzHv3wvE7Vr0BQ6Bk7jNfk_ulQFRAQxuVwqJJIosHWDVTorom3bAHJQA5QBPtT_hZYW_72h38eVA9Jws6XNGEDeGHbSN6jXp2A3SSaLpERZpMjX5mp1I3XlbayOlH1Jh9t9UPu2NMNXCWUuuPQPVEIev7caF01Zphz2rM78DLO8paNrM8P7Eh481bj58fhgMv8NpUr7Hu7jSDajcC0r9MY0Z2HBG6lLo6gnR3EN1teM2TY7YLBmlp4KDPDpdmiuCPC3-rPQBaY5tjE8XLQtzeTm_NEraqjzctGTbuzvAzSLduGZ_b17o4ET9IOWLAQ1n20kWpXX6VI_PwQkLQR0pRHxnhTOiaeWXl_8RJ8imn3MT_NfSxJ4wFzwNmfU5dlpl1pLPyVT2c0LvXnh-o4qokOghhgdEAxsna-7tgbXd4AImMBVVQ0SRRVxZdr39r8fwc0XEubaa3vNpAB5JoBBLlOcwDWTJWvM6IA64yli3X5fhPrHPLVao03fi5zqbwThshrufvR4IK0uQrU54ccbh6UhLz2LppMlz52DYrvFyo01NUF1A0Sh88P-01IuryvWUAYukh0nqqMNcU9bB0H4rkrKEiE5j2UHre-AwOkVmix6vLRTaA2DFCn5jMTcc0LypYuwh4XJI4MtD3FeXeLLUrzyu4sHi08mdg9sy6uEE61gTw-29Wrf_L62W_B_d4O2ZW9pWW8HOXMbFSF2-mJ_vCf7ngs79F9Wwv8odgervM9K1LfFZLSE7Oizn26fK8MhOftVYoDffIiNinhA0GtcyItqfDUn7Y0tZjUUnsPlqCfF32XnsLcW1b719Uus7Ac1FdhhxGjnR_aQ17FlqU1e6mdbs4upPBhR4tJemqAmINq224F9PJcDU9CtVNzznht6byh7q9HxFXsQUA7MPfJwlbn58G4OCeeEVL-_UmwIhq3Fx5ZbxDmZ7K8js1-PNM3PjzJvr6SkQpZhch5TnhLJwhMtDl-ixZ0tXz9bTlt-cJiH3XSkRHx9h-W9LwV0fNqKten4wuk7XeUteRXe9Epe8mh7Qd0jP8XI4GneRSu2Tm8ZtIDxu5m828gq0nr",
+        "source": "ubuy.co.in",
+        "price": "₹71,267",
+        "extracted_price": 71267
+      },
+      {
+        "position": 11,
+        "title": "Asus VivoBook S15 15.6' FHD i5-10210U 8GB 512GB WIN10 HOME UHDGraphics Backlit 3CELL 1.8kg 1YR WTY Notebook",
+        "product_id": "544764284482404383",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:544764284482404383,productid:13134697300100350909,headlineOfferDocid:2451294271985684576,imageDocid:11821121699829480640,gpcid:14255982009949906759,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "vCUEF3icNVTJqvNmEu2mX6Af4a77x_BplnzxQpY-TdZgzbI2RtY868qyJOtpwv2TQHoVkkCeJYHkWWJC96KgoE7VKTin6s9__PszLX9N2fkYDZJ3jHfxMJln7CJOPUv_MIx98oinMvkFwRAMJxkKAwABACMAA5gf4miKmj4vk58IHKdIHKVxnEZxgGM09lORRklTdqmRZenI93GZ_IziBIIyOEohDE2QNE5Q5H_LNsrTv8u_IAiNIgiKkAxDv2A0IHHwdUzu33z38UjH54-s7dpfvHLub31ff0GI7_Lh7zYcJYhXBwAMgzMMICmC-dqWyTdfh3n6LPJvH48m_e0_yxeOlU2Zky9O4E2XVhhUiBSRKDwvgd4nklKosHmEYlN85s1n2X0WzWfafd9Hw5zFv__zKxxjjpvjo-kOg8dbwOG9Kq0aP8AUIcAGy_RXRXXzNcQEI6pqxJNyzAZCpbvCGNWFEAmhe4NMmXShqPoh4neJEfvLGqKDEW8xEgYFGmO6FcPwQ_WOo1bpauLpkv1EBGez9KgWZLtLoN7qlecIXYQSfOgxQ-h4m1uF_GVLArNOHiHmTTEoSHOr17guIqtdBQsKZxuNCZ33GhMdFs23FrdRkEurPy8lAF7dI74_XS5NviXSUb51HqlJzdOsC9l5IovmJXcdvLhdj7P4o6hD5XnxPC_qEiFqG0R3dO81U1OdC7CkobKgN1uOMOhislg1TrjCABwwDVpQCKrPTHEVzuEqB6EroGYrLLYQcpcnUsWSZbm8HlqYNZtOHsm1AGNMJsJGOalu0towhFrgeaovDFZrfejNIOuOF5ibImoC_Ha9j9lvgBWIyTZIq4id9polKECUj-s1C32OACfTFVFzj1AMAjASpQGOUN_HLz-V6e__-uMqWpBjzw4nsQfAsKeCs5Z81wK9CCWZw3ybCismUyOuHu47aafVR9EaHXiSr7Ghjw9w52BkDn29Qg80TFdIdTbcbNooO7NnePsWl5Svvb_ZBmcfXm58f7te7TR-jOnOdqzzgT3qBUuWz3bwidqCLL0TN4OVOgMyxYmRFB6tz26vjSV6TW-KSVBJMkPEOcmry7NkURVBsF3l00OlpzgUs6zSGV7JCXPit5573E5eRz1f7JC1OOlqsxq0ZQceuNyUdxE8vr-xkDuwUcRAZXgINRlMFH_5sEK7DQhzmVb1EnDccLVpYFy6yKTI8ZwqG3NnogkOW_7-JhqGqMIre3RteIUB1M6ObOgHmT8A5EYBPMkIDEmyjEn3jnb4vwYEuucO414-H1ASYHsSINg-igHYk1m8vyEJ2N8oItmnNIruY5TJdnv74MQ8HfFntvetkp4rhXaj4s7i72-8d1hwDlrlfFTJOlrOBQzmD9xTxN0HyAt47N_f9NdC3MfrmllooyY8GqvI25JgXk-GgdpTneAo4qmzxy2PpgY9iu_gpuXpUo8gVxSQR-p6O9o5wwonIvEaO8FsX4GnNojrR6DhkpXW3bHS7FG1zY4y7QzakdRj1Vruns3KyJ1Tgnku-9udekRpsFX8TS1EgT7Lobw4qzlU6ezPp5xlrsnpep_mWxI5Jhum1vGW5LFDpC_JgNed7lzgyqPlU2GKLhCVasOXwswem_ZE4JuKb7m1UAixfsjnqPVia9tdnnc9vXlpLz4T3fNJqVukhd8FmiYVF64cH8bZw-3rmTiGUVuAYwyyU3li4dMyJXtks7MY08rzRMQFPj8Xn86oKwvPYGrCjcq69ap8GC1DshGjAcQWjsrjaQ-U1bPTGm7PqrgMHfFgvJZ35B0PRZQSkJih2Zd1XFeFh-qLv8G75siviAnNYTe9kjGDh8grXzRufST-eleF-2o4LKY7Na5t8V3fZFzfYlR3XCKw_4fhwKpW7P31yO43bkED83D4C8PoSis",
+        "source": "desertcart.in",
+        "price": "₹1,53,294",
+        "extracted_price": 153294,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 12,
+        "title": "Asus Vivobook 15 AI Laptop (Intel Core 5/ 8GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ Intel Graphics/ Windows 11/ MS-Office) X1504MA-BQ832WS",
+        "product_id": "15282169316550033138",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:15282169316550033138,headlineOfferDocid:15282169316550033138,imageDocid:7814181032209026333,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "kdrMXnicdZTJrrPoEYYT5Qb6Es46vyx9gDHgIy8YPiYbMHzMG8RoMOOxwWBuoG_j1-lB6l61kpb6Wrql5FriRMkyiyqVVFWqV3of1T__9M1nXv2Wsw8uHmSXSzfpMJpnIpDGnqV_Gm59NqVjlf2KkTiNYzuGwHYkCQBBYAT9UxqPcdNfquzr38o8zpqqy42iyG9Cn_6flZ-rNr7k_-n_naKxLUZjgMBxwAB8RxDEd7fs_vWHjym_PX9hkYO-uNWjT_q-_oKRP1yG19bX79p_p-ExfpaX76epyX__6_yFZxVT4ZXA9t0xaMXhBLEylsRn4Ot9JqvlCTZTKDXl56X5rLrPsvnMux_7eHgU6R9__hZ-KDw_KZzpDIMrWAABsYvdnrSBus0b1fLkrHLcejHkcnCcTMzlcpd0mRJ6mZL5yhgQ7tn29TolMk7HQmD6Q6jj2Bj41k73mj51VM5ux2vsmHOKMDHBOCWX3DiEM5GAIbY8cvbqcGe5amlAknSdeY6vTazVKWbYZWw5LkqupZPi-uy65VmXwtqQ9IcDsiC9umNSZ61Vh1rQMqshDnXcjlOy6kKANbZeX7ZeC0fXa9ZQKnsNKydNpHFL5p662IwnV31qNbbkV70Lumx129JNpRAl8iBmTUMGeNPndli4oup49QJMkOG2ywWOpfihI-JmK85IDPngiV1T2bIcQQ8twnqY9iVWahGmhEKGjSW99N8yLLORwwC3HpfUt7BUKB-odlsXE5-WlH6_3G_F74AVyREZO6tM7TYqMhxg6kcUFaHHk-BoOhJu7jGKeWGzw2mwxagf0xcfVf7HX_4RSRbk2bPNy-wBMOyx5K35smmBXoaywhMeosIrU5xivh7uG3mj1Zxk3Wx4VKLU0G8TuPMwNoe-XqALGqYr5boYEkQbVWf2jICStKI87f0NGTw6vIh7f4silKfTLd8g2zofWE4v2V31bAePrC3I0htpNVi5MyBTHhlZFfD67PTarcKjPFFNksqyB8Tso7I4Arsrr6Xvr5FynE70mIZSUVx1RlAvpDkKa89PydHtqOfrOmQtXo4Qq0Gk2PDAX0xlE0Pu_Y2F_IGNYwaqwyTWO3-khODDClHrk-Y8LqfA5_khQjQwgi42qd3tnKsrc2fiEQ7r5f1NMgzpBCOWcxCMoA-1s60Y-kERDgBLKLDNCpLAsqJg8r2tHf7nAYnv-cNtr5wP-A4Q-x3AiH2cArDfFek-wTKwTygy2-c0ju9TnCk2e3SwU4GOhTPbe1ZFP64q7cTlnd2-vwnuYd7y0Koe3GlXx_O5hP7jY-uq0uYDXErI9e9v-ksQ_5HyPAsRbkLOWCQByaIZHQ0DR2OdbXHMPT1cfp6aGvT4dgNX7ZLP9Q1cVBVc4tOScOjCsOKRzNwGZQTyVHhs_bSefG0rW3ndcVcN3U7I7CgTFRDFck9cl2rzbBZG6ewKPB5Vn9ypKc799Sokp1IS6bMSKrO9mMM1f3iP44VlouwY3cdHksW2yYa5xSXZJbXJ_GUZcLvjnfcd5WZ5VJjjM8Tl2vDksEC3pj2S2_W0XS_WTGHk8qGc49ZNrXUTPO96nrh5Lz0z3fV2cjfLs7DxNU0uA766TcbZ3aLoTHJh3JaAS0FxrI4sfFqmjG5scZZSWn0eybTcPp6zRxdUxMIzGJtwpYpuidQPo2V2bMxoAEMip05PNFBWz45LuD6vZTB05MS4rWArGwFKOCViKUOzL3Qc5wQP1y_eCu-arbwiJTWbXfWrQhgCxF71rPHLlHnL_STeF8NmCd2ut9qa3vVV2err67XZDumj_87wYDld2XvSufeEn3HfPBz-BTbiOWI",
+        "source": "Vijay Sales",
+        "price": "₹82,990",
+        "extracted_price": 82990,
+        "delivery": "Free next-day delivery"
+      },
+      {
+        "position": 13,
+        "title": "ASUS 2022 VivoBook 15 Laptop, 15.6\" FHD OLED Display, Intel Core i7-1165G7, 40GB RAM, 1TB PCIe SSD, HDMI, WiFi 6, Backlit Keyboard, Fingerprint Reader",
+        "product_id": "12096264619404760464",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:12096264619404760464,headlineOfferDocid:12096264619404760464,imageDocid:17035239129919256974,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "DKHPtXicdZLJrrNmEoY76hvIJZx1_7L0MRnjIy8YPiYzGD4MmI3FaGY4gA3man6dDFKyiqJIuZZE6r6WdkvJshdVKqnqVZXqff7zj28_0-L3lH1wYS-7XLyJ-8k6ERdp6tjdT_3QJfd4KpLfMBwwW3xLbjGGBCS9BeSW_CkOp7DubkXy9dc8DZO6aFMzy9JB6OL_I_m5aMJb-lefBgSFEwyGMwzG4NSWocnvhmT8-sPHPR2ev7DojL64xaOLuq76glE_3PqX7Ot3zf9S_5g-89v393ud_vGv-QvPKpbCKxfHd6dLI_YaxPJQEp8X3-gSWc01WN8Dqc4_b_Vn0X7m9Wfa_tiF_SOL__ymhN3M8-PMWee-dwUbOJLNO41Ru569nJ_YEtWqm5YKZkC7DKrlgcS8CUA9IiBeHDyxTW-5xC1H6FgemDCRbAmSFz_RgkbVQjGQ3bPoJ6A-Ge0FD13RR7itIlwdksbFDZcl7GZaQrl248oiXGnSTb-2LE8VgjpvdaHCU9fmwmpaA9cOQ6ImYuhOBmEUqGH8qKrvYVNbCAukpGKIS5VPjiSOSOww2zN0o1Iw0xc7xw0wg8gbV1JNqzROoW-ISLoAU7SwBNcnm9AnU7BnVCd8VLpz1HIUzJPa8gP-4nOKW6ml5hlzIoqWjtVyIjGcyXWFdbbXuKybs_v6DqjP5rm2XMkmEk-0zl5e6hDTEpgYDq7KlvX9Mg7ZH4AVqQmZdIqLGQyKjsbpQCfhqrZabl9bJy5ve4xmMEBs8R0gcfBj_EKgSP_857-vkg159uTwMnsADHvMeXu-bRpg5IGs8ISH6KBkMi3kq37cyBu94iR7cOBRucamMdzByMPQ6rtqgS6omTaXq6yP0M4sWqtjBBTFBe3p72_I5NHhBdX72_WK0vg-pBvk2KcDyxk5uy2eTe9RlQ3Z3UZaTVZuTcjkR0ZWBbw6nTt9KPBrGqkWRSfJA2LOUVnOArvNy9z316tyvGu7KQ6kLCsNRlBvlDUJa8ffo6Pb0s_XdsjavHxFrA6R4sADf7OUTQi59zcW8gc2DBmo9nex2voTLVw-7AA1PmXN06JdfJ7vr2gHzEsbWvR2OKXqyoxMOMF-vb2_SaYpafDKcmcEr9CH-slRTOOgCAeARTQgk4wisCTLmHTv6Ie_PaDwPX8Y9srpgG8Bsd8CjNiHMQD7bRbvIywB-4imkn26w_F9jDPZZo8OTizsQuHEdp5d7B6lujuH-ciS72-Ce5hJHtrFg9O2VTifcug_PkhXlTYf4JZDrnt_M14H8R8xz7MQ4RbkzEUSkCxa16Np4miqEhLHXO3h8vO9rkCHkxu46rd0rgZwU1VwC7Ul4tCNYcUjlbg1SgjkqfDY-HF193VSttOq5UodDRqyWtpCGUSh3BHlUmye9cIorVOAx6PoopG-h6m_lkKk5ZK4OymBMjuL1Zfpw3scbyxzTY7XcXpESehYbJDaXJTcYodKX5YBtz2OvH9WBtujgxSfIS5XpicHGRrq5kiRq0auN3umMWr5UE5h48b2urk8RyON3LSTnonhelu5neVZ2Pi6LucXvhju5skl0fVEcUHY5ICLQXYsjix82paMBjY7SfFOfR6pOCcfz9nbZfSVhScw1cFKZ-1yVT_MhtmyIaMDDImcen-inrY7dlqC9Vnml76l7ozbCI6yEaCE0yIWMzv2hc75rMFD-cVb4ag7yitiSnfY1SgVwhQg9qpnnV_uibeMmjgupsMShlOR-hqPxqqQxhrjhnOmfPTXDA8WrWTHqHXHiJ9x3zoc_gteIi2c",
+        "source": "desertcart.in",
+        "price": "₹2,33,011",
+        "extracted_price": 233011,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 14,
+        "title": "ASUS Vivobook 15 A1502VA Intel Core",
+        "product_id": "12914971526312862559",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:12914971526312862559,productid:15879644461572081097,headlineOfferDocid:2563480324334910502,imageDocid:2250462927701123458,gpcid:577579244679085080,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "TzZbgXicNVRbrqtWEu1WT6CHcL77ytJmAwZ85A8Mm5cNGDZgzI_FG8zzYGMwE-hpROcmkZKvKN1SxpJIyVjiltIfJZVqVamWtFbVH3_752da_pLyj13YK94uXsX93TqSZ_ne8ewP_dAlY3wvk_8SNMtwa4qi1gTNQMASgGN-iMN7WHf5_2DIERTHEDRckwRk15CmuZ-LNEzqsk3NLEsHsYvL5D-QXpMUC0hIkSTFEYAG8MeyCfP0LxjSgFpDDjIMIAhIUjT7dUhu33z3MabD8yceu_iLVz66qOuqLwT9Xd6_pn6mGYZmOPjixnCApQELvjZl8s3X_nH_LPJvx7FOf_3X9EXgVUsV1LPje_dzI_UHRBShLD3PvtElilYcUD0Gcl185vVn2X4W9Wfaft-F_SOLf_v7v9GHKgijurPcvvdEGzjI-7CahDDqYAyaHNhyoTmN3ZhyTiQCeLr1zrMXT3Vh8KpLagImePDYKZKD3nMkM3S8IZSTMrhqoYtqOXFp2nISHMLAc2VNjUWjSP2CTGVND9vi7ooa1psaJ4vR6IsnHty7cwbuEjgGFZH26XQyJK-ydf1EC14ldXEdL5gslKCZQVRZlAfyOZakB27qISDrMnYlLW64yapZym5sISQN16sL2fOCwnUqwmlVwj0lcozoTpepxXGMWywZO9zusOkHvilxjS1xhScHNwPSJfZsVSe0F1KUISkV-GQXlq36gStBq5EmLAXC-UlcY8W2XdEIbNJ-WE4eqpWEYlKlg1rqE0BrsV_QtlfYkaKNaZUIgcfNet1n0dXDOoG-nW9D9ivgJfqOTSaFUoaCsmMgE-gUWrT2UNiX1omv-YZgXv4i15AFFATfxy_HlOlv__j9IttI4I-OoPBbwPH7QrCnfNUAowgUVSBPmAmuXHYIhaq_rZSVXu1ke3DQXr3EpjGM4Cag0Oq7akYeqLm2UKqsjzBrlq3VcSKO4pI56e9v2BTw9uW497fLBafxOKQr7NjHLb8zCn5dPpv-RFc24tmVvJi80pqIK_acoomwOrqdPpTwkkaaRTNJ8kCEs1dnV-TXxbXw_eWi7scDe48DOcuuBidqOW3dxaUTxmjvtczztR3xtqBcMK8jrDpoK-SWugrR7v2NR8KWD0MOaf0oVWv_zojnDzvAjU9b030-nH1B6C-YBea5DS1mPRxTbeFuXHhH_ZK_v8mmKR_Qhd-5GF2Qj_Sjo5rGVhW3gIgYQCUZTRJJlnHpxtG3_9eAhhthO2zU4xauAblZA4LchDEAm3UWbyIiAZuIoZNNykK4iSGXrTZ468QiG4pHvjvZJfu4aqwbFjeeen8Tve1ECcguH7vDugqnY4H8xwflafLqA-QF2nXvb8aLkPARCwKPMLTQzpxlESuSddmbJsT3KqEg4R0enjCNdQU6SK3QoufpVA0g1zSQh4c52uGc46U9nXivqyPxSUP7xo-r0dcpxU6rdnfV8XDAVstYOEM4VDryOperZz1zauuU4PEou-jGjGHqL1cxOhSyxB7VQJ2c2eqv6eP02Oc8d0n2l9v9ESWhY_FBau-iJI8dOn1JBrx2fxN8Vx3sExOkcEJQqcyTEmR4qJs9TS0Hasnt6fV25w_1GDZebC-r8_NmpJGXdvIzMbzTWmknZRJXvq4rxVkoh9E8ehS-HOldEDYF2MUg25d7Hj1tS8EDnx3lmNWeezouqMdzOrEZc-HREdzrYGGydr5oH2bDrfmQ0wGBpZ02PnHP2B1_n4PleS3OfUuPnNeIjroSkQwZiYg5ln9Zx3UPaHv9clrQTXfUV8S07vCLcVVJU0TEK590YR6T03w7SLfZdHjScCpKX-KbsaiUscTQcFzax3_1CGA-XPlb1Hq3SJigb223fwL2OD7-",
+        "source": "iGeek Megastore",
+        "price": "₹1,08,554.33",
+        "extracted_price": 108554.33,
+        "alternative_price": {
+          "price": "JOD 799",
+          "extracted_price": 799,
+          "currency": "JOD"
+        }
+      },
+      {
+        "position": 15,
+        "title": "Asus Vivobook Go 15 2025 Office 2024 + M365 Basic* Intel Core I3 N305",
+        "product_id": "6865377420305833018",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:6865377420305833018,productid:14391066331042931174,headlineOfferDocid:11640080347497961927,imageDocid:13092219257771198832,rds:PC_10917935607819170647|PROD_PC_10917935607819170647,gpcid:10917935607819170647,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "HEaILXicdVPJrqvYFY2SH8gn3HGeLJ1DY4yvPKA5NmAac4BDM7HobDDttbHBKB8T3VdVUmVUqkTKt7ySkm-JK6rMksGWtvbanfZa-1-_--NnXv4jFx5i3CtETBdpP9gHOtwNnbD6sb922T0dyuzvkKF5CJZLmoaAoXgaQo75MY2HuO7OZfa35WrJ0hzHUIAG7IqmAVz9XORxVpdtbp1O-VXu0l-7wCUDwArQDMfwHL-EPMX9tWzic_4bTgOeol5RluM4CPnViqa-XrPbN-YgHSHgIcfT7BJwK_hywZLh_nzAlnz8P-D3H_f8-vxJcDznCykfXdJ11RfIfn_u_zPrf1R8bcrsL1_7x_BZnL-73-v825_GL5Kg2qqkhm5AhrDZ9jqCRbzbPsPA7DJFK3RU36NdXXye68-y_Szqz7z9oYv7xyn95fcU-lBl6a5Kttf3RMbAgZpnSfAjCfql22Z9ArY1pljGkKOAeBP2W22ZAIb1AIzCYFtknvHEFJQdCTZx681egO8e5Y2EFstox-J0znyzFQfXn0p7JhdM6gk37Ad2Q9avepEQTSQ-ll4Y8ubCDxt-ymhNiYMzTOYtY4JBdmismhCPGTCxr2xrmyp0G0Qfls-TEBLT8vCQ0pls0EQ1GxWSJ4xJXZMEkG0II0QUQrK2CIy62McEH2w3q82tByMiEt0fSj_AF2cudIL4Ma3NPm5TaLrhFDeRYpGoJq1Ju5fw6VXsI221XRxEow2KZ07qfQjxYDRFb1e4C33e9v3bnFCDElUDNuoaYSqKUxTdCazNvM3oVNle8aUwQqCNTlAM6Wt_ozYl0ytUQv96Le2GX6xZ_ghT2aNt2mD83aT7Fa7iLRmdhn8SOrpiz2ZcpTdDqr4GoLj4lU2HtOgRNAT6q6WliOzrziIqstoOIikMRJVU2kX3zTHbbm0D1kq240VL7Erbw3N6qRuyxQfXzS6-P7jxLD791ty5bjVjkDWxmzURYMts_G66XU_fgLBlB8fieL2mMDffpb205_qUjCJNBZniXexx_dIvBPSSWgEG8j-kL3mX-S9_-Odxh5EkHFxJETaAF_aFhMfzogFmESmqRPsOF134kx5LVX9bKAujEnf46qK9ekwt83oHNwnFdt9VEyKg5ttCqU594qyssrU7XnaStOR84_3NsSRn83qO97fj0cnT-zVfOC4-bATRLIRl-Wx6n60wElaL3WwJSmshvtjziiZT1cHrjGtJHfNEs1kuyx4Iunt18mRhWVyKIJiP6v6ur4Y02p1OF5OXtTNrD_LcSfdkT1ru-ZqOBCwpR0cwkKO6aCOdbXURI_H9TUDSRohjHmn9fVstg4GTww8cOU3A2uMw6WEgSf3RWQErbGObW14PuTbzNz4eUD-f3992lrXT0VEQPQcdUYCMg6ta5kaVNwAmHGCyE0vD7HTi87VrbP7LAUutpc11rR421BLQ6yWA9DpOAVgvT-k6gRlYJxybrfMVRa1Tij8t1s7GTeVVLB-Ezsfl6nHRVl5c3ATm_U0mm5GREC4for6s4vFQoODxwRBtt_gA5wKJ3fub-VpI-kglSUAOZSPRmnayo2zt496yKGeoMoaCRH8QabzXFegoZoFm45yP1RWcNQ2cY31KROfMC9s9m5HayWjH19C-CdLqHhiMgvOqFS-Gc9Udu-Vs54ScWOnoy1QunvXEq61bgsej7JIbd4_zYL7IiV7stquDGqmjO9n9JX_4j_1Z4I_Z_ngbHkkWu7YQ5VhMsnPqsvmLMkDa_U0KPPWKfS7KqRFRSmX5SnRyrnWzZ5lZZ-YzHjnITh_qIW5IiudF-LyZeULybvfMTOIvlXZURnkRGIZShFJ5vVsHwjjHAytGcVMAMQWnfbkX0BPbinMVToddutKeezYtmMdz9Fcn7iigAxjqaOZO7XTUPqyGXwoxbwDobEXt_nR6DnfCMEXz81KEfcveedLIrrqQ0Y7itjDlV8JLOp6no83liz-jm-GqL0tZwxVm86LSlozgyx8Nabpn_nTTt7fJcgXadCvGmNObOauMOaeU6Xps4PyWI4FJvwi3pCW3RBqpwN5s_g3W4oYM",
+        "source": "Flipkart",
+        "price": "₹55,999",
+        "extracted_price": 55999,
+        "old_price": "7% off₹59,990",
+        "extracted_old_price": 7,
+        "delivery": "Free delivery",
+        "rating": 4.4,
+        "reviews": 12,
+        "multiple_sources": true
+      },
+      {
+        "position": 16,
+        "title": "ASUS Vivobook 15 X1504VA Laptop, 15.6\" FHD IPS 60Hz Display, Intel Core i7-1355U, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics, English-Arabic K/B, Win",
+        "product_id": "10090410100660803626",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:10090410100660803626,headlineOfferDocid:10090410100660803626,imageDocid:18249881521387726667,rds:PC_12801738760727368084|PROD_PC_12801738760727368084,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "8KcjAHicdZPLrrPIEcejyQtkMQ9w1vlkqbkZ8JEXXJqbuRgaGszG4mow2HBsMBjlYUZnLtJkFUWR5lm-kSbPEo80Wc6iukpdXfp3qX7137_87bOofymEh5j0GhazVdYP7p46qEMncD_3ty4fs6HO_0MAwAOaAC-_XgMOUGty_XOWDEnbner8u39XRZK39bVwyrK4yV32JyX_rC_Jqfgjz5E0z3EEQxIUx7Lker1mv7_l96_0XjoSJAcI9nW_BizJUmsOcPQ_9p4jH_8k-ePHWNye_xJQgL7g-tGlXdd8IZgfT_1L67vvL78f_WP4rE4_jGNbfP379EUSdFeX9IMf4eFwUXoTElWiKs9DZHe5ZlQmbMdYbavPU_tZXz-r9rO4_tQl_aPMfv3mW9hNsnSfJDfoeyx7ANVE6AYDjANmKSJFss554CnxR3Dx5oww3CD0MMYnxiaMZ6bYsx_opH3FrU-2VXoWW7_Jz4jsJScwzED2bj5lqEnY7i2SD1PNot2oN7O2OiOsDDm0SOxXi6e5VB4Se685zEXAPxHRkh7hMYdzW7uhAuy2gq4vSqHKmx7mkQfiETf4YakMdAKmSc4BhXDv-kAxg0i55krFFGrlxuqJtBV9cCBRJ5EFErJy3NBQA7_d5XLuIK2Nsqtdx-SBPrSt4-IqwFFAW5F4DcgZh21PBs1Ls22oLKzMQn51eiEOKazamGzN8KyMbuTpqNWXAhr4QIiqSyk2BhmBG89CC0aBktMZUOSi5bHbKncn8u7o0iKkTq_ecxNrBuWEPSiCWLdgFWdKRSeRkvhyLhcynhy1pRBVqUWYm4GvD0gdrCxkysPFAIc2P8faCSkkFvPGqDJYhe7FGg6UCAIsLGGQgxRAWq0N0dPspxPGXnbh7UT13CyKD3bIK4VsTY6vKGHDk6lmm5jC1A_z_VZ-BYLCDMihSwaNzdPbD7L-AjWXMLzOZayPE-duCJYnft8I7rUh3E_ZC9a6-PWvvx1VD0rC3pc0YQt4YVdJ3nRaXYBdxZouUSFi4zNfmonU9PeVtrIaUX2RAnf6MXPs2wjuEkzcvmtmiEHLXyutKfsUcU59dTteRmlWs6H1_oYcCW1f-L-_HY-oyMZbsUK-t98Kol0J6_p56UOm8aDArdTFEbSrA_lqx2uGTDb7oLNuNXksUsNl2Dx_QMLf6XMgC-vqXEXRctR3o8kNWayW5dnmZePEuIO8dNKY7vCVfb7UoeBJ2hEJFkS6D7fSydVXCRTf3wQobYUk4aHRj0qzjgZWPnx4MbpEjDsNs3mIJKk_Ig44h2visuvbvjAW_s4nA-yX0_ub6jiqCY-CGCB4hBG09r7u2Ftd3gIiZQGdlwxF5GXJFxvf2v5_Bgy5kba3jb7fkmtAbdaAoDZJBsBmXWablMjBJmWZfFNwJLnJSL5cbdDWz2QukfdCF3o19zgbXJBUd4F-f5PxdqIl6NUP0Vw3ybSvYPT4oLGhrj7AqYJi9_5mvz4kfWSSJEBEulB0ZlVGmuIed45DoqHJaZLA5gNL09g2oCPpFVysUzE1N3AyDHBKzDkV0YkXlB2T4xblFAoNuLtEWTNGFq15RXMVzxa6mci9si4qIUq0jjrP9erZzrx-9WvweNRdemfHpIiWs5yalapwez3WJ392-3PxCB-7k8Af893xPjzSPPFdIS48Mc1Pmc8Ur5EBfN3dpSjQb17IxgU5QVJrnFCLS3RrLzuGXkx6OXkTSzDzh75PLjjzltXhebeLFBed-sxtHK6166RN8iqyLK06SPVtdPaYRsc9I8bJpQJiBspdvRPg03M1dBPKvZpxxnPHZBX9eE4hV7JHAe7B0MYLW17no_HhXPi1kPAWIJAiGuMT9azXCcMcL89zdeivzMjji-zrKxmqJKsQGc8JL3SCwITb85dwgXfL11-WMZYvLPZZpxwZEq94sqR5zMP5bir32fEFyvYb2lqyu73otL1kpO0HTIT-eCOB2TwL9_SK76k0kZG73f4PXH9v5Q",
+        "source": "Microless.com",
+        "price": "₹75,909.29",
+        "extracted_price": 75909.29,
+        "alternative_price": {
+          "price": "$788",
+          "extracted_price": 788,
+          "currency": "$"
+        },
+        "rating": 2.6,
+        "reviews": 88
+      },
+      {
+        "position": 17,
+        "title": "2020 ASUS VivoBook 15 15.6 Inch FHD 1080P Laptop",
+        "product_id": "161348874054720170",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:161348874054720170,productid:8195725261383391564,headlineOfferDocid:10800729146448679950,imageDocid:10510488798624901778,gpcid:8846988586004535753,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "MQVAnHicNZJZrqtWFoarVBOoIZznXFna9OAjP2DYNDaNYdOZF0RrMO3BYGwmkGlE5yaRUk-lVKSMJZGqxlKOlDwsaWm1v_R___vbPz_z6tecv-_jQfH26SYdJutEnOWp59mfhrHP5nSqsv-wGEcxOIXTGMESBIdRNPlTGk9x01-q7GfsVSZZliEBRTI4wBjwc5nHWVN1uVkU-Sj2aZX9ggEWAAbnMJImSZZmOI4C_6ra-JL_1acw8McZjqVxknudYdivY3b77oePOR-f_-aRi7541b1P-r7-glE_XIb0D2ksSXMsS7E0ACRFUAxFfG2r7Luvw336LC_fz3OT__bN8kXgVUsV1LMTeNO5lQYNYmUsS89zYPSZcig12Myh3JSfl-az6j7L5jPvfuzj4V6kv__9W_ihCsKs7i13GDzRBuhqa263N8PApvWgfBi1AU1fJTPZQG5TLslqyGj1FAefNN2l5txTQehzrk0MpgXso-mxuA8nGBBlE7a2ZYCSSltsMZwmdnH16TSQOjec4nXG6Hn208MnOYQDSnzPMkVbs1oJJmuD-85hODd2nzk6QJIhxAA7WxUWh15o-4pU5JLh2vLkhZ4h6zWn6Z6neNf9kLtZl2GGE3aSEYBDcPbKOXSk2K250fLPREh4ZHpNn69t3AN25_lS70LuZnkGFsuH2hewR-Kyi95IhIU1sy2rk7EaUAfD3ZapNm8H5NpqELoS_tK6ICkUzk_smiq27YpGaBP23XIusVpLMCVUKmwMOvMaxyNKOoEPIw72cQamAsl277aUZPnLkjfw-8dtLH4DvERNyKTtMnXaqMheyB0-oqgIfYECR8uVcWuLMRwGCBpnAYkxP6YvZKr893_8N5JtKPAnR1D4HeD4YynYy2XTAqMMFVUgfMSEV67QYqEebhtlo9d72R4deFSj1DTGGdwEGFtDXz-gBxquK5W6GBLEmlVn9ZyIkrRifP39DZkC2r2Ie3-LIpSn85hvkGOfdvzeKHm6eraDT9U25NmNvJq80pmQK4-cchDx-uT2-ljhUZ4cLIrJsjvEnKP6cEWeLq9lEKyRepw1dkpDuSiuBiceLpQ1iWsvzMnR65jn6zvkbUGJEK9DpDpwJ1wsdRPD_fsbD4UdH8ccPAyzVNPBxIjnDztEbUBZy_TQzoEgDBFigXnuYouhx1N-WLkbF09wWC_vb7JpyhqM-L2LYAQDqJ8c1TR2qrgDWMIAMisoAsuKgsu3jr77ywMK3wq7cauedjgNiC0NMGIbpwBs6SLdJlgGtglDZducxfFtinPFZot2TiqysXjie9-u2Pv1wLpxeePJ9zfR2y2kAO3qvtfoOl5OJQzuH6R3kDcf4FLCff_-ZrwECR-pIPAQ4Rbcmw9ZRIpkRUfTxNFUZySOedrdE5a5qUGPkxu46pd8qUdwORzAJdYeyR5dOF46Ui8qUUYg_wCPbZDWc6CTip3X3f6qo1FDVsdYqIAoVnri-qg2z-bBqZ1Tgfu96pMbM8d5sF7FRCtliT2pobo4D2u45nf_frzwXJQdo9t0T7LYsfgwt_dJdkkdKn9ZBrzueBMCVx1tnwlzfIG4Upu-EhZobNojRa4auV7shcGox4d6ilsvtdfN-Xkz8sTLe_mZGZ5PK92iLOIm0HWlPAvVOJsnj0TRidqHcVuCfQqKY3Xk4dO2FDTyxUlO2cPzSKUleX8uPlswEQ9PYGrClSm6R3T4MFuO5mNOBxiS9of5iQbG7vnpEa7Pa3keOmrmvFZ01I0IZZyRsJRj-Rc6rqvB3fWLv8Kb7qivSCnd4VfjqhKmCLFXvujCY878x02Tbg_T4QnDqUl9TW_GqpLGmuKG41IB-nNGAA_tyt-SzrslwoIH1m73f8xQPYU",
+        "source": "ubuy.co.in",
+        "price": "₹35,875",
+        "extracted_price": 35875
+      },
+      {
+        "position": 18,
+        "title": "Asus Vivobook Pro 15 M6500QC-HN742WS A626",
+        "product_id": "10754098116039005426",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:10754098116039005426,headlineOfferDocid:10754098116039005426,imageDocid:1976502894649218422,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "8Q4sO3icdVTJzqvYEU6UF8gj3HWuLB2OwRj_8oLhMJjJcJjMBuEDmMmAbWxjXqBf4-rvQeqsoiRSnqVbSp4l7ihZZlGlkqpKVfXVV_Wv3_3xM6_-kfMPIR3UQCALMozOfnlQxp5f_zxc--xOxir7OwVYhgbcmqJWYMkBwNBw9TNJx7TtT1X27a9lnmZt1eV2UeRXqSf_J-XP1Tk95f_x_43i2BUD4JqjVzQHqTUN4ffX7Pbtx8s9v77-wmMffw2qR3_s--Yrxfx4Gt5Z374__6aGx_hZnn6439v8lz89v4q85miidvCiYDyc5cFAVJkq8usQWX2m7koDtfdYacvPU_tZdZ9l-5l3P_Xp8CjIr7__Dl00UbxrguMPQyC5AAfOMlrKKw8eRqLIyrHOoNO1Bkb0Mw8zy6oDPVMJ5cGpw5S1t0QKEMDtj1D2sqU1BDJX-tGw8xQGWkuZIaFJZ7WFsTKmZD5AS8m8sMlwBMvCD5lb3GVSWGdV7ge345yFbo1GTLkmkXyIfesStFloKa19mOUZg9EIVJeJKOHsh6WI5WYm8tCESltbYXY2pcMc1-7ogOBiRi48LH0mPu_SoBlTI8j6INB-QwgGSqD5iqzFKABpLVcYurHjc5Krxo7XyKoZyIxP8VMAy4sVtDL23nPMgu7MguL5PRVPWhT7MnTO8hPLsXh4UTVRXdeXrNhdug_HO6VaIyOy1Ji4lVdEjSefGg4YTW8EGJxCy4rltsQ-9YqpneF15Ifpdi1-AbzMjNheuSXxzkmRQUDtLklSxKHIAN3xFehsKJajwHIF14Cm2J_Imx9V_usf_pkoLhL5vSeq_BZwvF6K7vO0OAOrjFVNXIaYjWuuMFKxGW4LdWE2guJePaRrCbGt6x3cRJQ6Q99Mb0xarivVphiOeG1XndNzEj6Sig3Njy_YFvH2zbiPL0mCc3K_5gvsufstL1glv6pe5yFkGhfx64Uy27za2YgrdU7dSbDZ-715rWCSH3cOw2bZA1Gerk2-xK_KuoyiOdH0u7EeSawURW1x0u7EOKM09-L9qAcd-3pXR7wrqgnmTYQ1D23Fk6MtUiR8fOGRuOXTlEO74S43q2hkpcPFjfE5YpznOBmHSBSHBK-BfehSh11d9_lu5m5cOqJhPn18UWxbMVDCCz5GCYqQufc029pq0hZQRxbQWcEsqawouHzjmdv_7YCBG3F73Wj7LXyf-WYFqOUmJQBsVgXZHKkMbI4sk23yNYQbArliscFbj0jrVNrzfehW60e9W_tpeePpjy9SsH3SInKrh2CsmvS5L1H0uNDBTllcwKlEQv_xxXo3JF6IKPIIQwcJ9qRIWJWdRLdtiMcmoyEVGI9AfN7bBvSQXqDZPOXP5gpOux04pcZ0FPCJ42WdyYIWZ0sc7pB-jkhzj0xadfOmE2oTXw3sdKyDC4RTtV_WU7V4tROndV4FHo-qP97Ye5pHcy0djVKR13st1p7e5Ax1_ggf-onnkkxPbuPjmKWew8e5KxyzE_GY_L0yEHT6TYx87eqGbJzDJ4JqY4dqXOBre9YZejbo-eQ-WYqZLto-PQfEnReH183Kj0HeK6_MCsKV2j3Vp7SITFMtD2J1vdv7gMbJnhHi9FwCgYBCr3QevVxHxVe-2CtkvXvpDCnpx-sZrgs24dEejG08s0U3JbuLfeZWfMqZgMKysLu_8MC6PT9O8fyqy8PQMXcuOEuetpCQAlmZItyaf1PH9w20rb-GM7qZnvYWwpgeP1u1trQlRL3tpylO9yycboZ8m2yPX1peQ5szuVmzRlszgZbnMxH-b4wIJqPmb8fu_RDFJ4yc7fbff8Q0rQ",
+        "source": "popularcomputer.in",
+        "price": "₹68,990",
+        "extracted_price": 68990
+      },
+      {
+        "position": 19,
+        "title": "ASUS Vivobook 15.6 Inch FHD Laptop Intel Core I5, 11th Gen Quad-Core CPU 12GB RAM, 512GB SSD NanoEdge Display Stylish And Ultra-Slim Intel Iris Xe",
+        "product_id": "4701312833895322016",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:4701312833895322016,productid:9653302336984442148,headlineOfferDocid:8564614516205529553,imageDocid:5788018476360232002,gpcid:6213739107033730885,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "iUz2EHicNZRLrrPYEccTZQNZwh3nk6XDG3zlAYbDwzZgOLzMxOJp3mAbDGYD2Ubrft0tdUZRMshauqVkLSFKMiipVP8qVZXqp_rX7_74lRb_SPnXPuwVdx9v4n4wz8RFHjqe_aV_dMkYD0Xyd46mCALgBEFzLEmSOEayv8ThENbdbVVJBmAEhrMEwXIUgeMAo_-Wp2FSF21qZFn6ELt4TWMpmqQxksJoHFAUzlEU8ZeiCW_pf2WKYVmAsSRDE_TaCgcA__5Inj_8dB_Tx_uvPHLQN7d4dVHXVd8w6qdb_58qGscIhuAwwABidQDLUt-bIvnhe_8avvLbj-NYp7_-afom8KqpCurF9t3h0kj9CWJ5KEvvi693iXLIT7AeA7nOv271V9F-5fVX2v7chf0ri3_7_Z_hXRWEUd2bTt-7ogVQgVmGG1i6b51DHA5eFZCXurcd7DakUi6YTU1HlbkYjjbbmA5i3BJPXuK7TfKMGncIRR2zKm2JsGBCWDfpnoU50v6eKhdgLfXexSwhaBKQ2G4YKlaG8NoLFhUzbHfUsaAIpYNouxXpVoka-4c2AvMc4ZRjiwfaBRStNbqGHKtPluRll_lRx60ibWsxxIMyxLkHKvXSayvqUu-BW1m0Jw8nz7ZgKM91Iqmz4VTAUmrbkXVo47qLxJj0_HzUof66OM8htGuQOrocA6vQiZwIlYD2pH6NBXiq9EiH0xLMqh84Em420oSkQLi8sTJWLMsR9cAirJdp30K1kmBMqFRQW23YBJMu9W2qWM26T-mVkmNWbhlUur7u2BsQ_jg_H9mvgJeoARm0lcd2c82SlbfD_XrNAk-gwNF0ZNzcYsyKBEHjLCAx5ud4RaZIf_vDP6-yBQX-bAsKvwMcf8wFa7ptGqDngaIKhIeYoOSyUyhU_XOjbLRqL1sPGx7Va2zojxE8BRiafVfN0AU11-ZKlfURYo2iNTtORFFcMJ72-YEMAe1W4j4_rleUxuMj3SDbOu_4vZ7zdPFueo-qLMizG3kxeKU1IJcfOeUg4tXZ6bRHgV_T6GBSTJK8IGYf1dkReTovc99frupxPLFDHMhZVuqceLhR5iAunTBGR7dl3mt3yFuCckW8BpFqw51wM9VNCPefHzwUdnwYcvDQj1JF-wMjXu5WgBqfMqdhPl18QeiviAXGpQ1Nhn6c08PCPblwgP1y-_yQDUM-wSu_dxC8Qh9qZ1s19J0q7gAWMYBMMorAkizj0q2t7f5_AwrfCrvHVj3vcBoQW3p9FtswBmBLZ_E2whKwjRgq2aYsjm9jnMs2W7SzY5ENxTPfeVbBvsoD64T5kyc_P0R3N5ECtIrX_kRX4XTOof-6k-5B3tzBLYf77vNDXwcS7rEg8BDhJtwbsywiRTKvR8PA0VAl6wNzTy9XmMa6Ah1ObuCi3dKpeoDb4QBu4WmO9ujG8dKRStwaJQTyDvDY-HE1-hqpWGnV7ksNPU7IbBkTZRCFSkeUc7F51zOntnYBXq-ii57MGKb-UorRKZcl9qwG6mTPZl-mL-91vPHcNTlen8MrSkLb5IPU2kfJLbapdD0ZcNvjU_Ad9WF5TJDiE8SVyvCUIEOPujlS5HIil5s1MRg139Vz2LixtWwu76eeRm7aye9Edz1aaSdlEje-pin5RSgeo3F2SXQ9U_sgbHKwj0F2LI48fFumgh58dpZj9vA-UnFOvt6Tx2bMlYdnMNTBwmTtfD3cjYaj-ZDTAIak_WF8o56xOn6Yg-Vd5pe-pUbObURb3YhQxhkJizmWX9FxnBPcld-8BT41W10tpjSbX_RSJQwRYqs_acI8Jt78PEnP2bB5QrcrUlvip76opL7EuG47lI_-lyOA-VTyz6h1n5Ew4b652_0bsAQ-5Q",
+        "source": "desertcart.in",
+        "price": "₹1,06,273",
+        "extracted_price": 106273,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 20,
+        "title": "Vivo Book 15 Oled Intel Core I3 1315 U 8 Gb Ram 512 Gb Ssd 15.6\" Windows 11 Hm",
+        "product_id": "14814327323998394194",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:14814327323998394194,headlineOfferDocid:14814327323998394194,imageDocid:10998937211152692029,rds:PC_9409322738526304756|PROD_PC_9409322738526304756,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "_6pZQ3icdVTJyvPIFU3IC-QR_nV-DKXJsvzhhYbSYGuwSlJJ1kZotGSNtiVbFv0wzdcDdFYhBPIsf0PyHFnGgc4uWdziVp069164h_PP3_3xM6_-nvMPIR5ULKSrdBjtI3VSxp7f_DLc-mxKxyr7G0FvCJoiWYqkOG5DcTTB0b-k8Rg3_bnKvv9rmcdZU3W5VRT5TerT_0P5c9XG5_w3HLyfOYolCYJgyDVHApL74Zbdv5FHMeJowFHkm7x5QxSgWWb93RFZUvS_sZ-uU357_YV3POcrrh590vf1V4L56Ty8O33_Q_ufY3iMn-X5x2lq8m9_en4Vec3WRO3kBng8tfKgQ6KMFfl1Csw-U_elDpspVJry89x8Vt1n2Xzm3c99PDyK9Nff_ws-UlG8paLtDQOWEHD8vY09gnHBnkoJj7TkDGECSbgtxVjNPESa6_eNCgEhO94cW0o_ezIm00s4JjXGWEaC4z-fLjnUpjK_sMeIATEI9oIFo2s6Ty11g8TSyb8_vXcdV9LmlCyvGRYCLJ8AIspbDAcy74Z7LDeO7Zl3w93HmdxYGIcX74LckJwnK9j7euDRoVpOqMHNyW8aAzQ1UjjVxqZ-avHDIMPGa97zASK2YNk5DSKRmzHpRaDDJeuwmt1NdZjiIFv7tT2eGnTLyEGJqZpOsTyl7eghBdJI5uwQMkYoCdhtT88TEZq6N05mLdMOMSi2b465KlxdDw8GQCe0hL3nP5eklbukHaeQyuRURoOP8dFZysqBXGhSpZURCOcN8lJXkBIV0XpQhok8HM0LImJ5uCZgaNNALpDnOTKJhazelyksfbs1xhMlAA_zi-9lIAGQVqq9gFTzZfmhZ7pnCndDjLpGM1pEpmqm5MFety_nxSTnU6Zm3Y_z_VZ8A7zMjI61RmXqtlGRkYDYX6OoCH2RAQfbU0h7S7AcAag1uQE0wf6cvgVZ5b_-4R-RgqDIH11R5XeA4w-liJ7nVQvMMlQ1kfIdNrxwhR6L9XBfqSujFhR0c-FBi1LLvE3gLsLYHvp6hhg0XFeqdTEkzsaqOrvnJCdJK9Y3Pr44lujs3hL_-BJFTp5Ot3zluOi44wWz5NfVqx18pkaQ36yUxeLVzoJceeDUvUTWR683bhUZ5cneZtgse0DCPWizJ_Hr8lIGwRJph0nfjGmoFMXF5KT9mbFHaenFKTngjn29u0MeiWrk8AZ0NBfuxLOtrWIofHzhobjj45iD-2GS63UwstLpikKnDRj7Oc76KRDFIXI2wDp1sc2ub8d8v3B3Lh7hsJw_viiWpegw4gXPgREMoHF0NcvcadIOEAkL6KxgKCIrCi7fusbuvztgyK24u221445cA2q7BgS1jVMAtusi3SZEBrYJy2TbfEOS25TkitXW2bmptImlI9_7qNo8LvuNF5d3nv74IuHdkxYhqh6Cvq7j57GEweNK472yuoJzCYX-44v5Hki8vi2Chw5pQ8GaFclRZTs6WBbpjHVGkwTWH1h8Tk0NepJewcU458_6Bs77PTjH-pwIzpnj5QOT4cbJqLfBwEMbpPUUGLSK8roTLoZz0x27Y22ngE6s9tRlrlavZua0zq3A41H1yZ2d4jxYLlKil4q8OWqh9nRne7jkD_9xOPNclB2i-_hIsti1-TBHQpKdU5fJ3ysDuDvcxcDTbshnw5x8QlKtLV8NC-fWtAeGXnR6OaMnSzDzVTvGLU7Rsjq97mae4LxXXpmJ_bXaPdWntAoMQy1PYnWbrCOmnejICGHclkBIQXGoDjx8IVt1bnxxVNLN_nVg0pJ-vJ7-pmAjHh7B2IQLW3RztL9aLbfmY84AhCML--nlDCzq-XEOl9elPA0dM3G4lVxtJUGFZGUi5Tb8Wzqep8Pd5au_wLczau9IGcPlF_OiUZYEiXf-NMR5yvz5rsv32XJ5ynRr2ljSu7lotLmkpOl6TOD89kcEs37h70mH74n4JAN7t_s3J0Bq4Q",
+        "source": "desertcart.in",
+        "price": "₹1,08,003",
+        "extracted_price": 108003,
+        "delivery": "Free delivery",
+        "rating": 3.6,
+        "reviews": 94
+      },
+      {
+        "position": 21,
+        "title": "Asus L510ma Celeron N4020 128gb eMMC 4gb 15.6\" 1920x1080 Win11",
+        "product_id": "15868665724911415286",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:15868665724911415286,productid:2782055924307847519,headlineOfferDocid:15805472595554959779,imageDocid:9647903560939501712,rds:PC_13460433897199323564|PROD_PC_13460433897199323564,gpcid:13460433897199323564,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "6JmnT3icdZTJqvPYEcdD8gJ5hLvOh-FosnR88ULD0WRLsnSkI1kbo8nWLF1bnkQeJtyvu6GzaroDeZavIXmWmE6ySxYFBfUvqqj6Vf3zd3_8LKq_F-JNSkadSNkiGyd3x-y1aRCFH8fzkF-zqcp_oXmBBhwHaZYBvMDyHAV_zJIpaYdTlf-N4oSlsFxyPM1CimIpjhaWP5dFkrdVXzjHY3FWhuzfOsCxPM1BjuNYyEGeh3-tuuRU_Bb_BS5ZHgKGWwLIQA5QPEV_PeeXb-xOPlAMuwQswwiQpyBk6JeK_fPOc5TD_wl-_3Etzs-fRBzgL6S6DekwNF8o7vvT-Fsr_yPja1flf_k63qbP8vTd9doW3_50_yKLhmvIxt6PyLTv1HGLqDLR1Oc-sodcN8staq-x1pafp_az6j_L9rPofxiS8XbMfv09jT4MRb4ashuMI1E8gAlsvG4Mgzl3PN2jbNASJ4BcGubLWM2rsM77hKjTNmwtEprYQhBnKHZxLcmBkpcRMJNsbiZS21wyS3TeqeewY0EW5pWvtlPQlfEexIE1x3MajAwJW5xSo5QiYQqRLeHO8y2NDI4GHy6YdLdp50xve6K0N4_YdUSreqghOu_tjnTT09PJkPntzUIeleklEyAEcr9sPc0mNhm4hBFZrLqTp7_wQTnlR-0UhmpCGCkOSWvknUtZHefZZGwDEPshcR9FUMYxgabbW5OveWFIYJt2cJ9TEolbkcoY0yFguuCAG72wHPMovmfa2Gb-id737lT0np7o6i3oWM4LLlzSmZdU8eh0zmgyS9s0CChbM29xsJ_COm7SEDaYIpqnjV3SxE6i2aPXtb7VD5M3m1c7Uh3Sj2USPkBat37YkSbuXZbM6oA7gSo0c8oVlU07orhRMwUUDG1fokKtZFCZt24Uy_tIMkhj1tvQvueq6lpUq-calBxpqNzAm7O67YIAmrhBj6wd1ew1N6IQxtNNXETj8TWPGDMxiO_fPS7n4zcgqtyEHT4zL-xhGvWNhuqgT8GHcrIJGpH7PK0oHlKAWdLCi2Puh-yFd1X8-od_HDQPyeLOl3VxDaC4KWXvflp0wC5j3ZCZEPNxDY_bRG7Gy0JfWI2keWcfbYxD5tjnK7jIKHHHoXkgAlrYl3pzHFMsOFXvDlDBaVbxofX-hh0Zr1_H8f52OOAiu56LBfa93VqU7FJcVs8X5FzjIVFYaLMj6r2DYLmBuqnQzS4YrHNFH4rUdDk-z2-I8jfGI1DEZVmXUTQfjM11K0xZrB2PtQ0V88S5kzIP8jXdkJ5_vqoj0ZP1AxYthA0freWTaywSJL2_iUhei0kCkTle1WYZTbyy__Bi3EWce58e230ky-MBC8DZ94nLL8-7wpzhBSYTGufT-5vmONoWHUQpwOiAImTtfMOx14ayBlTKAzY_cgyVH4-wWPnW-r874OiVvD6vjN2aXgJmtQQUs0oyAFbLY7ZKqRysUp7LV4VA06uMhsfFCq_9TBESZScOoVcJt9oUgqS8iOz7m0LWd1ZGXnWTtssmue9KFN0-WGJqiw9wKpE0vL_Zr4bkj0yWRYRpF0nOQ1OwrrqHjePQeGpylqbI9kbk-7VtwECzCzRbp-LenMHJNMEp2T5SCZ-gqG64nLQ4Z3Book0XZc01sljdK5peqi183mK35118RDjRB6Z-VItn-4BG71fgdquG9MJfkyKaayXdlpoq7IzYuPsPd6yLW3jbnER4yDeHy3RL88R3xbjwpDQ_ZT5XvFYGSL-5yFFgnL2Qjwv6jmi9cUI9PuJz2204dt6y88m78xT3-DB2SUcyb17snxe7SEkxaM_cJuFS7-_6XVlElqWXe7k6X50dYfFhx0lx0pVAysBxU21E9PRcHZ_F407LBPO54bKSvT3voXDkDyLagamNZ_7YPw7mh9PBpZhAC1BYlczrE4-8N4jTI56fdbkfe-4KSaf4xkJBGs2rVAYF8YVOEGzRuv4Szuhi-cbLMs7yxdmuDcZREPXy75b8uObh47JVLw_HFxnbb1hrzi72bLD263_ZfsBF-D8aGTy2tXhJe3JJ5Tsduev1vwDetoe9",
+        "source": "desertcart.in",
+        "price": "₹40,121",
+        "extracted_price": 40121,
+        "delivery": "Free delivery",
+        "rating": 3.2,
+        "reviews": 358
+      },
+      {
+        "position": 22,
+        "title": "Vivobook 15 (F1502, 12th Gen Intel)",
+        "product_id": "12923286942578951024",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:12923286942578951024,productid:5128281792412011555,headlineOfferDocid:12630659683882265804,imageDocid:12248167888542658322,rds:PC_11641789003239253456|PROD_PC_11641789003239253456,gpcid:11641789003239253456,mid:576462563936016464,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "2nEoyHicdVRJruvGFQ2SDWQJb5wPAexF6kEDNsVO7JtiMxEoNmJPPlGUKMKred824IwCJ0DW8g0kawltxLNkUEChzqm699a59_z7D3_-zKt_5uyDS0YZcukuHe-2hUfSfWDpn8bbkM3pvcr-TqIYjdHonsEIFENQlCTJn9LknrTDtcr-gWIMhmM0xRAYuacZEkUw4ucyT7K26nOzKPKbMKS_8SgcoUiGonGaxjCKpBHir1WXXPPfcYygUWpP0zRJ_ArjGPb1lk3fCIs_oyhFoNvrCIJjOIOROEFS31mOKZz_D_jDx5zfXn9jXd_9AqvHcBmG5gtK_nAdf4v1P2587arsZ3JPERRGUjiDU8hGooiv4-P-WV6_n-c2__aX5xeeVWyFVyIvhPeoE0cNoGUiia8oNIZMVksNtHMsteXntf2s-s-y_cz7H4dkfBTpL3_EwIci8LPC2_44QsFB3LBcvbAVosZYXKSNbOhEORT1tGcxB1NjGOjPVExRXRB1v1E1D8nWCIpmEIJVR8UyEeMwbrlXIETrxjEidFQ8oTQcT4S-1CYGKmqeH9-DIFt9kHWwFZ9Zs0w2amhx33oJzOy8MeZALKmgY26JkJ2SsDU0qNYGNuGmmJVJN2E6yt09HM5QWkjdM0a9YepAdkpHcmbYRi_TJ8nAMxYN2gsUnbvR-njetWgAxCnEIxJK7U3HSj9t2xh2Rhc0MMwBSeVS6xk1eBqA4QJRHf2utCHu43prk044WmnLlHoLpwTC2qnjJEbpexpkuNepXS7dsUxOcYgRL3eNNehliAvj0faNKfJKmIeiYyCZlDcOH_nZA0KjNvrsZqMQ2GtsaQHpu2j50Btx8YRYi9ZSDgIEy71fM-BqN1QLx1-KyCcjD1W2-mJVbxYh7crCgYydAeNhh7ERIcZs9xGii7AHZdZuZ3wUcgps1FoLjGcmiraOtnImMZzJDZXtO2tat53fZJ0XZIUP0OcFgYrdqEgajnMCYpC2mZl1JBo_v1-mW_ENYUXy7pqUFqLAstvI8v3tD16PoDBk2aJubn89bAOKIjiFbXOFUz-mW8NX-S9_-tdZcgDPWh4vs0eEYU8l7zyvuw4xylhWeDxw93HNFFrCN-O0k3d6w0nOzQMn5Zyaxm1GJh4k9jg0C4BIy_Sl3BTjxaXNqrcHRnAvabUP9Pc31-Td4zYc72_ns5un8y3fuZ5jHVnOKFmqenVjQDYOYOmdtJqs3JuAKU-MrApYY_mDfquwc35RbXKfZQ-Aeidl8QWWKusyDNezcpq1TfhYKoraYAT1Stp3YR34-XKC_f61RQesw8tnl9WBq3jgyF9tZZcA7v2NBfyRTRIGqOMsNlR43wvRhxO7XUjaz_uiRSHPj2eXRsyoT-w9dbNydWUmJrmDcb2-v0mmKWngzHK-C84gBLrlKaZxVIQjgl72CJEVJI5mRcHkB08__q4BiR344-2gWEeMQvDD5iX4IUkR5EAV6eGCZsjhsiezQ74Z4SHFmGJ3cI9eKtCJYLFD4FT0o1ZpPyknlnh_E-DxSfDAqR6cRjXJ0ypB-PggoCrtPpBrCbjh_c3YEuI_Up5ngYvZgDMXSXBl0T6fTBNz701GYCjUHpB_zm2DDBix2wzkmj-bG3JVVeSaaMuFc68MK57IDLZuhruBCk5dmDZzqBOykzc9V-vuTXPtfm-7BXATecDrpdq92oVReq9CHo9quEz7OcnDtRYuWimJtKXEytNb7LHOH8HjdGWZc3Y6T_fHJUs8m41zh7tk19Qj800yBPaniQ995eYE-zjHngCTGzOQ48K9td2JJFaNWK_Oc4-Sy4diJR1MnXUXvSYjv8B8kF6ZAQNK7p_yU9iFui6XEV_dZtOChHu2SC5OuhLhUqQ4VScWvBxbdm9sYUkprb5OZFoSj9czoIv9mQUWcm_jdV_0y1n9MDuGYhNGR1BX5NT55Y57Z2DvS7y-6jIae3JmYCd4yk4AErYX0ZSh2a11fF8Dx_pLsIJJ95RtpZt3sqtRK7gpAHTbP3V-mbNgmTRxWkyPxQ2vIfQ1nYxVIYw1xQzPJ0P3vxweWbSanS49nC78Ewvt4_E_DIOKww",
+        "source": "desertcart.in",
+        "price": "₹1,45,074",
+        "extracted_price": 145074,
+        "delivery": "Free delivery",
+        "rating": 5.0,
+        "reviews": 73,
+        "multiple_sources": true
+      },
+      {
+        "position": 23,
+        "title": "ASUS Vivobook 15 X1504VAP-BQ224WS",
+        "product_id": "9313874995387009538",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:9313874995387009538,headlineOfferDocid:9313874995387009538,imageDocid:5785839350358790068,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "M6TNwnicbVRLrrPYEU6UDWQJd5xflg5gDPjKAx6Hlw0YDhxjJhYcngYD1wZjs4Fs49fth9Q9aiWDXku31L2WdivJLCpVfYN6qupT_f6Xv39m1c-ZeJfiXscSWZB-cPfMURs6kf-hv3bpSIYq_bfAUAzPLQWBfQEAf8IPJB7ipiuq9Ou_yixOm6rNnDzPrkpH_n_Gj9UlLrL_uFmOZ3lGYFjAsDwnALDiv7mmt6_ffYzZ9fmTiAL0BVf3Lum6-gvFflf0r6yv31z-NP19-CyLb8exyX75x_RFFg3XkI2jH-LheFH7HaTKWFOfx9DuUt0sd7AZI60pP4vms2o_y-Yza7_v4v6ek1__-k_4YcjyaEhu0PdY8QBqcUla80yA0PhKNGGMgaWoLNGGHNGsarX4HvsFFdIlExwwHSlpnlLYiGu8PM6R4WMBorCvIr-c3Ba3iBKilGlyvxYQqqnRbVUDn9UqoqR9TFO5fSm9WFFvR6aZPNoG9kWVk0Dwid7jeE4fR5oy09BkrMY7EtpsXMpW_HOqe7Unv-pJNlYRqU3FAqaThZFKAg8eAs_INOoW1OUUQXvnKNhIqcgmbeoF0J1sVSh9xaL9mvpIZMryzyp2cf-0KbULlAZ6od2kdbRKtEZywbA_1uUzpmyY6rZ7wCITPYwwClTavagTUiP5-KTORPe8QLEjj_Hurl_ERq1Cwhhs1NhtzKSmr5n1QaZoR6YaFDQevgw4CiWL1Pgl8NvH7Zr_AkSVHZCz2rHjECp7vx0ZGpoqbjmFoqNt4nfFmuIECjArmgfLJfU9efGjyn79228nzYOyuPdlXdwAQdyWsjcViwuwy0g3ZOaAuOgs5LtYrvvbQl9YtaR5Vx9ujRNx7OsIbjKM3b6rHxCDRmhLvc77BPFO1bqdoKCEVNzBen9Djow2L8a9v51OKCPjNVsg39tvRMkuxVX1vPQHtvagyC-02RH11oFCuRV0U6HrfdBZ14o-ZYnpslya3iHlb41HoIir8lyG4XwytuOOH0ik5fnZFhSzYN1BmTt5TLavFTxf3aHoyfoJiRZEhg83cuEaixhK728ilDdiHAvQ7Ee1XoUDpxw_vAhdQtadhsfuGMpyf0I8cI5t7HKr6z4zZ-EmxAPs5-L9TXMcbQdPohQgeIIhtPa-4dgbQ9kAKuHAMs1ZhkrzXMjWvrX53w1Yei1vrmtjv6FXgFmvAMWsYwLAepWTdUKlYJ1wbLrOeJpeE1rIF2u08YnCx8pe7A5exd_PJh_E5U1cvr8peDMtZehVd2m3quNpX8Lw_rHEprb4AEUJpe79zX4NJH8QWRYhol0oOQ9NQbrqnraOQ6OhTpc0hXd3LE9jU4OOXi7gbBXZVF9BYZqgiHePREKFIKpbNsUNShl0MOH2EpJ6DK2l7mV1K50tdN0ht-VclEMU6x1zflSLZ_MQjNavwP1edcmNG-MsnM9Ksis1ld8bkTH5D7c_Z_fDfVuIwindnm7DPUlj3xWjzJOStCA-m71OBnC7vclhYFy9Axdl9ARpvXYOepSja3PZsst5t5wLb-Io9vFh7OMLJt68OD5vdpbgrNOeqY0PK72d9ElZhJall0e5uo7OHi_Rac9KUXwpgURAvq22Inx6ro6uYr7XCG8-tywpl_fndOBz7iTCPRiaaOby9nEyP5yLsBJjwQIUUiVzfKKe8zpxeETz81we-5YdBXxRfGOhQI3mVIoIvPiiThDs4Ob85TDDm-UbLyWs5YuzfTYYR4Gv7yJOlvwY08PjtlNvD8cXGduvl9ZMbvZsLO2Z0LYfsCH6b4wMHruzeEtafEvkiQ7dzeYPDB40nA",
+        "source": "ASUS eshop IN",
+        "price": "₹73,990",
+        "extracted_price": 73990,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 24,
+        "title": "ASUS Vivobook 15 Laptop Touchscreen Computer, 15.6 Touch Screen FHD Intel Core i5 College Students Laptop, Lifetime Office, 36GB RAM 2TB SSD512GB",
+        "product_id": "13820704246527836890",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:13820704246527836890,headlineOfferDocid:13820704246527836890,imageDocid:5277468070558531816,rds:PC_9679657039843881692|PROD_PC_9679657039843881692,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "IIen-HicdVTLrqvIFU2UH-hPOONcWSpeBnzkAY_CYPMuKDATi5cBg4FjY_NQf0zr9EPqjKIkUr7lttT9HRnGiZJZMqhSaa9de23tvbR--903n3n191x4inGvYjFdpf3g2NRxN3QC93N_67JHOlTZ3wiKIwELaJJeMyTLUWuOBz-n8RA3XVFl3_2lzOOsqdrcOp_zm9yl_-fLn6prXOT_xv_6CrL0mnulMAzHUARHrL-_ZfevpC2d-DXLrxkWUDxHU9wL4clvbdeST_8b-_Hjkd_mPwvIR19w9eySrqu_EMyPRf8i-u7767-u_jl8lsUPj0eTf_3j-EUSNEeTtKMX4uF4VXodEmW8U-ZjaHaZui912DyiXVN-Fs1n1X6WzWfe_tTF_fOc_vL7f8BnKkm3VHL8vseyC1AQSaZv0EnYBHEAB191KAzdOZwJ2_Qzy6xHAgemjXA5Z7uCzC5H0oMj6deln9e9b1wZOgOR7JLK4di6rVMztUniIPMiBu0GyyQUN_Oza7REO3SNxBhmJiLd0lKzJfCVi1FP7au-kzbRM_OaMA5702gadASThmHUm4s7oms6W6rbR2GzZB72c_jq0yfMWOlrj8R63op17GUXQ-nDkMJqenUxCnon9dxnCkwxCwY7hpNxJMoZ4eMQtdnDxSZpELj0AocIF2eMAbEkwWD48EhFgavo4XHCdalnizinfrk2m3SMQ2xkPkOb9XCIG_wRk1GIsOvnuCORh-WY7Jb0GoVxiy1D8UGiRlbQ4tpTxXsKCiZQ930cKqZL3knvIlqBohx8pbz5i3mMCTy7ijIlAWEEtY8UEotZvS9TWAbO1RiOlAh8LLxmloEEQHpX7UVXNWcriFwPMI4BCSvC0TqBOMQ1vliy-WG2CjYvDhMve-qH6X47fwWCwgzIohMVJF3WytOd6fTmoTIMTXmRbriFsyFYngDUmuQATYOf0pcgq_yXP_x62rlQEmxPUoUt4IVDKbljsboCs4xUTaICxEYX_qzHUt3fV-rKqMWde_PgQTullnl7gLsEY6fv6gli0PBtqdbnPkGcVbVOx8soSSs2MN7fkCWh7Uvi72-nE8rTxy1fIc-1t4JolsK6mq99wNQuFLjVbrEEtbUgXx54dS-Tte13xq0iT3mydxg2y56Q8A7a5MvCuryUYbictMND54Y02p3PF5OX9wXjDPLSSY_kgFt2frFDwZXUExIMiDQPbqXC0VYxFN_fBChthTjm4b5_KPU6HFj5-OFG6BoyzjhM-jGUpP6EOGAd29hh1zc73y_8nY8H2C_F-9vOsnY6PAmij-AJhtCwPc0yt5q8BUTy8prs_DKS7Hzm841nbP-7A4bcSNvbRrO35BpQmzUgqE2cArBZn9NNQmRgk7BMtsk5ktykJH9ebdDWS2Uulm2hC9yKe172nB-Xd4F-f5PxdqQl6FZPUV_X8WiXMHx-0Hi_W32AooRi9_5mvhqSPl4WIUBEOlC0pp2MVMU5HSyLREOd0SSB9SeWxkdTg46kV3Axinysb6DY70ER61MiooIXlAOT4QZlFAr28HAN0_oRGrTq5nUrXgx005HTsg46QxSrHXWZqtXcTLzWehV4PqsuubOPOA-Xi5zo5U7hbC3SRm9y-kv-DJ6HQuBP2eF0H55JFnuOEOWumGRF6jH5a2UAt4e7FPrazQ3YKCdHSKq1FajRGd2a64GhF51eCndkCWb60Oz4ilN3WR3nu5knOO92c2biYK22ozrKq9Aw1PIoVbeHZWManWxGjOJrCcQUnA_VQYCz66joJpztXcrt5wOTlvRzHgPuzJ4EaIOhiRb23E6n_Yd15ddCzBuAQIq4f8yoZ91OGKZomS_lsW-ZB4-vsqetZLgjWYVIeU54Scf3dbi9fAkWeDc87XVSxvCExbxolCVD4vUeDWl6ZMF015X7ZHkCZXo1bSzp3Vw02lxS0vR8JkT_yZHApF-Ee9LieyKNZOhst_8Eg65r8A",
+        "source": "ubuy.co.in",
+        "price": "₹84,953",
+        "extracted_price": 84953,
+        "rating": 3.1,
+        "reviews": 1
+      },
+      {
+        "position": 25,
+        "title": "Asus Vivobook S 15 OLED S3502ZA-L501WS Laptop",
+        "product_id": "8853684475777911053",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:8853684475777911053,productid:10551343344958519910,headlineOfferDocid:8828706089041767144,imageDocid:1771537762266841124,rds:PC_1776757546327866856|PROD_PC_1776757546327866856,gpcid:1776757546327866856,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "DoGk8HicbZTJrrPIGYaj5AayyAWcdX5ZKiYDPvKCocxgA4aCYthYTDaDMRyDzaBcTHT-7pY6q1YnUq7lbym5llhJZxNlUVJJ71vvV6Xvqe-fv_n9Z17-PReeYtypWExXaTfYRypUhlbgfuzubfZIhzL7GwEYhqBoiqJpnuEYgucJ8GMaD_G1vZTZXzmOodYcTbMMy7I88XJTPxd5nF3LW26dz_ldbtN_20iOBWvA8YAm2DVL0PRfyia-5P-RCZYlGIpl1yS5fqURBEl_vWf9N_IonV7a-pXO0GuKZLmXzKz_dHQs-fT_te8_Hvl9_klAHvqCy2ebtG39hWC-v3S_FvrfA1-bMvvz1-45fBaX7x6Pa_7tj-MXSdBsTdJCN8BD2Oy6AySKWNnNYWC2maoXB3h9RMq1-LxcP8vbZ3H9zG8_tHH3PKe__PYPsB1lqR8l2-s6LDsA-fwQeuNkNuPoNQYR44II60gylZoIbxFjE92EfUZ3lohKFSLOEXGPlwL6u8J0d7uPg8fRvtp5njcUqap3hpvJUT1VGBikSRZuRmVLTGWqowpTjuGUuaJmQmLv4Kvt3ozFDVoqbBw5aRzXbDjge7g3ZoKxgp3iy7rneyGRQQchn6HS-trbS3Z3ZdyZYCRy7MCIhJMfCAyWcZ9XRZ8SjpGAosuaIjYrjDO_qw1V1z2ymB1lMnHTzi7Ud2YTzR4WGJfEpt9EYeaaRwSI2VEd6Nd847pi6yqda8lRkyhXw6yZOcLX2NnVM_KmtSlHZQ53MPGiJlW6XehNhxCEg4953XML2WlaJgZO7FxF32h0MiMxgcnCSW4FDCu9MjE-urfuw630MbmJD-Ma0SnIFEQY0yuTjKDzxOoV5bsaOA0WXRySweIwFhbQjsRiVutFCgvfbowhpETwesviexlIAKSVUhcd1ZwtP3LCxXRy1Tlmjb0kN_xAKjbzmjG8QCyiZkJZVYjfTf39_A0IO2ZA1ovAihgHyT2rpP7IW-ngMHO1UKLJXjbE6x8Bak1ygKb4H9IXv2X-y-_-cVIcKAlHV1KFLeCFfSE542XVALOIVE2ifMRGFX8-xFLd9St1ZdSi4txduNdOqWXeH6CXYGx3bT1BDK78rVDrc5cgzipvdsvLKElL1jfe35Aloe0L__e30wnl6eOer5DrHLeCaBbCupybzmdqBwrcSlksQb1ZkC_2vKrLZH30WuNekqc80W2GzbInJNy9NnmysC6qIgiWk7Z_HLghjZTzuTJ5Wb8w9iAvrfRI9vjGzq_qUHAk9YQEAyLNhVvpYmurGIrvbwKUtkIc81DvHrt6HQysHH44EWoCxh6HFxeBJHUnxAErvMU2u74fc33hez4eYLdc3t8Uy1IO8CSIHoInGEDj6GqWudXkLSASFtDZmaGI7Hzm841rbP_bA4bcSNv7RjtuyTWgNmtAUJs4BWCzPqebhMjAJmGZbJNzJLlJSf682qCtm8pcLB-F1ndK7lnpnBcXvUC_v8l4O9ISdMqneFjX8XgsYPD8oLGurD7ApYBi-_5mvi4kfaSSJEBE2lC0JkVG6s4-7S2LREOd0SSBD08sjY9rDVqSXsHFuORjfQcXXQeX-DAlIrrwwm7PZPiKMgr5Otw3QVo_AoNWnby-iZWB7gdk31gbnSGK1ZaqpnI1Xydeu7kleD7LNunZR5wHSyUnh0LZcUct0kZ3srsqf_rP_UXgT9n-1A_PJItdW4hyR0yyS-oy-atlAN_2vRR42t3x2SgnR0iqteWr0Rndr82eoZcDvVyc8TX0pw_tGDc4dZZVOPdmnuC8VebMxP5avY3qKK8Cw1CLUCrvD-uIaXQ6MmIUNwUQU3Del3sBzo6tortwPiopp897Ji3o5zz63Jk9CfAIhmu0sOfbdNI_rIZfCzFvAALtRP0xo451WmGYomWuirC7MQ8eN7KrrWSokOyOSHlOeKHjeQe4rb74C-wNV3utlDFcYTErjbJkSLz2oyFNj8yf-sOunyxXoEy3po0l7c1Fo80lJU3XYwL0q0cC06ES-tek6BNpJAN7u_0X7M17lQ",
+        "source": "ShopClues.com",
+        "price": "₹96,990",
+        "extracted_price": 96990,
+        "delivery": "Free delivery by Thu",
+        "rating": 2.7,
+        "reviews": 1,
+        "multiple_sources": true
+      },
+      {
+        "position": 26,
+        "title": "ASUS Laptop VivoBook 15 X515EA 15.6\" Full HD Laptop",
+        "product_id": "10575654274549799104",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:10575654274549799104,productid:17974645790833792762,headlineOfferDocid:4310199602082921964,imageDocid:14588974811808462307,rds:PC_761705050952723631|PROD_PC_761705050952723631,gpcid:10881847405003101392,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "nqE2fnicbVTLquvIFQ3JD2SQDzjjXAyllyX54IEepZctyVJJJVsTo6f1lo4tWbbojwnndjd0RiFpyLfchuRb4m6SWSgKNqxdrM1aa9e_f_fHz6z8ZybcxWjQsJiskmF0DtRJHXuB-2m49umUjGX6M8HyLL2mGZYHHEWxPMmuyZ-SaIya_vIrDBiWWTM0ydIMzbM8TwD670UWpU3ZZXaeZ1e5T8r0HzRFAILn14AEHMmTBL-m_1q20SX7Df6ZoBmOexFxBMEBjl6TFGC_XtPbN3CQzuyaYAHzOjxDsiS1pojvDq4tn_8v9MPHlF2ffxOQj77g8t7HfV9_IZgfLsNvPIDjCI5m6dcT8OtIFE9-bcv0L1-H-_hZXL6fpib79uf5iyToji7pJ--Ix1OrDHtIFJGqPE9Hq081o9jDZgrVpvi8NJ9l91k0n1n3Yx8N9zz55fd_gv0sS7dZcvxhwLILkFfsfEQ4DqHgEISlWbtUXFl64j8q338EsWcNaaM__aqhXKKQM816-D7PYA_7JyxO5jGEFlUsMansPJ-vkkoxrU6s46NIowp3rmIxTltc3VYHES7ucSOMcVeoSc3PGeT3fjsWblsENiIotxlGNzCupxowe8-4h0pYB61ywvjXWmHMgPETuSZjrBwwVoYEuiRSjN3JS8mYEEurvdCB16gBxHYKx9b2FMoOOBpT-hxTCuPJheV1VmQ17uz7yoRAkbvBiU4CKzKXmjkFt0egCU-zSz0TYDrVEirBQ5_5L4X9og-CwkgUh7E8IzghYkhV62Z7L61qQnVaa28-CSrzMI4Ug4opsbKq09P33EMCCNNXhylu0jDWlLWHCztQGiWRQ9IOHDrFFyoi0peeF8ahQglV4eh07i5ejKMVGEamjmWI_SXEhuFBHykkFtPaKBJYBE5rjidKBD4WlsBPQQwgrZaG6GrW0w5CD3vihweKQyYBJmyMEgHXdIExOdgaoiX1Usqlvn_crvk3ICjMiOzX0lTEPEperpHGlPXS3mWe1UKJFnvZvFaOANSa5ABN8T8mrwCX2S9_-NdZdaEkHDxJE7aAF3aF5M6XVQusItR0iQoQG1Z8vo-kerittJVZi6p79eBOPye2dZ3ATYKRM_T1A2LQ8F2h1fkQI84uO6fnZRQnJRuY72_IltD2Ff_3t_MZZcl0zVboJe9WEK1CWJfPdgiY2oUCt1IXW9A6G_LFjtcMmawPfm9eS_KcxYbDsGl6h4S30x--LKyLqjgel7O-m_bcmIRqnlcWLxsvK0Z56aUp3uGOfb7YoeBK2hkJJkS6B7fSxdFXERTf3wQobYUo4qExTEq9Po6sfPpwQ9QeGWceH_vTUZKGM-KAfeoih11fD5mx8Dc-GuGwXN7fVNtW9_AsiD6CZ3iE5sHTbWury1tAxCyg05yhiDTP-Wzjmdv_ecCQG2l73eiHLbkG1Gb9-jE2UQLAZp0nm5hIwSZmmXSTcSS5SUg-X23Q1ktkLpIPQh-4JXevDM6PiptAv7_JeDvTEnTLu7hf19F8KODx_kFjQ119gEsBxf79zXoNJH0kkiRARDpQtB-qjDTFOe9sm0RjndIkgfd3LM1TU4OepFdwMS_ZXF_BxTDAJdo_YhFdeEHZMSluUEqhwIC79pjU09GkNTerO7Ey0XWPnI51UA5RpPVU9ShXz-bB651Xgvu97OMbO0XZcankeF-oCnfQQ332Hs5QZffgvrsI_DndnW_jPU4jzxHCzBXj9JJ4TPayDOBud5OOvn51AzbMyBmSWm0HWpija9PuGHrZ08vFnVmCeXzoh6jFibusTs-blcU469VnauFgrXWzNsuro2lqxUkqr5N9wDQ6HxgxjNoCiAnId-VOgE_X0dBVyA9qwhnPHZMU9P05B1zOngV4AGMTLmzePc7Gh93yayHiTUAgRTSmJxpYtxfGR7g8q-I0dMzE41b29JUMVZJViITnhFd0fH8Pt9WXYIE309NfN2FMT1isSqdsGRKvejalx5QGj9teuT1sT6Asr6bNJblZi05bS0Jans8c0X97JPDYV8It7vAtlmby6Gy3_wEcJnij",
+        "source": "Desertcart.ae",
+        "price": "₹75,853.86",
+        "extracted_price": 75853.86,
+        "alternative_price": {
+          "price": "AED 2,892",
+          "extracted_price": 2892,
+          "currency": "AED"
+        },
+        "delivery": "Free delivery",
+        "rating": 3.6,
+        "reviews": 49
+      },
+      {
+        "position": 27,
+        "title": "VivoBook 15 15.6\" FHD Laptop Computer, Quad-Core AMD Ryzen 5 3500U (Beats i5-8550U), 20GB DDR4 RAM, 512GB PCIe SSD, 802.11ac WiFi, Type-C, Silver, Win",
+        "product_id": "7754621375348300325",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:7754621375348300325,headlineOfferDocid:7754621375348300325,imageDocid:3124348007633777606,rds:PC_1997937519346813218|PROD_PC_1997937519346813218,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "B0HvW3icbVTLrqvYEU2UH-hPOONcWdq8jPGRBzw2NmDA7A0bzMTiaTAYOBgbjPpjWqcfUvcoSgb5lttS8h09bEdJZj2oUkmrSlVLa6n-_advPrPyn5n4kKJuR6RkkXSDc2CO26EVVz93fZvek6FM_8HzHLukKYbnGHbFAMDQ3M9JNER1ey7T7_5eZFFal01m53nWK23yxxO_lNfonP0XZiiafQEA8EuG4Xl-CZbf9-ntK32QT5Qg8MJrkBIYdrmiGJpafXtAtnL6Y-zHj3vWP_8mYg9_IeWjjdu2-kJxP56716Lvvr_-J3WP4bM4_3C_19nXv45fZFFzNFk7ugEZjle120OqiLbq8xhYbbrTiz2s7-G2Lj7P9WfZfBb1Z9b81EbdI09-_fNv8JHIcp_Ijtd1REEAz0VOvLTAl5CxrsIQ0oKBoXpIVG9yaK6xlHSIPWSEvv5MK6oPAVf7tfZ0_e6QbkMX1yn0LnqHCcIJFJyk9p6Jqt48pgtj2NlWgFSnQpGDAe26BGTeoGJQG8QL7ygIe58Itqe2c0IX4dGrZ3Pb6Uf_BpIatUixjiYJ27iBnHVRcVpVg3Mlx9SjvLDiihiklVcNjXMJYTKrrKeSB65UJ1XT2Sed7ftp4RAUYEhpCaMPCJAReaF6vFI3siUqUYh7pEM5JBIgV2_0dqHhQWdOwPCMffR0Lg7rURKbwQJhEmqOK4GQkJoQdTIbwjrEClFV28fA4ZBqPlNYATTrFaKrybyEOdl2tBOIbBi8uMAVHTGSkvoj47ioiYEu793CybxaChjUOOQ4I6gbiau2sephlSZSWulFAgvfuZrDkZGAR8TZ91IQA8huS11CO-tp-y8N6ITNgpo13XRMZ8m3GBTE3tSiANlhUJgv_tIP063PvwJR5QZsL_fTeO0F9t7gyFKWKHD61UhqPyxLZ03xAgWYJb0CLLP6KXkZssx-_cu_TlsEZfHgyjtxAwTRKGQ0nhdXYBXhTpMZH_PhRcj3kVx1t8VuYVbSFvUuNLRTYlv9HdxkGDldW02QgFpoil2VdzFe2WXjtIKC46TkffP9Ddsy3rws_v52OuEsuffZArvosBElqxCX5fPa-VyFoLhabGdb3DU2FApD2OkKXR281uxL-pTFusPxafqAlGtok6eIy-JSBMF80oz7fjUk4TbPL5ag6GfOGZS5le-xQRr--doORSTvTlg0IdZcuJHPjraIoPT-JkJ5I0aRAPXurlbLYOCV4wcK8TXgnHGY9sdAlrsTXgH72EQOv-wPmT4LNyEaYDef39-2tr3dw5MoeRieYADNg6vZ1kZTNoCKecCmOcdQaZ4L2do1N__XgKPX8qZfa4cNvQTMegkoZh0lAKyXebKOqRSsY55L19mKptcJLeSLNd64ibKKlIPY-qhcPS76youKm8i-vylkM7IyROVD2i-raDwUMHh8sETfLj7AuYBS-_5mvQ6SP14vQoSYdqBkT1sF71TnZNg2jYcqZWmK7B9EHu91BVqaXcDZPGdj1YOzroNztJ9iCZ8FUTW4lNQ4ZbCvQ-MaJNU9MNkdyqpGupi432On4R2cQxztWuYylYtnPQla45bg8Sjb-MbfoyyYL0q8L7bq6qCF2uhOTnfJHv7DOIvCKTVOt-ERp5HriGGGpDg9Jy6XvSQDpDFucuBpPfL5MKNHSO8q29-FOe7rq8Gx856dz2jkKW760A7RlSRoXhyfNyuLSdZun6lF_OWuGXejsghMc1cc5bK_2wfC4tOBk8LoWgApAblRGiJ8ImeHezE_bJOV_jS4pGAfz9Ff5fxJhAcw1OHM58100j_sq7AUI8EEFFYl_f7EHY9acZjC-Xkpjl3D3QVyVVxtocAtzatUIqzEl3U8bw83ly_-DG-mq70i4UxXnK2LxtgKpF71aMrTPfWn2169TbYrMpZbseac3KxZY63Xb7Vcjwvw_3pkMO0v4i1uyC2WRzpwNpvfATcKakg",
+        "source": "desertcart.in",
+        "price": "₹1,26,532",
+        "extracted_price": 126532,
+        "delivery": "Free delivery",
+        "rating": 5.0,
+        "reviews": 73
+      },
+      {
+        "position": 28,
+        "title": "VivoBook S15 S533 Thin and Light Laptop 156 FHD Display Intel Core i510210U CPU 8GB DDR4 RAM 512GB PCIe SSD Windows 10 Home Gaia Green S533",
+        "product_id": "12894077320423079317",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:12894077320423079317,productid:14405148121299282120,headlineOfferDocid:13127715304543290987,imageDocid:9723021324324160560,rds:PC_8618666914132306860|PROD_PC_8618666914132306860,gpcid:8618666914132306860,mid:576462898765840400,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "2ME-u3icbZXLrqvIFYaj5AXyCHucI0vFHbzlAZfiZgOGggIzsbjZYGNg22Au6qfZp7ulzijqRMqznJaSZ4lPlMx6UKqSvrW0Vmn99de___Dnz6L6ZyE-paTTsZStsq5399RB61uR_6W7t_mQ9VX-D4KmAUPQPEESpCCQ_GsDv2RJn9Tt-TsmeYEGHEeRgCYpwAkUwf1aFkleV03hnE7FXWmz73EUQXIcwVCAZmiKFIDAc3-tbsm5-C__u8C9skmCIl-QJljAsODrPX98I_fykWcJnmVZgaBfnAIsz4If9p6jHH-f_fQxFPf5byIK0BdcPdu0ba9fCOanc_e90O8kfL1V-a8Mx9Ls6zI8xzI8DWgAvnbP_rM8_zgMdfHtL-MXWTRcQzYOfoT7w03tdpAoE02dD5Hd5rpZ7mA9xFpdfp7rz6r5LOvPovm5TbrnKfvtjyT8MBR5MGQ36DqseMCHNkx1u8-ozgs01fC0eggWi0Z1zlpkSSLAz5bikSE0E5sUgpQsBx8Rp1SpIxwwJq6vtKWoYxgQTbBIjqcfpvSaW9aijgFgugJLahocxqyxYUx2W6RKY4DhlOrn2Q6YwfLzBavGGENTwYsZhjd1yGozxFQwI7IMPWyNYRjDwwU3ftDNfm27sVZuHQRmjzRJpOBLXmezRcVGHoDJhlOSLtLBJeyDHWDF0frKvZlJolt9HpmmfbPVLFBbjyxRcDUHj8irXCsNS7NrS_eCxC-DIiwhXmyQYfsDU2oZLd7sX8ql0FrgLuZoN7Ub3KbJisQeQcbLIthnWr4cCGwksHbyUCUyEDM4sgkn8lB89bQExIsVlW1-xVuLksKEZJhEY5odFso8yllHm-b4gmf7dphTGDNBjW-FNvYZ4fkJwFu_logE5MPBh0sW1SMC3d7HHUBq3bpYnRLSAyE2G1jmtRvF8iGSDHw1L7vQHnNVdS2i1nNNkByprdzAW7JLfQsCe8lIa4qVUgpDgS20-BAHqhpE8RIqNZ0qB9p1f5we99M3IKpMjxx2N423u0APDUpshfUi986PuA7jqnLXBCcQgHqpF9AU_3P20ntV_Panfx01D8ri3pd1cQMEcVvK3nhe3YBdxrohUyHi4otw2iXytXus9JV1lTTv7sOtccwc-z6AhwwTt2uvE8SgFppSv566FPFO1bitoKA0q7jQen9Djow2r8fx_nY8oiIb7sUK-d5-I0p2KbLVfOtC5upBkV9piyPqjQOFcivopkJe90Fr3SvyWKSmy3B5_oSEvzWmQBHZ8lJG0XI0tsOO77NYO50utqCYZ8btlaWVh3SLG25-VYeiJ-tHJFoQGT7cyGfXWCVQen8TobwRk0SAZjeoVzbqOeXw4cXoFjHu2E-7QyTL3RHxwDk0icux931hLsJDSHrYLef3N81xtB08ilKA4BFG0Nr7hmNvDGUDiJQDdH5iKCI_nYRi7Vub_8-AIdfy5r429huSBdSaBQS1TjIA1uwpW6dEDtYpx-TrgifJdUYKp9UabfxM4RNlL7ahV_HPi8kHSfkQ6fc3BW9GWoZe9ZR27DUZ9yWMnh80NrXVBziXUGrf3-xXQ_JHJssiRKQLJWfSFKSr7nHrOCTqrzlNEnj3xPI41FfQkvQKLta5GK93cDZNcE52UyqhsyCqWybHNcopFJpwe4uy6xBZtO4V10a6WOi-Q27DuegEUaK31GWqVnM9CUbjV-D5rNr0wQ1JES0XJd2VmsrvjdgY_cntLsUzfG7PonDMt8dH_0zzxHfFuPCkND9nPlO8RgZws33IUWDcvZCLC3KEpH51Qj0-oXt92zL0sqOXsze-fpDpw9gnN5x5y-owP-wixUWrzbmNQ1ZvRn1UVpFl6eVBru6Ds8c0Ou4ZKU5uJZAycNpWWxHOnquju3jaaxlvzlsmK-nnPIb8iTuKcA_6Ol64UzMdzQ_nJrBiIliAePmnOcyo47xW7Kd4mS_loWuYQcA3xTdWCtRI7uU-Ai--pBMEO7i5fAkX-LB847UyxvLFxb4YlKNA4nUeLXka8nB67NTH5PgiZfsvP1-yh70Y9Hd3sP2AidD_YmQw7S7iI23wI5VHMnI3m_8AwZKKJA",
+        "source": "desertcart.in",
+        "price": "₹1,40,892",
+        "extracted_price": 140892,
+        "delivery": "Free delivery",
+        "rating": 5.0,
+        "reviews": 1,
+        "multiple_sources": true
+      },
+      {
+        "position": 29,
+        "title": "ASUS Vivobook S 15 Laptop 15.6\" 1920 x 1080 AMD Ryzen 9 6900HX 8-Core",
+        "product_id": "533691227139053576",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:533691227139053576,productid:12958425871422882201,headlineOfferDocid:8955599933507198605,imageDocid:5766601715672982030,gpcid:17785198643102205576,mid:576462563937064038,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "kFucdnicNZTZrqvIFYYT5QXyCOc6R5aKGbzlC4ZiMoOhAGNuLCYbzGgMGPM0rX26W-pcRZ1IeZZuKXmW-CjJRUlLqlqrvlXrr__ff_jzZ17-M-dnIe7VQEg3aT86B-KkjB3P_tIPXTalY5n9A8M5iiVximUwEsdZFscB9ksaj3HdXcvsV4ogaA7DcQYjOEARFEP_WuRxVpdtbl8u-SB1aZn9neUoiuI4jiAowGAcSwPqr2UTX_P_br-zaBpgDEbRDM6xOCDAtyF7_PDTfcqH19945KOvQTl3SddVXzHqp2uffidjGJb6XowkMPDGot5lvjXfmRiapHGKJjiCATQJCPZbP4-fxfXHaarz3_7y_CrymqOJ2skLg_HUyL0BsSJW5NcptLpM1QsD1lOk1MXntf4s28-i_szbn7u4ny_p73_8BodUFOdUcPy-DyQXoJtMZjIc42NGuhJPWrhe-IpLRz5FuERB2UEvJm1URsANI68wvaCOsoYKsoZbbUl_ug1XuTf5EZVYFL77OCqLb0uCnMnamnvpmAQnzK16JfPHyK81YGKRmqsdiBsNN0PXfpOanvKgUABfuRzNnqLHsT-ORlBjuS8LKKjj0_tRUz9bYymznUDHMtlaMixYXDwlbVgEiSe4ZiBHEcjQKbAcD18IL7SOR1-enVsUel7UGn405D5nnY6RnoKoSDC38MPg_u4dBKqPR_5onyoq8r3sntXZzWuWyMGiOSB0PG4gCEHUxj41BXLf2dIJGAi8LOW0JosWRr6MO438RHIknl7YLVVd15esyCXc2fGusVbJMCU0Kqqt2fYz17tZRQqo-hhYk7e6ZISd1ugmoLztRquGPy6P4fIb4GVqRDY9L8g2Dpxu1GzqOPf7Y7oyoDnMx8HZYgyHAYLGWUASzM_pW2Fl_vuf_nVWXCjyB09U-R3g-H0hus_rpgFWEamaSBwRE924ixGLVf_YqBuzEhR38OBeO6e2NUzgIcLY6btqgQGoubZQq0ufINYuW6fjJJSkJXM0P74gW0S7txo_vpzPKE-nId8gzz3seMEqeLp8Nf2RqlzIsxtltXm1tSFX7DlVl_Dq4HfmUOLnPNEdismyGWLeXlt8iaeLWxGG61nbTwY7ppFyudwsTtKvlDNKaydOyT5omdf7dsi7onpGvAmR5sGdeHW0TQyFjy88FHd8HHNQ7ye5osORkU53N0JNSDnPcTFOoSj2Z8QC-9TGDkMPh1xfuQcXj7Bfrx9fFNtWDHjmBR_BMwyhefA029pp0g5gCQPI7EIRWHa5cPnWM3f_nwGFb8XdsNUOO5wGxPZtCcQ2TgHY0pd0m2AZ2CYMlW3ztwltU5y7bLZo56USG0sHvju6JTvfdNaPiwdPfnyRgt2TFKFbzoJBV_HzUMBwvpOBrmzu4FpAofv4Yr2BxPv7N_MQ4Q4U7EWRkCo7571t42isMhLHAmMOxOdUV6DDyQ1czWv-rAZw1XVwjY0lEdCV4-U9lQU1ygh01OG-CdNqCk1SdfOqFW4mGgzktIyDLhDFakfclnLzqhdOa70SzHPZJQ9mivNwvUmJUSgye9Ai7ektTn_L5-O8v_LcOdufH-OcZLHn8FHuCkl2TT0qf48MBO3-IYa-NrhHJsrxJ8TVyj6q0QUNdbOnyNUg16v7fNvrctcOcROk7ro5vR5WngR5p7wyKzjSavtUn9ImNE21OInlMNmHgETnAyVEcVMAIQWXfbnn4ct1VDTwl4OSsvprT6UFOb-eR_bCnHl4AGMdrcylXc763W44mo85E2BIFvTphXrG7fhxidbXrTj1LTVxQSN52kaCCs7IWMqx_Fs6vm_A3e3rcYUP09PeK6VMj1-tm0bYEsTe8dMUlyk7Lg9Dfiy2xxOWV5Hmmj6sVSOtNcUtz6dC9L8zIliMG_9I2uCRiE88dHa7_wCHxEww",
+        "source": "ubuy.co.in",
+        "price": "₹1,38,396",
+        "extracted_price": 138396
+      },
+      {
+        "position": 30,
+        "title": "ASUS VivoBook 15.6\" FHD Display AMD Ryzen 3 3200U",
+        "product_id": "15124949443161366331",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:15124949443161366331,productid:16677668409880612284,headlineOfferDocid:6632501379235803596,imageDocid:18297800938835740639,rds:PC_1000811701858123188|PROD_PC_1000811701858123188,gpcid:1000811701858123188,mid:576462898003370894,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "xGwHMHicbZTZquvYEYZD8gJ5hH2dg2FplrzxhYalyZpn68ZotGSNW5YtWeRp9ulu6L5qOg15ltOQPEvcIblrioKCfy3Wz6qv6t9_-utnUf-zYB9cMsoBl-2ycbYt7CTNA0v_OE5Dfs_mOv8VIUmKIkkaBwxNAxJBURr_MUvmpB0uv8sEguLMK3AMIRGMJDEM-aUqkryt-8Isy2IShqzO__ESUAIgGMWgGEEDjGDIn-ouuRT_lX9FaJShaAAYjKYxgsIBiTFfp_z2DbX4MwIAoBGEAghN0AiKITT9d8sxhfMfa99_3Ivp-TPr-u6XoH4M6TA0XxDi-8v4u5E_uPC1q_NfCIrESZRmXiYwjAI0g38dH_Nndfnufm-Lb39bvvCsYiu8cvKiYD514qhBpEok8XmKjCGX1UqD7T2W2urz0n7W_WfVfhb9D0MyPsrstz-j8EMR-LvC2_44BoIDXBB7bqASnlCtQVvJWW_wPlrxodxaRsdMnnDZMqGqAlFMNL_yw2sV-xKzBJg4RZvj6t0omJF6y_pxMtCgipsZSUIcs7cqMX31mgTVlEiIFMJ4NboTEUB7KUKjiqHRZP6s6uK4OuhcBm3-iDexiSUGdaScC6GOx5jTBSjRnTzRzCIFNT3nZndGksgQ90F1TzCnDEX7mQaqmEhx7V4d3G9izMOcsWhizUebOUX0zRMDWe-UZ9JyDw9d1UACeN75IN3yOcGM5IS1fu7npBbOcwAcIhTijxStkPjqtFokLmkT8LpYkRE2wgAEYtZUIBNbPLkGjb7lYdyN_QllvECwca-5IUaXD55PPNOOCe1rAzIoaoncxrZf2UW3eimcDadGdD00zLzLQAxbU5c5LY7EWBdi28MqUu8IsmjyewCNzUFj3xTUyq0RJd8q1fNUNJPaxRXH56m7oSlm4J5fOTlYe1jlrR3F_CnilKBRr1poLLko2jrSyrnEcCY31LbvbNm17XyMBXHXwhzLFyNoOxssiN1zWiYZieMTste0Qb58t96m8htgRWJ2TVKLEGjZ7cnyfczrno-wNGTZIie3v-wRikEA9qIX4Bj5Q_bivS5--8u_zpIDedbyeJk9AIY9VryzXHYdeEEgKzwWulR8ZUot4ZvxtpN3esNJzuTBo3LOTGO6gxsPE3scmvX1-S3TV3JTjqlLm3VvD4zgpllNhfr7m2vy7uE1HO9v57NbZPep2LmeYx1YzqhYsn52Y0g0DmTpnbSZrNybkKmOjKwKaGP5gz7V6LlIVZug8vwBEe-orL7AktW1iqLtrBzvGj1nsVSWV4MR1Athz8I28Pf0GPTU8_U6ZB1ePrusDl3Fgwf-Yiu7BHLvbyzkD2ySMFAd72JDRjMlnD6c2O0iwl7mVTtFPD-eXRqYpz6xKXKyCnVjbkwyw3G7vL9Jpilp8MxyvgvPMIK65SmmcVCEA0BS6kVySWBIXpZMsff0w_97QKB7_jDtFeuAkgDbk6-dt08yAPZkme1TJAf7lCLyfUGj6D5DmXK3dw9eJtCJYLFD6NT046rSflLdWPz9TQgOC85Dp35wGtkki1XB6PGBB6q0-wCXCnLD-5vxMsR_ZDzPQhe1IWeukuDKon0-mibqzk2Oo0igPQJ-ubcNGFB8Bzf9UizNBC6qCi6Jtqace2FY8UjkQevmmBuq8NhFWXOPdFx2iqbnrro7aa7dU7ZbQjeRB-y61rtnuzJK79Xg8aiH9EbdkyLarkKqVZJIW0qsLN5qj9fiET6OF5Y558fzbX6keeLZbFw4XJpfMo8oXi0DQX-88ZGvTE5IxQW6QFRuzFCOS3dquyOBbxq-XZyFQoj1Q7GSLsicbXd63owiDYpBeuZGEJJyv8iLsIt0Xa5OfD3dTSvA3bNFcHHSVYDLQHmsjyx8OrbsTmxpSRmtPo9EVuGP5xLSJXVmoQXmNt6osl_P6ofZMSSbMDpAXJFT7093pJyBndd4e16r09gTdyboBE_ZCVBCKRHJGJp9oeP7Gjxcv4QbvOme8sqM0D12M64KZgoQedWLzq_3PFxvmnhbTY_FDK_B9S27GZuCG1uGGq9FFrn_O8ODVbuyt7QPbim_oJF9OPwH9PaJqg",
+        "source": "ubuy.co.in",
+        "price": "₹49,095",
+        "extracted_price": 49095,
+        "rating": 4.6,
+        "reviews": 688,
+        "multiple_sources": true
+      },
+      {
+        "position": 31,
+        "title": "Asus L510MA-WH21 Pentium Silver N6000 128GB eMMC 4GB 15.6” Full HD IPS Display WIN11 S Rose Pink Microsoft 365 Personal 1-Year",
+        "product_id": "14967604631409818132",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:14967604631409818132,productid:8260158700986908026,headlineOfferDocid:1492354569690971814,imageDocid:5702235256041877408,rds:PC_15902681877255485905|PROD_PC_15902681877255485905,gpcid:15902681877255485905,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "4v6_GHicdVTLrqvIFY2SH8ggH3DGubJUFG8fecCjzMMGzKvATCygsMEYwzHYxigfE53b3VJn1OpEyrfclpJvCa0ks2RQUlWtVWtv7b1r_fM3v_8sqr8X0kNOOx3L-SLvBndH77WhlYQfu1tL7vlQkb8KkAMUK_AAiAInAgFA7sc8HdJLe6rI3yhG5HgOMBxNMTOBEiga_lwWKblU18I5Houb2uazysyDNMuwnDhriPzMY_5SNemp-DfM8gDOOGRnKUrgeQYIX2-k_8bslAPFinNM4ddryLKMMB_ZP-08Rz38H_D7j3txe_0k-aH_BVePNmvb-gvFfn_q8l8z_h8vvjYV-fPX7jF8lqfv7vdL8e2Pzy-KZLiGYuyDGA_7Zt1tEVWm2vq1j-2W6Ga5RZd7ol3Kz9Pls7p-lpfP4vpDm3aPY_7Lb_-A2qeq9E_FDbsOqx4I1gKVnu0yPZMkmAwGN-QD17iyA5tKm3qw6RKm9f4ZA9wUGnEtnNM-SKYCG0N0kWAweV4YyFyuGWP-onx8lvvgLGuhTqwwMgGeyIOAxHH0MrAoYkYY33B8uVpxAnwo-gFI7rZCDV6UGHvgnT3Nq5O1MHk66VLI7gk0jxZG0FkTLp9kKtTtxKvLusB2uq-p0cPJPoRkKHTbcULcFXHJeVr5yiiZ9YPE8rGHvYsckCs2rWh4YI29k2YYcEUpeG33OUx0G45yGFKt17jQBvbdgxTtaKZrUettqrH9vgaQXETHR-YtAetLEBI91wQmg2JLGnaKKeK5zZj4etftKwrnDaCDGLH59TQFqs2Rmu0ibL1CWpb3sJ2rR2Be54w1JXFUm-w2Ls9WKBoWdGEeXoIi9IBbz_VFHZtpY-BCHGOQjBagers2_DXEMqnNMkdl5DbWsKdlEGJpikICMoAYrTJlT7dfTpR4-4biIq1TbI16WCrZeoBlQuTZxfpSu1Q3FIFNfzf2t-M3IK3ZwXf43OyZw9DpGw2dw2sGPtSTjVGH3NdpSfEiBWgOCoCh2R_yeYCr4pff_eOgeUiRdoGiSysgSptS8Z6nRQPsMtENhY58PjmLx22q1F2_0BdWLWveLUAb45A79u0OegWlbtfWI8LgIl5LvT52mS841dVtRdXP8oqPrPc331H81Tz-72-Hg1_k91ux8ANvt5Jku5S46tV0EVt7SBIW2uRI-tVBYrkRdVOF9S5srVsFD0VmuixPyANRwcYYQ1XiynMZx9PB2Ny3wpAn2vF4tkXVPLHuoE6tcs82-Mq_5uhI8hT94EsW8o0ArZSTayxSJL-_SUhZSWkqIrO7r2suHnh1_-ElfhOz7nMYt_tYUbqDLwBnf01dnrvtCnMSezEdUDed3t80x9G26CDJoY8OKEbWLjAce2WoK0BlPGDIkaUpcjyKxTKwVv_tAQuXyuq2NHar2Qnp5eyG9DLNAVhyx3yZUQQsM54ly0KAcJlD8bhY-qsgV4VU3Ult5FXC42wKYVr2EvP-puLVk1GQVz3kLVenz12J4scHg01t8QFOJZLb9zd7Tkj5yBVFQj50keyMmurra_ewcRzoDzVhIIW3D6w875catJBZoMk6Fc_6Bk6mCU7pdsxk_yRK6w1L8MUntB-ZaNPEeX2PLUb3ivoqny3_tvXdK-_6R-Snekufx2rxuoyicQ0q8HhUbdbz97SIp7OabUttLeyMxHgGo9udi0f02Jwk8UA2h354ZCQNXCkpPDkjpzxgi7llAF83vRKHxs2L-KSATwT12on05OjfLs2GZaYtM528J0-x44exSxuce9Ni_-rtIsNFq72IjSNOvz71p7qILUsv90p1uzs7zPiHHSsnaVMCOQfHTbWR0Mtzdf8mHXdaLpivDZuXzOP1jIQjf5DQDgyXZOKP1_FgfjiNyEmpOH9xfy2b95ff8V4rDWMyvc7lvruydxE3amAsVKRBfk3loiDNoxOGW7Q6f4km1FuBMa-ctQJpss8G7aiImvdPSxnvJBr77bofnUCi7aCenSfv7dnt7SmHdhCysf8fjgLG7VnqsyvuM-UJY3e1-he3pHfg",
+        "source": "ubuy.co.in",
+        "price": "₹29,029",
+        "extracted_price": 29029,
+        "rating": 4.8,
+        "reviews": 126
+      },
+      {
+        "position": 32,
+        "title": "Asus Vivobook 15 Intel Core 12th Gen 8 Gb/512 Gb Ssd/Windows 11 Home Laptop",
+        "product_id": "16601503514448806744",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:16601503514448806744,productid:9514635176906797760,headlineOfferDocid:7834303780860710795,imageDocid:3581414045517622175,rds:PC_2996331397712933227|PROD_PC_2996331397712933227,gpcid:2996331397712933227,mid:576462892629083753,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "Q2_rtXicbZTLrqvIFYaj5AXyCHucI0vF3XjLAwyFAXMxFBSXiQUUNpjrtrGxUT_NPt0tdUat7kh5ltNS8ixxK8msByWV9K-qb6nWX_-___TXz6L6ZyHdN-mg4U2-yIfR3TPxduyl5U_DpSe3fKzIryJHsTzDUQIvAl4QBYEHP-XpmDb9qSL_oHgeUBx46SzLLpevCpb9pSxS0lRd4RyPxUXp89ctwpJhGcAIS7DkgUABQeT-XrXpqfivzHBLiqVYwHK_g2iaErivF3L9Ru_lAy2KPMNQzAtN0SLD0LTw3d5zlMMfaz983IrL82cJBegLru591vf1F4r74TT8DvqDA1_bivzCCTzL00uR5mkRLBmBY74O9_GzPH1_uzXFt79NX2RJd3VZj_0Ij3GrDiakynSrPuPI7olmlCZsbsm2KT9PzWfVfZbNZ9H92KfD_Zj_9mcafuiKfNNlNxgGrHgAtbadNgZdBOKT1ImcdQOVBp6bnj2DaPaYKMHTPRPZ7ey4CHGUQmpPQMnFXc_6Wwt4WvAgECceg2OEJcoFTZeEieI25ZWcPZqcSWKFpEbhCPDWw3mNoxyL55SyLU8r46TZ3GM_UQo_50xcA691WUKfWAQwiyDH2KH3CCBXo6b5iIOyTFt28ptGxgHnE780EpjEORw9B-MAUbhHs_3MIUk9mpKdkICs6zknNEJ_Nu64xU-7w0bSUlMR2kOo2iM-13QCARsoau1hMYrmeo7mckq2olF0hmdTamA3Gz48YxtpEl3I1N0MMPSBHeEAUJixGAdaIGsfVdgmsdt6Tu7bOgkN1UcUsGdDtbqk9duRIn5D--HYkS5x7K607EAdTR8y2Qw5QjVbMyRTHHpKqBlmUVGcF3gfofoiBMbgqAPnMsOHP3vXuB62TuS93iGfbcVGIewfZDaM9NUvLEnjRokcRxsd18bZDO2JqKprUY1GtuLG2fSVG3hzfm7aoIVPe8apGZVK2CU3TA13NyJKNqtjUo9jptm3ZPr-cb0cvwFJ5Ubk8GZEwb3bxPsgYPz2eQ-Ptqbt-QvqTitKECnAvNwLWIb_MX_5vSp--8u_DlsPytLelzVpDURpV8redFq0wC4TTZeZEAnJWTyaqVwP14W2sOrN1rv4cKcfcse-3MBVhqk79PUDYtCIXanVxyFDS6fq3F5UUJZXQmi9vyFHRuvX53h_OxxQkd8uxQL53n4tbexS4qtnO4Rc7UFpudjOjqR1DhTLnagZCl3vg966VPShyAyXEwi5Q8rf6Y9AkfjyXL48cdB3N3M55sn2eDzbomKcOHdU5l6-ZTvcCc8XHUqerB2QZEGk-3Atn1x9kcLN-5sE5bWUpiI0hpta89EoKPGHl6A24txpfJhxJMvDAS2BE3epK_CXfWHM4lVMRzjMp_e3reNsTXiQNgGCBxhBa-_rjr3WlTWgMgGw5MgxFDkexWLlW-v_z4CjV_L6stL3a5oHzOoVjswqzQFY8cd8lVEErDKBI6tiSdOrnBaPixVa-7myTJW91IdetbyfjWWQlleJfX9T8HpiZehV943J1-m0L2F0_2CxsV18gFMJN_37m_1qSP7IZVmCiHbhxnlsFaSp7mHnODQaa8LSFDbvWJ5uTQ16ml3A2ToVU30BJ8MAp9R8ZBt0EiV1xxHcIMKg0IC7NsrrW2SxmlfU3eZsoYuJ3E5w0RGiVOuZ86NaPJuHqHd-Be73qs-uwi0tovmsZGa5VZd7PdEn_-EO5-Ie3ncnSTyQ3eE63jOS-q6UFN4mI6fc54rXyADudlc5CvSLFwpJQU-Q1mon1JIjujTtjmNnk51P3iRQ3OND36ctzr15ET-vdpHhot8-iY1DXusmbVIWkWW9Ak6uLjdn_wqzw57bJGlbgk0OjrtqJ8Gn52roIh3323xpPHdcXrL35xQuj8JBgnswNsksHLvHwfhwWpGXUtECFFI3xu2JBsHrpfGRzM9zGQ8ddxNxq_j6QoFbWlCpXFxKL-sEgQnX5y_hDK-Wr79Wzlm-NNtnnXEUSL32kyU_biR8XE31-nB8ibH9mrXm_GrPOmvPOW37AReh_9XI4GGepWvW4WsmT3Tkrtf_AcVlijE",
+        "source": "Gadgets Now",
+        "price": "₹60,990",
+        "extracted_price": 60990,
+        "delivery": "Free delivery",
+        "rating": 2.9,
+        "reviews": 298,
+        "multiple_sources": true
+      },
+      {
+        "position": 33,
+        "title": "ASUS Vivobook 15 Laptop 15.6\" FHD IPS Display Intel i5-120U Deca-Core",
+        "product_id": "9303625009147852956",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=catalogid:9303625009147852956,productid:12695202708123860815,headlineOfferDocid:1574595613432419191,imageDocid:1958293163737614455,gpcid:6831872284139511417,mid:576462882768296765,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "QVyH93icNVNZqvPYEU7IBrKE-5wfw9Es-eIHWToabEuyztFkvRjNoyXZlmxZqwn3727oPIVOIGvphmQtcUNCUVRBjdT31X_-8OevrPpXJj620aB522SVDKN9pE7q2Iv8z8OtT6dkrNJ_EiQrMCQgOcATJMWzb8P8nERj1PZFlf5DoADFkgwAAkFzPEMKDPtLmUVpW3WZlefZTe6TdxrBcDTzjhEUTZE0Ibzlb9UlKrL_hQWGJwWKYCmO4liCphnm-y29__XH65TdXn8XsYu_edWjj_u--UYwPxbD71UsTxE8R5I8TVACQxA0wX2_VOkvDMfSLMnzJMe-u7Icy3wfHuNXWfwwTW3261-e3yRRt3VJPzmBN54uynCARBmpyusUmH2q7coDbKdQbcuvov2quq-y_cq6n_poeOTJb3_8Dm-JJD2Sre0Ogycj4MiQcZd2ws2diEmhjn3C9bstg7od8N2wOTVCcyKJ0SaKJdKUq-kWDG50MpY9K73QixWEWuYnwK8VPw0GP1lMD5HlKSDHS-oXNAbDHqkm7dW7La6R56umGbeh68JQsrzyij1zCLXdLg4UJfVHDblIigmTimV0M4jBttyxSS9tlXXp1Vf5OfFT2lcHI3WJCVPNM5KI-QQGM1Gfs-_sdPd9tMxDRkAai3FRDu4SjkaAStM7Ac8_kV5QDqhOzZAqG6wZC3KQktUhkwVlayppb7qC7LYmg13zZTnKFFKm4jSeZNSeZpKIxq2ydYFZn4A5OUEo-0gPQlch7YvyxEoonV5EnWgIubIZIgo9bKeI9EaBCaUzYatcHBKpaYCgB2bgAUB7kLCSBhFpYObxhXCRC3-Y77f8VyAqzIgtOtZA3KedPN-Z_tBOGsPQlBMeDFTYa4ITiN8pzAOaBj8lb4JV2W9_-vdZRVASj46kiRsgiPtSQs9idQFmGWq6RPmYC2shP0RSM9xX2spotiq6OXCvnxPLvE3gLsHIHvpmfm_ZCl2pNfkQY96qOrsXZBwnFecbnx_YkvDmzcbPj_MZZ8l0y1bYQceNuDVLka1el8FnGgRFfqUulqh1FhTKvaDtZLI5ur1xq8hzFu9shkvTByScvT67ssiWdRkEy1nfTwd-TEI1z2tTkHcFY4_y0ktTvPc67vWeDkUkaWcsGhDrDtxIha2vIrj9_BChtBGjSIC7YVIaNhg5-XRFIb4EjP0c58MpkKThjHlgnbrI5tjbMdstwl2IRjgsxeeHalnqAZ7FrYvhGQbQODq6ZW50eQOImAN0mjMUkea5kK0dY_N_DBhyLW1ua_24IVlArVlAUOsoAWDN5sk6JlKwjjkmXWc8Sa4TUshXa7xxEpmP5KPY-6jiH_WOd6PyLtKfH7K3edISRNVje2Cb6HksYfC40t5OXV1BUcJt__lhvheSru9vFiEmbbi1ZlXGmmKf95ZF4vfX0CThHR6e9JzaBvQkvYKLUWTP5gaK3Q4U0WGOt7gQRGXPpF6LUwr7O7i_BEkzBQatoazptrWBbwdsd5yNc4gjrafquVq92lnQO6cCj0fVx3duirJgqeX4UKoKf9RD_enM9lBnD_-xL0ThnO7P9_ERp5Fji2GGtnFaJA6TvSEDXre_S4Gr35DPhRn5hKTWWL4W5vjWXvYMvRzopUBPjmDmq36MLl6CltXpdTez2Mt69ZWans9q3VN7yqvAMLTyJFW3yTp6ND4fmW0YXUqwTUC-r_YifCFbwzcxP6oJv3vtmaSkH6-nz-fcWYRHMLbhwuXdfN5drYvAipFgAAIr2930wgOHenGcw-VVl6ehYybBu8iOvpKhSnIKkQi8-KaO6x7gpv7mL_BuOPpbE8ZwxMWsdcqSIfH2n4Y0T6k_3w_KfbYckTKdhjaW5G4uOm0uCWk6LhPg_-VIYD7U4j3uvHssPcnA3mz-CxGmSsM",
+        "source": "Desertcart.ae",
+        "price": "₹71,971.99",
+        "extracted_price": 71971.99,
+        "alternative_price": {
+          "price": "AED 2,744",
+          "extracted_price": 2744,
+          "currency": "AED"
+        },
+        "delivery": "Free delivery",
+        "multiple_sources": true
+      },
+      {
+        "position": 34,
+        "title": "Asus Vivo Book Pro 15 Oled 15.6 Fhd Oled Intel Core I5 11300 H Cpunvidia Ge Force Gtx 1650 Max Q8 Gb Ram512 Gb Ssd Windows 11 Home K3500 Ph Db51",
+        "product_id": "425084108752066421",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:425084108752066421,headlineOfferDocid:425084108752066421,imageDocid:10275510314429649219,rds:PC_12819467718631263506|PROD_PC_12819467718631263506,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "L7bTv3icdZTJqvPYEccT8gJ5hLvOh-FI1mD54oWGYw3WYOlo3hhNtmbpSrItiTxMc3uAzio0gTzL19D9HL1sJyS7ZFFFQVXxL6p-1K9_-PNnVvwzYx9c1Esul2ySfjLP20CcOnb3Yz906T2ZivQnAifBjsDAjiZxQFEEjv2YRFNUd7ci_eanPIvSumgz43rNBqFL_mfD34omumX_zv4DAzhNkhjYYgSBMxTB4Bjz7ZCOX4kzf8HwHcYQFE1jO2qL4dSWBNRfz5YhXP5P8vuPezYsf2eRg764xaOLu676gpHf3_qX1jffNv9y_WP6zG_f3e919vUvzy88K5syLwe2705Bc-xViOWReFwCX-9SSclVWN9Dsc4_b_Vn0X7m9WfW_tBF_eOa_PzH3-Aj4fkh4U2n713BAraUzlkVmsgNP-xVMRwwS6ZHWl6TBz7Iz06bYlFtLm4dfrhYNcW4icdNamhiTpoeM2aOPHl-nmft8RRUqW467qDVOhFXM0y8o-tgAVA9HaS2jhn-0Y4rxnckRUvE3I_WY6mLShB77qJv3R5Bc4kEjbBAT6quRXkwtONSXiI8bBLczfWtUuhlrYU1I2mVhSEwP-z6hjuC0iEHs1X7OL5mj2yHeYRSvuiOJcWCNQW-pdvuDkQg7zS7zlOsrwK7hqYzLloTLHbN-JGY9kjsod2klY-5QeC7MJKOFMLdIMas2QGpklb1EAl1mDiuZ8GQy5xJQeURi_3wIxL0MnDcMRJfuttgcSuGcLf60WzTJmp1z6mZJnF0IWt2K5LyPMWrp_nah13Xqw76k-NyJ9XrpxjMx8yF6Ii7XFopeQJzz2y0KdhywHHZ1XNSEANIiIXCWZK-GF6IEnGGlt-bHrSitFGWpO7PmiOvMVSUSGRks1S2383jcP0K2CM5IYOkyRJ7Trx9lXDlnnW8apFLuW45nb7tMZp50U3hO0BsmR-SF5BF9vOffrmIFuTZs81L7AEw7Cnnredt0wA9DyWZ33qIDkvmqkZ81Y8baaNVnGgNNjzJl8TQhzsYeRiZfffCwgU10-ZSde1jtDOK1uwYAcVJQXva-xsyeHR4If7-drmgLLkP2QbZ1vnAcnrOUsXS9B5ZWZDdbcTVYKXWgEx-YiRFwKuz02lDgV-yWDFJOk0fELNP8uwILJWXue-vF_l0V3dTEorXa6kzgnIjzUlYO_4en9yWXl7qkLV46YJYDSLZhgf-ZsqbCHLvbyzkD2wUMVDp78eK8idaCD6sEDU-aT6nWQ18nu8vaAeMoI1MmhrOmbIyIxNNsF9v72-iYYgqvLCcg-AF-lA727KhH2ThALCYBkR6JbdYer0y2d7WDv-9AYnv-cOwl88HnALbPQWw7T5KANhT12QfYynYxzSZ7rMdju8TnLlu9uhgJ8IuEs5s51nF7lEqOyfKR5Z4fxPcw5PgoVU8OJWqouc5h_7jg3AVcfMBbjnkuvc3_TUQ__F6ESxEuAk5YxYFJB3Ny8kwcDRV6esbuurD5Z_3ugIdTmzgqt2yZzWAm6KAW6TOMYduDHs8kalbo3SLPAWeGj-p7r5GSFZWtVypoUFFZkub6ApRJHXbci42Sz0zcmsX4PEounik71Hmr6UQq7l43J3lUH7as9mX2cN7nG4sc0lPl3F6xGlkm2yYWVyc3hKbzF4nA257GnnfkQfLo8MMf0JcqgxPCq9oqJsTSawqsd6sJ42R84d8jho3sdZNsIx6FrtZJy6p7nqU1D6lp7DxNU3KA74Y7sbZJdDlTHJh1OSAS8D1VJxYuFimhAb2ehaTnbKcyCQnHsvT213pCwvPYKrDlb6280X5MBqGYiNGAxg6csp9QT1tdew0h-tS5kHfknfGbQRb3ghQxOkjljA79oWO46jwUH7xVjhqtvyyhNRsdtVLeWsIEHvFT42f76k3j-pxnA2b3ep2RWhrMuqrTOhrguu2Q_roPzU8mNWSHePWHWP-ifvm4fA7lhpq_Q",
+        "source": "desertcart.in",
+        "price": "₹3,87,868",
+        "extracted_price": 387868,
+        "delivery": "Free delivery",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "position": 35,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "5517118296619330063",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:5517118296619330063,headlineOfferDocid:5517118296619330063,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "lQ0TQHicbVRJruvWEU2QDWQJb5wPAWxFUQ8asLnsxEbkZSdOBPZ98yhSIrkBb-PjuQGckWEPvBYbSNZiGUlmGVShgDqnqoBzUP_-y98_0_LXlHmw4SC5bLyLh8m84Fdx6pnDj8PYJ3M8lckvJIlSKHrA6P0epXEcQfb4j3E4hU2fl8nXn4s0TJqyS40sS0e-j_8_459lG-bpf9oYSVIojhIkTZA4jdLYfv_tmNy_fv8xp-P6EwMd-MUtH33U9_UXlPw-H16sr9-2f6bhMX0W-Xfz3KS__eP5hWNkU-bkq-2707UVBhWgRSgK69XX-0RSChU0cyA2xWfefJbdZ9F8pt0PfTg8svj3v34DPmSOm2XWdIbB5S3EFoXJcwtUk_rVA9ait5N4bRICIoKWNs3FtoVCB64bgsmNPDKIKrBoFQtSQExQVJ7QGyqI6abZ1Gu8Bb2PmaQj0miAutoVEWZDDOwAkOdws0zDvhL6poTXLtm8LhF8LOFNT3BcW8acllhgS6uac8CCytV1BNVcDB31htWiVg-8Kn7N19fUiddQYhvXUUTYyEjEW6XqFISOuKhru63q0VbY6CUUBjRwr5iOK0uMKEPIW11UFU7kLFsoDLYjCl3Iu7WDNHYkDarLK0poB5wu1YSNxavuDx_XLdC0F9a0ZD9wBMxshScUAu66olUsWZbD64GFWw_TzkO5FkCMy2TQKI5nO4vmskHsKqPukWrUHvDAVe7XupmSdmFNF3y33MfsN4QRyAkaJEVW6HPi7EzClDntOdUi12rDWZ3KjyhFowi-xw4IgdM_xC9_lOnvf_vXTbQAx1xsTmJOCM2cC8565rsW0YtAkjncg1RQ0ZkacvVw30k7rWZFa7TBWb7Fhj7OyJ0DoTn09QJcpKG7QqqzIYIHo-zMnuZhFJeUp72_QYODp5fj3t9uN5jG85juoG1dTgyrF8y-XNvBI2sLMIeduBmM1BmALs60pPBYfXF6bSyxWxopJkklyQOg9lleHJ7ZF1Xh-9tNPs_qYYoDMcsqneaVnDQnfuu5OTq7HbW-tgPG4qQbZDQAZRucuNyUdyFg398YwJ2YMKSBMsxCvfcnir9-WAFsfdJ8Tot69TluuMEDYly70KT24yVVNvpOhxMYtvz9TTQMUQU3hnUguAEfaBdbNvSTzJ8QNKIQIslIHE2yjE6Ptnb6nwYkduRO41G-nLA9gh_3CIofwxhBjvssPkZoghwjikyO6QHDjjFGZ7sjPNkxfwj5C9N7Vnl4VMrBCYs7Q7y_8e7pSXDAKh-suq_D56UA_uODcBVx94HkBWD79zf9dRD3EXMcAyBmAtZYRB5Kgnk7GwYGpzohMNRVHy73nJsa6TFiBzYtT5_1iOSKguShukQszGlGOJOJ28AEh54Czq0f17OvEZKV1h1baXBUodlRJswADKUer5ZytzYLLXd2iTweZR_dqTlM_a3iI7UQhcNFDuSnvZhDlT68xzln6Ftyvt2nR5SEtskEqcVGSR7bZPqSDHG7853zHXm0PCpIsSfApNrwpCCDY9OeSWJTiS23nhRKLh_yJWzd2Np21_Wup5Gb9uKa6K63l7qn9OR3vqZJxZUrx9m4uAS8XUg2CNsCYWMkO5dnBqyWKcGRyS5ifFDWMxkXxGN9eoeMujHggkxNsFFZt9yUD6Ol90xIawgKBVaZVzhQVs9MS7CtVXEdOnKm3Za35R0PRIwS0Jg-MC_rOI4KTtUXbwN3zZZfEZOazWx6JeMGD9BX_dS4ZU685a4K98WwGVy3a0Lb4ru-ya8HGGO67ZA-_C-GQxa1Yu5R594j7on55un0B9DSNsU",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 36,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "14066419105020577838",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:14066419105020577838,headlineOfferDocid:14066419105020577838,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "OeI653icdZTJqvPoEYYTcgN9CWedH8OnybJ88ELDp8mWZM2yNkb6NFrjkSVL1g30bfycHqB71SQNfS3dkFxLnJAss6iioKqogvfh_eefvvlMy99S9sFFvexxaIP60TwTF2ns2N1P_dAlExrL5FeMBNstiTEYoAAOKJreEbufUDRGdZeXyde_FWmU1GWbGlmWDkKH_s_Kz2UT5el_-n_HKYrGCIykGJIiGIzBt9vvhuT-9YePKR2ev7C2a3_xykcXd131BaN-yPvX1tfvmn-n_jF-Fvn301Snv_91_sKziqnwysUJvPHSiP0JYkUkic9LoHeJrBYnWE-hVBefef1Ztp9F_Zm2P3ZR_8jQH3_-Fn4oPD8pnOn2vSdYwBF1HN0SziQuhIOLsuF5ZyQmR91VgwuWY57UcxGOcFtSZ7fqlQumjnpFzYlrPl2QA-Spk-kXhSGNj5jwWt_Rs2gV60RMFF32ItSK29jRFwTyxWm8Z-SLZOpZQ0iIt9AFZCQUFhJVUpMLzYYiQAL71JpuvtQ9EcuW7wahpEEV6jdVjlvRd1s9c1f9FjejFmGc4TbjxXcpzSRUXq8W3sSKS4LPuN8muuF71MkXMxcLp4Qoak8aRyQlYSKNlnezZgs3MR2GhgMYzHFYHLmJbDoa4UmJ57khGRCWcAGeFy5KELoibjbibIshf3liNyRblivooUVYD9PJI6USISIUKqz1wHZqM3bUuybUqy8VjdkWrSUkmCVhIK483JHQ98t9yH4HrEiNtrE9LXMzMOTU2pEubK3AHHazV_thWZp7jH5BRWzxHSCJ3Y_oxUeZ_vGXf1wlC_Ls2eFl9gAY9ljw1pxvGqAXoazwhG_T4Y3JThFf9feNvNEqTrIGBx6VKzL0YQJ3HkZm31UL9EDNtIVcZX1s74yyNTtGsGNU0r72_mYbvH14Eff-dr3aKZqGdGM71vnAcnrBbstn0_tUZUF2t5FWg5VbAzLFkZFVAa_ObqcNJX5NY9Wk6CR5QMw5KosrsNviVgTBelWO02k3olDKspvOCGpOmaOwdvwUH72Wfr6uQ9bi5avNatBWHHjgc1PZRJB7f2Mhf2CjiIFqP4nVNhhp4fJhhXYTUOY8LqdLwPP91d4B49JGJr0dzqm6MncmGmG_5u9vkmFIJ3hlOdeGVxhA7ewohn5QhAPAYhqQSUYRWJJlTLp3tMP_NKDwPX8Y9sr5gG8Bsd8CjNhHCID9NkP7GEvAPqapZJ_ucHyPcCbb7O2Dg4RdJJzZzrfK3eOm7tyouLPk-5vgHWaSh1b54E7bKprPBQweH6SnSpsPkBeQ697f9NdD_AfieRbauAk5Y5EEWxbN69EwcHusEhLHvNPD4-eprkCHkxu4ank6VwPIVRXk0WmJOTtnWPFIJV5tJ4Ttq_DYBKiaAo2UrbRquZtmDyfbbGnTzqAdyR1xW8rNs14YpXVK8HiUXXynpygN1psQnwpJ3J2VUJmdxexv6cN_HHOWuSbH6_1lAUnkmGyYWlyc5Mih0pdkwGuPdz5wlcHy6TDFZ4jLleHLYWYPdXOkyPVErrk10xi1fCjnqPGQtW4uz7uexl7aSc9E9_yt3M7yLGwC7eUUF74cJuPskfb1THFh1BSAQyA7lkcWPi1Ttgc2O0topz6PFCrIx3P2dxl9ZeEZjHW40lm7XNUPo2G2bMRoALNFTp2edk9bHTsu4fq8FZe-pSbGawRH2QhQwmkRQ8yOfaHjuid4uH3xV3jXHOUViNIc9mVJCmEIEHvVs8YvU-Iv95N4XwyHJXSnIrUV3fVVIfUV4brjUoH93xkeLKcbe49b7x7zMx6Yh8O_AKKKNj4",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 37,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "1906016001331844511",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:1906016001331844511,headlineOfferDocid:1906016001331844511,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "45sQ9HicbVPJrrPoEU2UF8gj3HV-WWI04CsvMHyMBgwfk9lYzGDGi5nMC_Rr_Lo9SJ1Vq3vRz9ItJc_SbiXZZVGlI1UdVanOqX__5e-faflrys6nsJfcU7yL-9G84Fdx7Fj6x37okikey-QXlEH2CLpHEBTHUZogSBT9MQ7HsO7yMvn6c5GGSV22qZFl6cB38f9n_LNswjz9TxkjSQrFUYJkCBJnUAbb778dksfX7z-mdHj-xEIHfnHLuYu6rvqCkt_n_Yv19dvmz9TP42eRfzdNdfrbP5YvHCubMidfbd8dr43QnwFahKLwvPp6l0hKcQb1FIh18ZnXn2X7WdSfaftDF_ZzFv_-12_Ah8xxk3wynb53eQuB9-vTcRM_5J1RawMl2JJMQ5VnKrmbLdVXz0GR692yzFpvIeYWYeuMPu4GWmu1ULJCZxOKoK6lwBZUE1MKz0tA1ApBcne2tEpUt3mQrhtIdiUjoRgvtlecrYrsAtTSksq1fCzQLQ_lXI-5Rk4ww00J3EYHAeqgIa4H5mYNIUQfAdohEVYIAaoULqboOsY0jiD4qUgTVlO00FsVzQ5eughEcq8rsynOoccAuxVm54lmITAJy06uQWNiltiTEUKvSc0Qel2ABFizjiW-DVbRbE8fEZpcbT4nAkcIdV9oglX2XxgzG2GBQsBdn-g9lizL4fXAwq3ZtPNQrgQQ4zIZ1Dr3up_mOkyVVvpdF_VWAygfVcLiNYwX29XiifF362PIfkNYgRyhsT-vSzMwxNTCUOf3lm8O9OLWXlCW5gGlGBTB9xiNEDj9Q_zyR5n-_rd_3UQLcOzF5iT2iDCsWnDWku8aRC8CSeZwD1LBncnOIVf1j52006qTaA02UOVbbOjDhDw4EJp9V63ARWqmLaQq6yNIG2VrdgwPo7ikPO39DRocPL4c9_52u8E0noZ0B23rcmRPesHuy2fTe2RlAZbeiZvBSq0BmEJlJIXHqovTaUOJ3dJIMUkqSWaA2qq8Ojy7L-6F7283WZ3O9BgHYpbddYZXctIc-a3jpkh1W-r5mg5Yi5NukNUAlG1w5HJT3oXg9P7GAu7IhiEDlH4Sqr0_Uvz1wwpg45PmMq7nq89x_Q3SiHFtQ5PaD5dU2ZgHE46g3_L3N9EwxDO4sScHghvwgXaxZUM_yvwRQSMKIZKMxNEky5j0YGvH_2lAYgfuOBzkyxHbI_jh9fD4IYwR5LDP4sPLNcghosjkkNIYdogxJtsd4NGOeTrkL2znWSU93xXaCYsHS7y_8e5xIThglfPpvK_C5VIAf_4gXEXcfSB5AU7d-5v-Woj7iDmOBRAzwclYRR5KgnlTDQODY5UQGOqeZ5dbprpCOozYgU3L06UakFxRkDw8r9EJ5gwrqGTi1jDBoacAtfHjavI1QrLSqj3dNTicodlSJswADKUOv6_l7lmvjNzaJTLPZRc9qClM_e3OR-dCFOiLHMiLvZr9PZ29Wc1Z5paot8c4R0lom2yQWqcoyWObTF-SIW6rPjjfkQfLo4IUWwAmVYYnBRkc6kYlie1MbLm1UCi5fsiXsHFja9tdnw89jdy0E5-J7np7qV2khd_5miYVV64cJuPiEvB2IU9B2BTIKUYytVRZ8LRMCQ5sdhFjWnmqZFwQ83Px6Iy6seCCjHWwUVm73pQPo2H2bMhoCAqFkzI9YU9ZHTuuwfa8F9e-JSfGbXhb3vFAxCgBjRmafVnHcc7geP_ibeCh2fIrYlKz2U2_y7jBA_SFF41bp8RbH2fhsRo2i-t2RWhb_NA3mdC3GNNth_Thf3s4ZD3f2UfUuo-IWzDfPB7_AK4MN70",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 38,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "3284175681493323029",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:3284175681493323029,headlineOfferDocid:3284175681493323029,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "_c1aLnicbVNJzrPYFU2UDWQJ3zi_LNEa408eYHh0pjE8eGAmFn3fGBuD2UBto_RVI1VGUTLIWqqkZC1xlGSWwb260rlH90jn3H_-7o9fafn3lHsew0FGx3gTDw_rTF6kR8_tfhnGPpniR5n8jSR2FM7Q2x1OsSRJkBjB_hKHj7Dp8zL5_q9FGiZN2aVmlqWj0Mf_n_Hnsg3z9D8wQdMMTuIUzVI0yeIssd3-MCb373-6Ten4-gsHXfgNlc8-6vv6G07_lA9v1vc_tP9uw_PxVeQ_TlOT_vqn-RvPKZbCKxfHR49LKw4awItQEl8X3-gTWS000EyB1BRfefNVdl9F85V2P_fh8Mzi337_HbgpPD8pR8sdBiTYGHTU3m0NwvKL-eIVatJeZs1NOrsJBpfANRsgyyHou10Fko0VrQNwK0INgIL7iuqECPDi4gkFclvVgi3KLD-ZEDbIRlNgCRpmo9Epo7KrSxXcHOJhex7q4Ipow-8JRCakLaiuU-KNgw0LrJdtDMRtKuuvpB3sBOxwE4hi6CAibZGJXFHQHENwwRDYYGi9uhkt9_LQfbHSSZ2E2LLGEsLDplkCiQ10shENL5h13yASaXiLDFpHWiwPqd3Fe6ihWGxtsaACiPNvbVZcNR2qxcbwRMnBRRSuyHDAgFxb8QNXJKxWnKEY8JcXXsWybbuCEdik_bScPFRqEcSkQgeNIYS-hUX1EMZrQNpETsVVoNltgUUrwDWkkkgEPy73MfsV40T6Ac3tc4GmdmZVrdnFlnW73aecwdrz0xutPc6wOEZuiR1GkczP8TsfZfrbH_5xlWzAc2eHl7kDxnKngrfnfNNiRhHICk96kAkqNtNCvh7uG3mj10fJHh1wUq6xaYwTdudBaA19vQCENWxXyHU2RHBnlp3VswKM4pLx9M8PaPLw8E7c58f1CtN4GtMNdOzzgTsaBbctX-3g0bUNuN1GWk1O7kzAFidWVgWiPru9PpbENY1Ui2aS5Alw56QsrsBti6rw_fWqnCZt94gDKcsqgxXUnLYewtrzU3RCHfN6XweczctXyOkAKg448LmlbEJw_PzgAH_gwpAF6jCJ9dZ_MMLlZgew9Wlrfizaxef54Qp3mHnpQovZjudUXdk7Gz7AsOafH5JpShq4ckcXgivwgX52FNM4KMIBwyMGo5KMJvEky9h07-iH_3lAE3v-MO6V84HYYuR-i-HkPowxbL_N4n2EJ9g-Yuhkn-4IYh8TbLbZw4MTC7tQOHO9Z5e7Z6Xu3LC4c9Tnh4AOM8UDu3wetW0dzucC-M8bhVRpc8PyAhz7zw_jLYi_xTzPAUhY4GgukgBl0bqeTJOAjzqhCBxpT8TPU1NjPUFtwKrn6VyPWK6qWB5qS3SEOcuJJzpBDUxI6Kng1PpxPfk6Jdtp3R0rHY4atDrGghmAodyT1VJuXs3CKp1TYs9n2Ud3ZgpTf62ESCskcXdWAmV2Fmuo0qf3POUce01O1_vjGSWhY3FBah-jJI8dOn1bhqHudOd9VxltjwlSYgaEXJueHGRwbNoTTa0ateb2zOD0clPOYYtie91cXncjjVDaS6_EQN5W7mZ5Fja-rsvFhS_HyTwjCl7P9DEI3791jLHsVJ448LItGY5cdpbinfo60XFBPV-zt8uYKwfO2KMJVibrlqt6M1t2y4WsjuFQPKrTCw6M3XOPJVhfVXEZOnpiUSs4ykYAEsGIeMzuuHd0XFcDh-qbt4K77ijvimnd4VajUkhTAPh7nnV-mRJvuWvifTEdjjScmtLX-G6sCmWsMWE4Lu3D_-7w2KJV3D3q0D3iZ8K3Dod_AQWPN5M",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 39,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "17974687567072016447",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:17974687567072016447,headlineOfferDocid:17974687567072016447,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "SGKHZXicdVRJruvYDU2QDWQJf5wPA2otyw8eqLnqrP7KkqyJoV6yWsvqrA3UNj5eNUBlFCQBspYqIFlLXEEyzIAEQfKQBHhw_vW7P36m5T9SZmbDXnLZeBf3o2XiV3HsmMPP_dAlUzyWyd9RiqaI_YEi9xRCYQi6Jwjq5zgcw7rLy-TbX4s0TOqyTY0sSwe-i_8P5M9lE-bpf-p_w0iSQnGUIGmCxGmUxvb774fk-e3Hx5QOr78w8AK_uuXcRV1XfUXJH_P-jfr2ffOb6-fxs8h_mKY6_eVPy1eOkS2Zk6-O747XRuhVgBahKLyuvt4lklKooJ4CsS4-8_qzbD-L-jNtf-rCfs7iX3__HXjIHDfJrHXpe5e3EYgIrXbX29BRDMPT75HDXhO8LgKvaHW0Dh1MX4JKES6-zoW8XsbVuvmYgodY4jmSMOlo0BhSsXme3gR3to_xAESSuwU1i16Rvtab9f6eMWteoGlYP7husQ8wura82rJwFzh1H4ZVN6p-wV6xwxa1eqZttQdF3dUwRXRbfe_guh01QuGI8hoh2hi3duB46DUQhcpplZchjllSoqYmsWZc5YSGgdHZlMq915cEWUnYXJAEG3Wnql6xpC3OhfxtN5FcbNbfBDUSx9UWXT8GNBk2wSNBki31UBSiNOo06OViy35wETCrERYoBNz1hd5jybYvvB7YuD1bTh7KlQBiXCaD2lYhVhuecFjcit5CkUCCd97Ca9lwXNsQaSUSwA_rc8h-QRiBHKGxn1doqCatqPUhtqzH4znlFNKYszdYxzezUATfYweEwKmf4jc_yvTXP_zzJtqAY0yHk5gTQjPngrOXfNcgehFIMod7kArudKaGXNU_d9JOq1jRHhxwlm-xoQ8T8uRAaPVdtQIXqem2kKqsj-DBKFuro3kYxSXlaR9foMHB05txH19uN5jG05DuoGObJ4bVC2ZfvpreIysbMIeduBmM1BqALs60pPBYZV46bSixWxopFkklyQxQ5yyvF57ZF_fC97ebfJ7UwxgHYpbddZpXctIa-a3jpujsttTrvR0wNifdIKMBKDvgxOWWvAsB-_GFAdyJCUMaKP0kVHt_pPjrww5g45PWMq7q1ee4_gYPiHFtQ4vaD2aqbPSTDkfQb_nHF9EwRBXcGPYCwQ34QDMd2dBPMn9C0IhCiCQjcTTJMjo9Otrpfz8gsSN3Go6yecL2CH7cIyh-DGMEOe6z-BihCXKMKDI5pgcMO8YYne2O8OTE_CHkTabz7PIw35XDJSyeDPHxhXdPC8EBu5xZdV-Fi1kAf34QriLuHkheALb7-KK_D-IeMccxAGIWYI1V5KEkWLezYWBwrBICQ111drllqiukw4gd2LQ8XaoByRUFyUN1jViY04xwJhO3hgkOPQWcGz-uJl8jJDutWvauwUGFVktZMAMwlDr8vpa7V73ScuuUyDyXXfSkpjD1tzsfqYUoHEw5kBdntfp7OnvzOWfoW3K-Pcc5SkLHYoLUZqMkjx0yfb8Mcdvzk_Mv8mB7VJBiC8CkyvCkIIND3ZxJYlOJLbcXCiXXh2yGjRvb2-76eupp5Kad-Ep019tL7SIt_M7XNKm4cuUwGaZLwJtJskHYFAgbI9m5PDPgZVsSHJjMFOOD8jqTcUHMr8U7ZNSNASYy1sFGZe16Ux5GQ--ZkNYQFAqsMr1gT9kdM67B9roX174lJ9pteEfe8UDEKAGN6QPzps7looLT_au3gafmyG-LSc1hNv0u4wYP0He8aNw6Jd76VIXnajgM_lYeQtvip77JhL7FmP5WIB_-t4dDVvXOPKPWfUbcgvnW6fRv5Mw2_w",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      },
+      {
+        "position": 40,
+        "title": "Asus Vivobook 15 2021 Thin And Light Laptop Dual Core Intel Celeron N4020 15 6 Inch 39 62 Cm Hd 4Gb Ram 256Gb Ssd Integrated Graphics Windows 11 Home",
+        "product_id": "10776899974604627632",
+        "product_link": "https://www.google.co.in/search?ibp=oshop&q=ASUS Vivobook 15&prds=productid:10776899974604627632,headlineOfferDocid:10776899974604627632,imageDocid:2557131459453919266,pvt:hg&hl=en&gl=in&udm=28",
+        "immersive_product_page_token": "X4YvNXicdZJJrrvaEcYTZQNZwh3nL0uH3vjKA5pDZwOGA4dmYtGDwcDF2MZsINt4uq-RXkZREilreU9K1pKbKBlmUKVSVX2qkr7fP3_z-8-i-XshPMRk1LCYbbJxdk5UpM6DsP15nIb8ns1N_jcCcBy75Xmeo1lAsyTHUuTPWTIn3VA1-Xd_qYsk75q-sMuymOQh-z-SPzXXpCr-M_8ryTAcQRE0w9MMxRM8ybLfT_ntux8_7sX0-rOAfPQNN48hHYb2G8H8WI1fqu--v_47jY_5s65-uN-74pc_PL9Jgu7okh55IZ6jqzIeIVEnqvKKQmvINaM-wu4eq139WXWfTf9Zd59F_9OQjI8y-_W3f4QfuiTdddHxxxHLLkC-CQrfkhKgWDlRL_m1Al99PQbdlBLxxV2xjKm4xL3oYGjQkb8oSeB6qT-A4NJ5VsAwrq8zqMVRIhujrygs7mo_I3gvb-fAohTPD8eXHdZz0EdPrBrQ9THrt_kjJF0l9uPAa0cHteOKgKFG2NXwRRxMn4_8LqezgF9wx0854A8emO8h5aJczR8uXAKvM1RbttpUHTufrHG0ikq4xtcMOGvmYTtt68QMuzDW8NG5YM_zb7OpKlFEGMDs6-fRs0Bwva0ujHGM8x61xjNpfSr1GTL3_ZdP6kyuYZwvehj7CulclSdSYil6EZdMc11ftmKXch-OVyV6q8CM0pm4szTfy5ectHCiuYzjx4utEowPZibolcbDIo0I-MNym8pfgKAwM7LZY0jAk9NFJ9-nvOvrEZSWpp3YCfXVjuB4AlAsuQU0xf6UffHRFL_-7h9n1YWScPIkTdgDXjjUkvusNldg1bGmS1SAuPjCl8dEasfbRtuYrai6kwcP-jmzrekObhJMnHFoF4hBx_e11pZjirZ20zsDL6M0a7jAfH9DtoT2X8S9v53PqMjuU7FBnnvaC6JVC2zzuo4B07pQ2G7U1Ra03oZ8feA1Qybbkz-YU0Oei9RwGC7PH5DwDvriywJbX-owXM_64X7czlmsluXF4mWjYpxZXgfpnh5wz72-rkPBlbQzEkyIdA_upcrRNwkU398EKO2FJOGhMd6Vlg1nTo4-3BhdQ8Z5zssxCiVpPKMtsKM-cTh2OhXGyt_4ZIbjWr2_qbatHuFZEH0EzzCE5snTbWuvy3tApByg85KhiLws-WLnmfv_ecCQO2k_7fTTnmQBtWMBQe2SDIAdW2a7lMjBLuWYfFdsSXKXkXy52aG9l8nbRD4JQ-A228fF2PpJfRPo9zcZ75-0BN3mIR7ZNnmeahg-PmhsqJsPUNVQHN7frK-HpI9MkgSISAeK9qLKSFOc88G2STS3OU0S-PjA0vPetWAg6Q1czap4thOoDANUyXFJRVTxgnJgctyhnEKBAQ_XMGvvoUlrbtH24sVE0xE5PeegEqJEG6jL0mxe3cLrvdeAx6MZ0ht3T4pwvcjpsVaV7UmP9ae3OOOleASPQyXw5_xwvs2PNE88R4gLV0zzKvOY4ssygPvDTQp9fXIDLi7IJyS11g60uERTdz0w9Hqk18p9cgSzfOin5Iozd91Er5tVpLgY1Fdu4YDV-qf2lDehaWp1JDXT3T5hGp1PjBgn1xqIGSgPzUGAL9fR0CSUJzXbGq8Dk9X04_UMtiV3FuAJzF28cmW_nI0P-8qzQsKbgECKaNxfaOTcQZiXeH1d6mjsmTuPr7Knb2SokpxCZPxW-ELH949wf_kWrPBmevpXZIzpCat10SlbhsRX_TSl5Z4Hy-2o3BbbEyjLa2lzzW7WqtPWmpGW5zMh-u-OBJbjRbilPb6l0pMMnf3-X6A-N0c",
+        "source": "LowestRate Shopping",
+        "price": "₹19,790",
+        "extracted_price": 19790,
+        "delivery": "Free delivery"
+      }
+    ]
+  }
+}

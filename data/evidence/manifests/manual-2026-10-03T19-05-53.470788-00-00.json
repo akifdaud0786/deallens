@@ -1,0 +1,42 @@
+{
+ "run_id": "manual-2026-10-03T19:05:53.470788+00:00",
+ "trigger": "manual",
+ "target_time": null,
+ "started_at": "2026-10-03T19:05:53.470788+00:00",
+ "finished_at": "2026-10-03T19:05:55.558679+00:00",
+ "status": "completed",
+ "searches": [
+  {
+   "attempt_no": 1,
+   "plan": "vivobook15-broad@1",
+   "params": {
+    "engine": "google_shopping",
+    "q": "ASUS Vivobook 15",
+    "gl": "in",
+    "hl": "en",
+    "google_domain": "google.co.in",
+    "location": "Mumbai,Maharashtra,India",
+    "no_cache": "true"
+   },
+   "status": "succeeded",
+   "started_at": "2026-10-03T19:05:53.899426+00:00",
+   "search_id": "6ac152128b61d60fbfaf9cc9",
+   "raw_ref": {
+    "path": "data/evidence/raw/shopping/20261003T190553Z_manual-2026-10-03T19-05-53.470788-00-00_vivobook15-broad@1_1.json",
+    "sha256": "449c47934dfb5c1446407f859f6ec2b975783b7b689bcde84b5df5de99fcb7a4"
+   },
+   "error": null
+  }
+ ],
+ "credits_before": 247,
+ "skip_reason": null,
+ "config_versions": {
+  "products": "products-1",
+  "plans": "plans-1",
+  "sellers": "seller-map-1",
+  "rules": "rules-1",
+  "coverage": "coverage-1",
+  "collector": "collector-1"
+ },
+ "failure_reason": null
+}

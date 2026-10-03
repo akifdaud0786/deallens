@@ -1,0 +1,5 @@
+# Raw responses and run manifests are the source of truth; SQLite is a disposable projection
+
+Every SerpApi response is saved unmodified with DealLens's own `fetched_at`, and every Observation Run writes an append-only manifest (including failed and skipped Searches). Observations, Matches, Inclusion, Coverage and Claims are always derived from these files plus versioned configuration, so the database can be deleted and rebuilt with identical results. We chose this over parsing into SQLite at collection time because matching and inclusion rules were still uncertain when collection had to start (deadline 10 Oct 2026), and because "every price traces back to the original response" is the product's core promise.
+
+Update (codebase design, 2026-10-03): a raw response with no Run Manifest (process died mid-run) is an orphan; it stays visible in the ledger but never counts as a run. The 3 Oct probe files are registered in `data/evidence/probes.json` as manifest-less probes for development only.

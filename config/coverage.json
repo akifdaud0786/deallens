@@ -1,0 +1,5 @@
+{
+  "version": "coverage-1",
+  "limited_min_days": 2, "limited_min_runs": 2,
+  "sufficient_min_days": 5, "sufficient_min_runs": 8, "sufficient_min_sellers": 2
+}

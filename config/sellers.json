@@ -1,0 +1,10 @@
+{
+  "version": "seller-map-1",
+  "storefront_to_seller": {},
+  "related_groups": [
+    {"group_id": "asus-official", "storefronts": ["asus.com", "ASUS eshop IN"], "status": "unresolved",
+     "note": "May be the same commercial seller; not proven."},
+    {"group_id": "flipkart-family", "storefronts": ["Flipkart", "Shopsy By Flipkart"], "status": "unresolved",
+     "note": "Shopsy is a Flipkart property; seller independence not proven."}
+  ]
+}

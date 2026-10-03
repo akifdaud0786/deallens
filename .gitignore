@@ -1,0 +1,18 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/cache/
+data/*.db
+data/private/
+data/projection/
+*.tmp
+.pytest_cache/
+src/*.egg-info/
+# Raw SerpApi responses contain account/archive URLs; not publishable until the SerpApi Terms are checked.
+data/evidence/raw/
+
+# Generated/local files: never tracked
+build/
+prototype/out/
+.claude/

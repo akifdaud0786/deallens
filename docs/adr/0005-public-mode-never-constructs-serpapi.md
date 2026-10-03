@@ -1,0 +1,3 @@
+# Public deployment never constructs the SerpApi adapter
+
+The public deployment runs the Streamlit app over a prebuilt SQLite projection and shareable evidence only; the code path that builds the live SerpApi adapter exists only in the CLI composition root and requires both `DEALLENS_MODE=live` and `SERPAPI_API_KEY`. We chose absence over a disabled button or a rate limit because any reachable paid call lets anonymous visitors spend the 250-credit free plan, and because Immersive raws (reviewer names) must never be deployed. Consequence: "Investigate now" in public shows only sanitized cached Investigations, clearly labelled as cached.

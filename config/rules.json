@@ -1,0 +1,7 @@
+{
+  "version": "rules-1",
+  "cross_border_storefront_patterns": ["desertcart", "ubuy", "microless"],
+  "used_keywords": ["refurbished", "renewed", "used", "open box", "open-box", "pre-owned"],
+  "outlier": {"min_sample": 5, "threshold": 0.35, "provisional": true},
+  "indistinguishable_policy": "storefront_title_prices@1"
+}

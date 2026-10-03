@@ -1,0 +1,46 @@
+{
+  "version": "plans-2",
+  "plans": [
+    {
+      "plan_id": "vivobook15-broad",
+      "version": 1,
+      "status": "retired",
+      "effective_from": "2026-10-03T00:00:00+00:00",
+      "rationale": "3 Oct broad probe surfaced all three SKUs; the bare model-number query for X1504VAP-BQ224WS returned none.",
+      "params": {
+        "engine": "google_shopping",
+        "q": "ASUS Vivobook 15",
+        "gl": "in",
+        "hl": "en",
+        "google_domain": "google.co.in",
+        "location": "Mumbai,Maharashtra,India"
+      },
+      "serves": [
+        "asus-x1504vap-bq224ws",
+        "asus-x1504vap-bq541ws",
+        "asus-x1504va-nj2324ws"
+      ],
+      "retired_at": "2026-10-03T19:30:00+00:00"
+    },
+    {
+      "plan_id": "vivobook15-broad",
+      "version": 2,
+      "status": "provisional",
+      "effective_from": "2026-10-03T19:30:00+00:00",
+      "rationale": "Watchlist change: X1504VAP-BQ541WS replaced by X1504MA-BQ832WS. Same query parameters as @1; history collected under @1 is not combined with @2.",
+      "params": {
+        "engine": "google_shopping",
+        "q": "ASUS Vivobook 15",
+        "gl": "in",
+        "hl": "en",
+        "google_domain": "google.co.in",
+        "location": "Mumbai,Maharashtra,India"
+      },
+      "serves": [
+        "asus-x1504vap-bq224ws",
+        "asus-x1504ma-bq832ws",
+        "asus-x1504va-nj2324ws"
+      ]
+    }
+  ]
+}

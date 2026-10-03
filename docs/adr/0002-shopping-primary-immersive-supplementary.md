@@ -1,0 +1,3 @@
+# Google Shopping is the only source of price statistics; Immersive Product is on-demand and private
+
+Scheduled collection uses only `google_shopping`. `google_immersive_product` is used only for on-demand Investigations, its Offers never enter statistics or Coverage, and its raw responses stay local because they contain reviewers' names and review text. The live probe (3 Oct 2026) showed Immersive returning seven offers from one marketplace, a different model variant than the search result, a `price_range` inconsistent with its own offers, and no per-store `original_price` or rating, while doubling the credit cost of each snapshot.

@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "fetched_at": "2026-10-03T14:05:10.607212+00:00",
+    "kind": "immersive",
+    "params": {
+      "engine": "google_immersive_product",
+      "more_stores": "true",
+      "no_cache": "true"
+    },
+    "search_id": "6ac10b94b9e86975cdf353a4",
+    "status": "Success",
+    "usage_before": {
+      "this_month_usage": 1,
+      "plan_searches_left": 249,
+      "total_searches_left": 249
+    },
+    "usage_after": {
+      "this_month_usage": 1,
+      "plan_searches_left": 249,
+      "total_searches_left": 249
+    },
+    "credits_used": 0
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac10b94b9e86975cdf353a4",
+      "status": "Success",
+      "created_at": "2026-10-03 14:05:08 UTC",
+      "processed_at": "2026-10-03 14:05:08 UTC"
+    },
+    "product_results": {
+      "title": "Asus Vivobook 15 X1504VA-NJ2324WS",
+      "brand": "ASUS",
+      "rating": 4.9,
+      "reviews": 60,
+      "price_range": "₹61,198-₹61,400",
+      "stores": [
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKNRX100&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "In stock online",
+            "Free delivery by 12 Oct"
+          ],
+          "price": "₹61,599",
+          "extracted_price": 61599,
+          "shipping": "Free",
+          "total": "₹61,599",
+          "extracted_total": 61599
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKFSFQIR&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "In stock online",
+            "Free delivery by 12 Oct"
+          ],
+          "price": "₹61,400",
+          "extracted_price": 61400,
+          "shipping": "Free",
+          "total": "₹61,400",
+          "extracted_total": 61400
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKLV5QTU&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "In stock online",
+            "Free delivery by 12 Oct"
+          ],
+          "price": "₹62,772",
+          "extracted_price": 62772,
+          "shipping": "Free",
+          "total": "₹62,772",
+          "extracted_total": 62772
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKTW8YMF&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "Out of stock online",
+            "Free delivery"
+          ],
+          "price": "₹47,990",
+          "extracted_price": 47990,
+          "shipping": "Free",
+          "total": "₹47,990",
+          "extracted_total": 47990
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKNDVQX6&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "Out of stock online",
+            "Free delivery"
+          ],
+          "price": "₹59,875",
+          "extracted_price": 59875,
+          "shipping": "Free",
+          "total": "₹59,875",
+          "extracted_total": 59875
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKNTX6F2&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "Out of stock online",
+            "Free delivery"
+          ],
+          "price": "₹63,591",
+          "extracted_price": 63591,
+          "shipping": "Free",
+          "total": "₹63,591",
+          "extracted_total": 63591
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/asus-vivobook-15-2025-office-2024-m365-basic-intel-core-i3-13th-gen-1315u-8-gb-512-gb-ssd-windows-11-home-x1504va-nj3700ws-thin-light-laptop/p/itmf31c79724a398?pid=COMHCQ5ECZZV6THK&lid=LSTCOMHCQ5ECZZV6THKBF0VJY&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+          "title": "Asus Vivobook 15 2025 Office 2024 + M365 Basic*, Intel Core I3 13th Gen 1315u - 8 Gb/512 Gb Ssd/Windows 11 Home X1504va-nj3700ws Thin Light Laptop",
+          "details_and_offers": [
+            "Out of stock online",
+            "Free delivery"
+          ],
+          "price": "₹54,870",
+          "extracted_price": 54870,
+          "shipping": "Free",
+          "total": "₹54,870",
+          "extracted_total": 54870
+        }
+      ]
+    }
+  }
+}

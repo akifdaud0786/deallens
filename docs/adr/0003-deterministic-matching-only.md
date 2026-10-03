@@ -1,0 +1,3 @@
+# Listings are attributed to products only by deterministic alias matching or human Listing Pins
+
+An Observation belongs to a Tracked Product only if a hand-confirmed Alias of its Model Key appears in the normalized title, or a human has pinned that Listing. No fuzzy, embedding or LLM matching, even though this leaves relevant listings whose titles lack the model key unmatched (seen live on 3 Oct 2026). A wrong match silently corrupts price history, while a missed match stays visible in the Evidence Ledger as `unmatched`; for a product whose promise is evidence, lower recall is the cheaper failure.

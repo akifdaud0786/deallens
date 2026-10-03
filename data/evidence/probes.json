@@ -1,0 +1,8 @@
+{
+  "note": "3 Oct 2026 live probes captured before Run Manifests existed. Development fixtures only.",
+  "probes": [
+    "data/cache/20261003T140442Z_shopping.json",
+    "data/cache/20261003T140455Z_shopping.json",
+    "data/cache/20261003T144432Z_shopping.json"
+  ]
+}
