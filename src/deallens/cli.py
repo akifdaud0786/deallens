@@ -80,6 +80,9 @@ def main(argv=None, env=None) -> int:
     sl = sub.add_parser("slot", help="print the explicit IST slot for a scheduler cron (no network)")
     sl.add_argument("--cron", required=True)
     sl.add_argument("--now", default=None, help="UTC ISO time; defaults to the current time")
+    sv = sub.add_parser("serve", help="read-only JSON API + built React frontend (no SerpApi calls)")
+    sv.add_argument("--host", default="127.0.0.1")
+    sv.add_argument("--port", type=int, default=8000)
     inv = sub.add_parser("investigate")
     inv.add_argument("observation_id")
     args = ap.parse_args(argv)
@@ -97,6 +100,11 @@ def main(argv=None, env=None) -> int:
             except ValueError as e:
                 print(str(e), file=sys.stderr)
                 return 2
+            return 0
+        if args.cmd == "serve":
+            import uvicorn
+            from deallens.api import create_app
+            uvicorn.run(create_app(root, static_dir=root / "frontend" / "dist"), host=args.host, port=args.port)
             return 0
         if args.cmd == "ledger":
             from deallens.public import open_public_reader

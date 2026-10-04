@@ -63,7 +63,8 @@ Research notes on the API, from SerpApi's own documentation and live tests, are 
 | Immutable evidence + Run Manifests | Write-once, atomic, SHA-256 verified; every attempted call recorded as succeeded / repeat / failed / skipped |
 | Coverage-gated Claims | Deterministic templates with claim IDs and full provenance |
 | Evidence Ledger | Every observation, included or excluded, with reasons, `search_id`, raw path and timestamp |
-| Streamlit UI | Read-only: market snapshot, product detail, current market, deal intelligence, observed price points, coverage, evidence, ledger |
+| Streamlit UI | Read-only, decision-first: lowest observed listed price, "is this a good price?" decision from the existing Coverage Level, today's observed market, what we know / don't know, observed price points, claim evidence, coverage, active vs retired plan, ledger |
+| React UI + read-only API | Same view models served as JSON by a GET-only FastAPI adapter (`deallens.cli serve`) and rendered by React; no logic is duplicated in the browser |
 | Scheduled collection | GitHub Actions, 09:00 / 15:00 / 21:00 IST |
 | Credit safety | Single `CallBudget` gate, 60-credit floor, max calls per run, no retry after timeouts |
 | On-demand Immersive investigation | CLI only; raw responses stored privately; sanitized view for display |
@@ -160,7 +161,7 @@ Budget for a 7-day collection: 3 slots × 7 days = **21 credits**, with collecti
 
 ## Tech stack
 
-Python 3.10+ (standard library for HTTP, SQLite, JSON, time zones) · SerpApi (Google Shopping, Immersive Product, Account APIs) · SQLite · Streamlit, Altair, pandas (UI extra) · pytest · GitHub Actions · `tzdata` on Windows.
+Python 3.10+ (standard library for HTTP, SQLite, JSON, time zones) · SerpApi (Google Shopping, Immersive Product, Account APIs) · SQLite · Streamlit, Altair, pandas (`ui` extra) · FastAPI, Uvicorn (`api` extra) · React, TypeScript, Vite, Tailwind CSS, Recharts (`frontend/`) · pytest · GitHub Actions · `tzdata` on Windows.
 
 ## Local setup
 
@@ -169,7 +170,7 @@ git clone https://github.com/akifdaud0786/deallens.git
 cd deallens
 python -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\activate
-pip install -e ".[dev,ui]"
+pip install -e ".[dev,ui,api]"
 cp .env.example .env                 # then set SERPAPI_API_KEY (only needed for live commands)
 ```
 
@@ -190,6 +191,25 @@ streamlit run src/deallens/app/main.py
 
 A fresh clone has no evidence (raw responses are not in git), so the UI shows "No observations collected yet." To view collected data, download a `deallens-evidence-<run_id>` artifact from the Actions tab, extract it into `data/` (it contains `evidence/`, `private/` and `projection/`), then run `rebuild` again.
 
+### React UI (read-only)
+
+The React frontend in `frontend/` renders the same view models as Streamlit. A GET-only FastAPI adapter (`src/deallens/api/`) serves them from the local projection; it never constructs a SerpApi client and exposes no raw or private evidence.
+
+Build the frontend once (Node.js 18+), then serve the API and the built UI together:
+
+```bash
+cd frontend && npm install && npm run build && cd ..
+python -m deallens.cli serve
+```
+
+Open http://127.0.0.1:8000. Endpoints: `GET /api/status`, `GET /api/products`, `GET /api/products/{product_key}`; any other method returns 405.
+
+For frontend development, keep `serve` running and start Vite in a second terminal (it proxies `/api` to port 8000):
+
+```bash
+cd frontend && npm run dev
+```
+
 Other commands:
 
 | Command | Network | Cost |
@@ -204,7 +224,7 @@ Live commands require both `DEALLENS_MODE=live` and `SERPAPI_API_KEY`.
 
 ## Testing
 
-**210 tests passed** in the last full run before the scheduled-collector validation (`pytest -vv`, 0 failures). The suite covers parsing, matching, inclusion, coverage gating, claim provenance, the Evidence Store, collector credit safety (guard, budget, retries, duplicate slots, failed calls), projection determinism and privacy, the UI (Streamlit `AppTest`), architecture boundaries, fixture hygiene and the workflow configuration. No test touches the network.
+**235 tests passed** in the latest full run (0 failures), plus a successful `npm run build` of the React frontend. The suite covers parsing, matching, inclusion, coverage gating, claim provenance, the Evidence Store, collector credit safety (guard, budget, retries, duplicate slots, failed calls), projection determinism and privacy, the UI (Streamlit `AppTest`), the read-only API (FastAPI `TestClient`), architecture boundaries, fixture hygiene and the workflow configuration. No test touches the network.
 
 ## Limitations and honest scope
 

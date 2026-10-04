@@ -1,5 +1,6 @@
 """Dependency rules from docs/codebase-design.md §3, enforced by reading imports."""
 import ast
+import re
 import os
 import subprocess
 import sys
@@ -145,3 +146,34 @@ def test_app_boundary_check_catches_violations(tmp_path):
         "bad.py: reads environment", "bad.py: imports os", "bad.py: imports sqlite3",
         "bad.py: imports deallens.serpapi.http", "bad.py: imports deallens.collector",
         "bad.py: imports deallens.investigation", "bad.py: imports deallens.analysis"])
+
+
+# ---------- read-only API adapter ----------
+
+API_ALLOWED_DEALLENS = ("deallens.public", "deallens.app.views", "deallens.app.labels", "deallens.text", "deallens.api")
+API_BANNED = {"os", "sqlite3", "subprocess", "urllib", "socket", "requests", "anthropic", "streamlit"}
+
+
+def test_api_adapter_is_read_only_and_presentation_only():
+    found = []
+    for f in sorted((SRC / "api").rglob("*.py")):
+        text = f.read_text(encoding="utf-8")
+        if "os.environ" in text or "getenv" in text:
+            found.append(f"{f.name}: reads environment")
+        for m in imports(f):
+            if m.startswith("deallens") and m != "deallens.app" and \
+                    not any(m == a or m.startswith(a + ".") for a in API_ALLOWED_DEALLENS):
+                found.append(f"{f.name}: imports {m}")
+            elif offenders({m}, API_BANNED):
+                found.append(f"{f.name}: imports {m}")
+        assert not re.search(r"@app\.(post|put|patch|delete)", text), f.name
+    assert (SRC / "api").exists() and found == []
+
+
+def test_api_never_loads_the_live_adapter_even_with_a_key(tmp_path):
+    code = ("import sys; from deallens.api import create_app; create_app(sys.argv[1]); "
+            "bad = [m for m in sys.modules if m in ('deallens.serpapi.http', 'deallens.collector', "
+            "'deallens.investigation', 'urllib.request', 'streamlit')]; print(bad); sys.exit(1 if bad else 0)")
+    env = {**os.environ, "SERPAPI_API_KEY": "would-be-live-key", "DEALLENS_MODE": "live", "PYTHONPATH": str(SRC.parent)}
+    r = subprocess.run([sys.executable, "-c", code, str(tmp_path)], env=env, capture_output=True, text=True)
+    assert r.returncode == 0, r.stdout + r.stderr
