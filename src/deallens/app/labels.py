@@ -38,6 +38,18 @@ MATCH_OUTCOMES = {
     "ambiguous": "Ambiguous",
 }
 
+CLAIM_KINDS = {
+    "current_lowest_listed": "Current lowest listed price",
+    "seller_count": "Sellers observed",
+    "current_spread": "Price spread today",
+    "listed_discount": "Seller-displayed list price",
+    "change_since": "Change since first observation",
+    "observed_low": "Observed low",
+    "observed_high": "Observed high",
+    "observed_average": "Observed average",
+    "excluded_count": "Excluded observations",
+}
+
 SEARCH_STATUS = {"succeeded": "Succeeded", "repeat": "Repeat (cached)", "failed": "Failed", "skipped": "Skipped"}
 
 
@@ -55,6 +67,10 @@ def coverage_level(code: str) -> str:
 
 def history_status(code: str) -> str:
     return _label(HISTORY_STATUS, code)
+
+
+def claim_kind(code: str) -> str:
+    return _label(CLAIM_KINDS, code)
 
 
 def run_source(code: str) -> str:

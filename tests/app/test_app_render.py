@@ -87,7 +87,8 @@ def test_list_price_label_and_claims_render_verbatim(tmp_path, config, fixture_l
 
 def test_limited_history_renders_observed_points(tmp_path, config):
     runs = [synthetic_run(f"d{d}", f"2026-10-0{4 + d}T03:30:00+00:00",
-                          [synthetic_row(1, "Amazon.in", T, 72800 - 100 * d), synthetic_row(2, "Croma", T, 73990)])
+                          [synthetic_row(1, "Amazon.in", T, 72800 - 100 * d), synthetic_row(2, "Croma", T, 73990)],
+                          plan="vivobook15-broad@2")
             for d in range(3)]
     build(tmp_path, build_ledger(synthetic_evidence(*runs), config), config)
     at = render(tmp_path, product="asus-x1504vap-bq224ws")
@@ -102,8 +103,8 @@ def test_limited_history_renders_observed_points(tmp_path, config):
 
 def test_excluded_only_product_shows_excluded_count_and_no_price(tmp_path, config):
     rows = [synthetic_row(1, "desertcart.in", T, 99000)]
-    build(tmp_path, build_ledger(synthetic_evidence(synthetic_run("r1", "2026-10-04T03:30:00+00:00", rows)), config),
-          config)
+    run = synthetic_run("r1", "2026-10-04T03:30:00+00:00", rows, plan="vivobook15-broad@2")
+    build(tmp_path, build_ledger(synthetic_evidence(run), config), config)
     at = render(tmp_path, product="asus-x1504vap-bq224ws")
     text = all_text(at)
     assert not at.exception
@@ -162,10 +163,11 @@ def test_seller_count_labels_name_their_window(tmp_path, config, fixture_ledger)
 
 
 def test_coverage_wording_uses_observed_calendar_days(tmp_path, config):
-    runs = [synthetic_run(f"d{d}", f"2026-10-0{4 + d}T03:30:00+00:00", [synthetic_row(1, "Amazon.in", T, 72800 - d)])
+    runs = [synthetic_run(f"d{d}", f"2026-10-0{4 + d}T03:30:00+00:00", [synthetic_row(1, "Amazon.in", T, 72800 - d)],
+                          plan="vivobook15-broad@2")
             for d in range(2)]
     build(tmp_path, build_ledger(synthetic_evidence(*runs), config), config)
     text = all_text(render(tmp_path, product="asus-x1504vap-bq224ws"))
     assert "Limited history · 2 observed calendar days · 2 runs" in text
-    assert "Observed calendar days / runs" in text
+    assert "Observed calendar days" in text and "Production runs" in text
     assert "at least 2 observed calendar days and 2 runs" in text

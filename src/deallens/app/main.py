@@ -31,19 +31,28 @@ def main() -> None:
         ui.footer()
         return
 
-    selected = ui.market_snapshot(views.snapshot_cards(reader.watchlist()))
+    plans = reader.plans()
+    watchlist = reader.watchlist()
+    coverage_plans = {w["product_key"]: reader.product(w["product_key"])["coverage"]["plan"] for w in watchlist}
+    cards = views.snapshot_cards(watchlist, plans, coverage_plans)
+    selected = ui.product_picker(cards)
     if selected:
         product = views.product_view(reader.product(selected), reader.current_market(selected),
-                                     reader.price_series(selected), reader.ledger(selected), reader.plans())
+                                     reader.price_series(selected), reader.ledger(selected), plans,
+                                     policy=info.get("coverage_policy"))
+        ui.hero_and_decision(product)                      # first viewport: price, question, answer, why
         st.divider()
-        ui.product_identity(product)
-        ui.kpis(product)
-        ui.current_market(product)
-        ui.deal_intelligence(product)
-        ui.price_history(product)
-        ui.coverage(product, info.get("coverage_policy"))
-        ui.evidence(product)
+        ui.todays_market(product)
+        ui.knowledge(product)
+        if product.plan.is_current:
+            ui.price_history(product)
+        if product.plan.is_current or not product.plan.label:  # retired evidence is shown only in its own section
+            ui.why(product)
+        ui.retired_evidence(product)
+        ui.coverage(product, info.get("coverage_policy"), state.latest_observation_at)
+        ui.tracking_plan(product, plans)
         ui.evidence_ledger(product)
+    ui.overview(cards)
     ui.unattributed(views.ledger_rows(reader.unattributed()))
     ui.footer()
 
