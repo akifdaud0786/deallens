@@ -36,7 +36,7 @@ export default function App() {
         <Tagline />
         {error && <Card><p className="text-sm">Could not reach the DealLens API: {error}</p></Card>}
         {state && !state.show_products && <Card><p className="text-sm">{state.message}</p></Card>}
-        {state?.warnings.map((w) => <Card key={w} className="mb-4 border-amber-200 bg-amber-bg"><p className="text-xs text-amber-ink">{w}</p></Card>)}
+        {state?.warnings.map((w) => <p key={w} className="mb-4 text-xs text-muted">{w}</p>)}
 
         {cards.length > 0 && (
           <nav className="mb-6 flex flex-wrap gap-2" aria-label="Tracked products">

@@ -56,8 +56,9 @@ def test_missing_probes_become_a_warning(probe_ledger, config, tmp_path):
     r = project(probe_ledger, config, tmp_path, missing=("data/cache/a.json", "data/cache/b.json"))
     s = views.page_state("ready", r.info())
     assert s.show_products and s.message is None and s.as_of == AS_OF
-    assert s.warnings == ("2 registered probe files are missing from this checkout: data/cache/a.json, "
-                          "data/cache/b.json. Observations from them are not shown.",)
+    assert s.warnings == ("2 development probe files are not part of this build (data/cache/a.json, "
+                          "data/cache/b.json). Probes never count toward statistics, so nothing shown here "
+                          "depends on them.",)
 
 
 # ---------- market snapshot ----------

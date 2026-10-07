@@ -36,8 +36,9 @@ def page_state(status: str, info: Optional[dict]) -> PageState:
     missing = info.get("missing_probes") or []
     warnings = ()
     if missing:
-        warnings = (f"{len(missing)} registered probe file{'s are' if len(missing) != 1 else ' is'} missing from this "
-                    f"checkout: {', '.join(missing)}. Observations from them are not shown.",)
+        warnings = (f"{len(missing)} development probe file{'s are' if len(missing) != 1 else ' is'} not part of this "
+                    f"build ({', '.join(missing)}). Probes never count toward statistics, so nothing shown here "
+                    "depends on them.",)
     if status == "missing":
         return PageState(status, False, "No DealLens projection has been built yet. Run `deallens rebuild` to create one.",
                          None, ())
