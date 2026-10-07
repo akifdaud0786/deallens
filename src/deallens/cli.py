@@ -83,6 +83,8 @@ def main(argv=None, env=None) -> int:
     sv = sub.add_parser("serve", help="read-only JSON API + built React frontend (no SerpApi calls)")
     sv.add_argument("--host", default="127.0.0.1")
     sv.add_argument("--port", type=int, default=8000)
+    ex = sub.add_parser("export-static", help="write the API's JSON as static files for a read-only site")
+    ex.add_argument("--out", default="frontend/dist")
     inv = sub.add_parser("investigate")
     inv.add_argument("observation_id")
     args = ap.parse_args(argv)
@@ -105,6 +107,11 @@ def main(argv=None, env=None) -> int:
             import uvicorn
             from deallens.api import create_app
             uvicorn.run(create_app(root, static_dir=root / "frontend" / "dist"), host=args.host, port=args.port)
+            return 0
+        if args.cmd == "export-static":
+            from deallens.api import export_static
+            written = export_static(root, Path(args.out))
+            print(f"exported {len(written)} files to {args.out}")
             return 0
         if args.cmd == "ledger":
             from deallens.public import open_public_reader

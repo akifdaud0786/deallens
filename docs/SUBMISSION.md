@@ -33,7 +33,7 @@ DealLens never claims an all-time low, a fake discount or a future price, and ne
 
 ## Tech stack
 
-Python (standard library HTTP, SQLite), SerpApi, FastAPI (read-only API), React + TypeScript + Vite + Tailwind CSS + Recharts, Streamlit (alternative UI), pytest (235 tests), GitHub Actions (scheduled collection).
+Python (standard library HTTP, SQLite), SerpApi, FastAPI (read-only API), React + TypeScript + Vite + Tailwind CSS + Recharts, Streamlit (alternative UI), pytest (246 tests), GitHub Actions (scheduled collection).
 
 ## AI tools used (disclosure)
 
@@ -42,4 +42,5 @@ DealLens was built with Claude Code (Anthropic), following Matt Pocock's enginee
 ## Links
 
 - Repository: https://github.com/akifdaud0786/deallens
+- Live read-only site: https://akifdaud0786.github.io/deallens/
 - Demo video: _paste the unlisted YouTube / Google Drive link here_

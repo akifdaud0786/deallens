@@ -1,0 +1,80 @@
+# DealLens public read-only site (GitHub Pages).
+# Rebuilds the projection from evidence the collector already stored in the Actions cache, builds the React UI,
+# writes the API's JSON as static files, and deploys. No SerpApi call, no secret, and the cache is only read.
+name: DealLens publish site
+
+on:
+  workflow_run:
+    workflows: ["DealLens scheduled collector"]
+    types: [completed]
+  workflow_dispatch:
+
+concurrency:
+  group: deallens-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install DealLens
+        run: python -m pip install ".[api]"
+
+      - name: Restore collected evidence (read only)
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            data/evidence
+            data/private
+          key: deallens-evidence-site-${{ github.run_id }}
+          restore-keys: deallens-evidence-
+
+      - name: Rebuild the projection
+        run: python -m deallens.cli --root . rebuild
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Build the React UI
+        working-directory: frontend
+        run: |
+          npm ci
+          npm run build
+
+      - name: Write the read-only API as static JSON
+        run: python -m deallens.cli --root . export-static --out frontend/dist
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
