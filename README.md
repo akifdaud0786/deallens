@@ -145,7 +145,7 @@ Raw JSON plus Run Manifests plus versioned configuration are the **source of tru
 - GitHub may start a scheduled run late or occasionally skip it. A late run keeps its slot; `fetched_at` records the actual time. Skipped slots are not back-filled.
 - Duplicate protection: the slot is normalized to IST, the Run Manifest is write-once, and any time outside the three configured slots is refused before the credit check.
 - `concurrency: deallens-scheduled-collector` (no cancel) prevents overlapping runs.
-- Evidence is persisted **outside git**: chained between runs with the Actions cache and kept for 30 days as a run artifact (`deallens-evidence-<run_id>`).
+- Evidence is persisted **outside git**: raw responses are chained between runs with the Actions cache only; each run publishes a 30-day artifact (`deallens-evidence-<run_id>`) containing just the Run Manifests and the rebuilt projection, because artifacts are downloadable in a public repository and raw responses contain SerpApi account/archive URLs.
 - `SERPAPI_API_KEY` comes from GitHub Actions Secrets and is exposed only to the collect step.
 - `max_attempts = 1`: a timed-out request may already have been billed, so it is not retried.
 
@@ -157,7 +157,7 @@ Budget for a 7-day collection: 3 slots × 7 days = **21 credits**, with collecti
 - Gitignored: `.env`, `data/evidence/raw/` (raw responses contain SerpApi account/archive URLs), `data/private/`, `data/projection/`, `data/cache/`.
 - Immersive raw responses (which contain reviewer names and review text) are written only to `data/private/` and never reach the projection or the UI; the projection lists shareable sources only (regression-tested).
 - The UI is read-only and never constructs a SerpApi client, even when a key is present ([ADR 0005](docs/adr/0005-public-mode-never-constructs-serpapi.md)).
-- Test fixtures are trimmed copies of the 3 Oct 2026 probe responses with all SerpApi URLs and reviewer data removed ([tests/fixtures/README.md](tests/fixtures/README.md)). SerpApi's Terms on redistributing results have not yet been verified, so the repository is kept private.
+- Test fixtures are trimmed copies of the 3 Oct 2026 probe responses with all SerpApi URLs and reviewer data removed ([tests/fixtures/README.md](tests/fixtures/README.md)). SerpApi's [legal terms](https://serpapi.com/legal) (reviewed 7 Oct 2026) prohibit reselling or reproducing the service itself and contain no clause restricting publication of returned results; the fixtures are kept minimal regardless.
 
 ## Tech stack
 
@@ -189,7 +189,7 @@ python -m deallens.cli rebuild
 streamlit run src/deallens/app/main.py
 ```
 
-A fresh clone has no evidence (raw responses are not in git), so the UI shows "No observations collected yet." To view collected data, download a `deallens-evidence-<run_id>` artifact from the Actions tab, extract it into `data/` (it contains `evidence/`, `private/` and `projection/`), then run `rebuild` again.
+A fresh clone has no evidence (raw responses are not in git), so the UI shows "No observations collected yet." To view the latest collected data, download the newest `deallens-evidence-<run_id>` artifact from the Actions tab and extract it into `data/` (it contains `evidence/manifests/` and `projection/deallens.sqlite`). Open the UI directly on that projection; do **not** run `rebuild` afterwards, because the raw responses it would need stay in the Actions cache.
 
 ### React UI (read-only)
 

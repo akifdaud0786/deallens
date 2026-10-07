@@ -6,4 +6,4 @@
 
 `tests/test_fixture_hygiene.py` fails if a SerpApi URL or reviewer field reappears.
 
-**TODO before publishing this repository:** verify SerpApi's Terms of Service on redistributing search results, even trimmed. Until that is confirmed, treat these files as not cleared for public release. Nothing in this repository asserts that they are publishable.
+**Terms check (7 Oct 2026):** SerpApi's [legal terms](https://serpapi.com/legal) prohibit reproducing or reselling the service itself and contain no clause restricting publication of returned search results. These fixtures are still kept to the minimum the tests need, with every SerpApi URL and all reviewer data removed. If SerpApi or the hackathon organizers ask, they can be replaced with synthetic fixtures.

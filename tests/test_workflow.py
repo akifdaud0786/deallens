@@ -64,5 +64,8 @@ def test_evidence_is_persisted_outside_git_and_never_committed(wf):
     assert any(u.startswith("actions/cache/restore@") for u in uses) and any(u.startswith("actions/cache/save@") for u in uses)
     assert any(u.startswith("actions/upload-artifact@") for u in uses)
     for s in steps(doc):
-        if s.get("uses", "").startswith(("actions/cache/", "actions/upload-artifact@")):
-            assert "data/evidence" in s["with"]["path"] and "data/private" in s["with"]["path"]
+        path = s.get("with", {}).get("path", "")
+        if s.get("uses", "").startswith("actions/cache/"):            # raw evidence chain stays in the cache
+            assert "data/evidence" in path and "data/private" in path
+        if s.get("uses", "").startswith("actions/upload-artifact@"):  # artifacts are downloadable in a public repo
+            assert path.split() == ["data/evidence/manifests", "data/projection"], path

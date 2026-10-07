@@ -1,6 +1,6 @@
 # DealLens scheduled collector: one budgeted Shopping call per IST slot (09:00, 15:00, 21:00 IST).
 # All collection logic lives in the CLI (deallens.collector); this file only schedules it.
-# Raw evidence is kept OUT of git: it is chained between runs with the Actions cache and kept as a run artifact.
+# Raw evidence is kept OUT of git and out of artifacts: it is chained between runs with the Actions cache.
 name: DealLens scheduled collector
 
 on:
@@ -64,14 +64,15 @@ jobs:
             data/private
           key: deallens-evidence-${{ github.run_id }}
 
-      - name: Keep this run's evidence and projection
+      # Artifacts are downloadable by anyone in a public repo: publish only run manifests and the projection.
+      # Raw responses (they contain SerpApi account/archive URLs) stay in the Actions cache chain above.
+      - name: Keep this run's manifests and projection
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: deallens-evidence-${{ github.run_id }}
           path: |
-            data/evidence
-            data/private
+            data/evidence/manifests
             data/projection
           retention-days: 30
           if-no-files-found: warn
