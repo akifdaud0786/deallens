@@ -43,4 +43,4 @@ DealLens was built with Claude Code (Anthropic), following Matt Pocock's enginee
 
 - Repository: https://github.com/akifdaud0786/deallens
 - Live read-only site: https://akifdaud0786.github.io/deallens/
-- Demo video: _paste the unlisted YouTube / Google Drive link here_
+- Demo video: https://youtu.be/aFgSzqDQ5Os
